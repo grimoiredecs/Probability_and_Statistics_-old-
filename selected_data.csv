@@ -1,0 +1,2266 @@
+"Product_Collection","Vertical_Segment","Age","Lithography","Recommended_Customer_Price","nb_of_Threads","Cache","TDP","Max_Memory_Size","Max_Memory_Bandwidth","Intel_Hyper_Threading_Technology_","Processor_Base_Frequency"
+"7th Generation","Mobile",316,14,393,4,4,4.5,16,29.8,"Yes",1.3
+"8th Generation","Mobile",317,14,297,8,6,15,32,34.1,"Yes",1.6
+"8th Generation","Mobile",317,14,409,8,8,15,32,34.1,"Yes",1.8
+"IntelA Processors","Desktop",112,32,305,8,10,130,64.23,51.2,"Yes",3.6
+"7th Generation","Mobile",117,14,281,4,4,4.5,16,29.8,"Yes",1.2
+"IntelA Processors","Mobile",115,14,107,2,2,15,16,25.6,"No",1.5
+"IntelA Processors","Mobile",313,22,72,2,1,4.3,4,6.4,"No",1.46
+"IntelA Processors","Desktop",313,22,161,2,12,10,8,21.3,"No",2.41
+"IntelA Processors","Desktop",113,22,42,2,2,55,32,21,"No",2.6
+"Legacy IntelA Processors","Mobile",106,90,250,8,12,88,8,6.4,"Yes",2.8
+"IntelA Processors","Mobile",312,22,134,2,2,35,32,25.6,"No",2.4
+"Legacy IntelA Processors","Mobile",204,90,107,1,22,5.5,16.6,21,"No",1.3
+"IntelA Processors","Mobile",115,14,161,4,2,15,16,25.6,"Yes",1.9
+"IntelA Processors","Mobile",315,14,161,4,2,15,32,34.1,"Yes",2.1
+"IntelA Processors","Mobile",116,14,161,4,22,6,8,25.6,"No",1.6
+"IntelA Processors","Embedded",415,14,7.75,1,8,23,256,34.1,"Yes",0.032
+"IntelA Processors","Desktop",313,22,94,4,22,10,8,21.3,"No",2.41
+"IntelA Processors","Desktop",413,22,94,4,22,10,8,21.3,"No",2.41
+"IntelA Processors","Desktop",116,14,86,4,22,6.5,8,21.3,"No",1.6
+"IntelA Processors","Desktop",217,14,161,4,2,10,8,25.6,"No",1.5
+"IntelA Processors","Mobile",115,14,161,4,22,6,8,17.1,"No",1.6
+"IntelA Processors","Mobile",313,22,161,4,2,7.5,8,17.1,"No",2
+"IntelA Processors","Mobile",413,22,161,4,2,7.5,8,17.1,"No",2.17
+"IntelA Processors","Mobile",114,22,161,4,2,7.5,8,17.1,"No",2.16
+"IntelA Processors","Mobile",314,22,161,4,22,7.5,8,21.32,"No",2.16
+"IntelA Processors","Mobile",316,14,161,4,22,6,8,25.6,"No",1.1
+"IntelA Processors","Mobile",315,14,161,4,2,6,16,29.8,"Yes",1.5
+"IntelA Processors","Mobile",217,14,161,4,2,6,16,29.8,"Yes",1.6
+"IntelA Processors","Mobile",117,14,161,4,2,6,16,29.8,"Yes",1.5
+"IntelA Processors","Mobile",117,14,161,4,2,15,32,34.1,"Yes",2.3
+"IntelA Processors","Mobile",115,14,161,2,2,15,16,25.6,"No",1.9
+"IntelA Processors","Mobile",413,22,161,2,2,11.5,16,25.6,"No",1.2
+"IntelA Processors","Mobile",214,22,134,2,2,37,32,25.6,"No",2.4
+"IntelA Processors","Mobile",313,22,42,2,2,11.5,16,25.6,"No",1.2
+"IntelA Processors","Mobile",413,22,161,2,2,15,16,25.6,"No",1.7
+"IntelA Processors","Mobile",313,22,42,2,2,15,16,25.6,"No",1.7
+"IntelA Processors","Mobile",413,22,134,2,2,37,32,25.6,"No",2.3
+"IntelA Processors","Mobile",312,22,134,2,2,17,32,25.6,"No",1.8
+"IntelA Processors","Mobile",113,22,134,2,2,35,32,25.6,"No",2.5
+"IntelA Processors","Mobile",313,22,134,2,2,17,32,25.6,"No",1.9
+"IntelA Processors","Mobile",113,22,75,2,2,10,32,25.6,"No",1.1
+"Legacy IntelA Processors","Mobile",204,90,85,1,22,5.5,8,12.8,"No",1.2
+"Legacy IntelA Processors","Mobile",204,90,72,1,22,5,16,21.3,"No",1.1
+"Legacy IntelA Processors","Mobile",316,90,225,4,22,5,4,12.8,"No",1
+"Legacy IntelA Processors","Mobile",209,130,856,4,12,7,16,21,"No",1.1
+"Legacy IntelA Processors","Mobile",208,90,134,4,22,7.5,8,12.8,"No",1.6
+"Legacy IntelA Processors","Mobile",204,90,134,4,22,7.5,16,21,"No",1.4
+"Legacy IntelA Processors","Mobile",313,90,304,4,22,7.5,16,21.3,"No",1.5
+"Legacy IntelA Processors","Desktop",305,90,594,4,12,115,16,21,"Yes",3.8
+"Legacy IntelA Processors","Mobile",313,65,10.16,1,5122,5.9,8,12.8,"No",0.8
+"Legacy IntelA Processors","Mobile",405,130,3587,4,12,12,128,59,"No",1.3
+"Legacy IntelA Processors","Desktop",404,90,594,4,12,115,16,21,"Yes",3.8
+"Legacy IntelA Processors","Mobile",106,130,1177,4,5122,24.6,16.38,21.3,"No",0.75
+"Legacy IntelA Processors","Mobile",107,90,225,4,22,27,8,17.1,"No",2.26
+"Legacy IntelA Processors","Desktop",305,90,594,2,12,115,8,17.1,"Yes",3.6
+"Legacy IntelA Processors","Mobile",210,45,491,4,5122,7,2,10.6,"Yes",0.7
+"Legacy IntelA Processors","Server",401,130,1100,4,5122,10.63,2,12.8,"Yes",0.8
+"Legacy IntelA Processors","Mobile",199,90,86,1,22,27,8,10.6,"No",2.13
+"Legacy IntelA Processors","Desktop",404,90,594,4,12,115,16,21,"Yes",3.6
+"Legacy IntelA Processors","Mobile",209,180,1980,4,2562,10.1,16,21,"No",0.4
+"Legacy IntelA Processors","Server",401,130,1980,4,5122,11.61,64,68,"Yes",0.933
+"Legacy IntelA Processors","Mobile",214,90,304,4,22,7.5,2.93,10.6,"No",2.1
+"Legacy IntelA Processors","Desktop",407,90,594,4,12,115,8.3,17.1,"Yes",3.6
+"Legacy IntelA Processors","Mobile",204,90,393,4,22,27,144,34.1,"No",2
+"Legacy IntelA Processors","Server",100,130,1980,4,5122,28.7,8,17.1,"Yes",1.13
+"Legacy IntelA Processors","Desktop",106,90,68,1,2,73,8,21,"No",4
+"Legacy IntelA Processors","Desktop",205,90,74,2,12,84,8,17.1,"Yes",3.4
+"Legacy IntelA Processors","Desktop",108,130,1980,4,5122,68.4,144,25.6,"Yes",2.8
+"Legacy IntelA Processors","Mobile",204,90,250,4,22,7.5,2,10.6,"No",2
+"Legacy IntelA Processors","Server",401,130,307,4,5122,30.4,64,59.7,"Yes",1.26
+"Legacy IntelA Processors","Desktop",404,90,163,4,12,84,8,17.1,"Yes",3.4
+"Legacy IntelA Processors","Desktop",102,130,1850,4,5122,62.6,16,21,"No",2.6
+"Legacy IntelA Processors","Desktop",404,90,178,8,12,84,16,21,"Yes",3.4
+"Legacy IntelA Processors","Mobile",106,90,37,1,22,27,8,17.1,"No",1.86
+"Legacy IntelA Processors","Desktop",102,130,1980,4,2562,23.2,384,85,"No",0.9
+"Legacy IntelA Processors","Server",108,130,1100,4,5122,32.2,144,25.6,"Yes",1.4
+"Legacy IntelA Processors","Desktop",305,90,64,2,1,65,16.38,21.3,"No",3.8
+"Legacy IntelA Processors","Desktop",102,130,1100,4,5122,61,144,25.6,"No",2.5
+"Legacy IntelA Processors","Server",413,130,3692,4,5122,12.1,2,12.8,"Yes",1
+"Legacy IntelA Processors","Mobile",204,90,187,4,22,21,8,12.8,"No",1.8
+"Legacy IntelA Processors","Desktop",100,180,1980,4,2562,22.5,384,85,"No",0.85
+"Legacy IntelA Processors","Desktop",204,90,594,4,12,115,8,17.1,"Yes",3.4
+"Legacy IntelA Processors","Desktop",106,65,177,4,4,95,8,17.1,"Yes",2.8
+"Legacy IntelA Processors","Desktop",102,130,1980,4,5122,59.8,8,10.6,"No",2.4
+"Legacy IntelA Processors","Desktop",111,180,3692,4,2562,27.3,144,25.6,"No",0.933
+"Legacy IntelA Processors","Mobile",204,90,225,2,22,7.5,2,6.4,"No",1.8
+"Legacy IntelA Processors","Desktop",106,180,3692,4,2562,20.8,16.38,21.3,"No",0.8
+"Legacy IntelA Processors","Desktop",104,90,1663,4,12,103,16.38,21,"Yes",3.4
+"Legacy IntelA Processors","Desktop",304,90,369,4,12,84,8,17.1,"Yes",3.2
+"Legacy IntelA Processors","Desktop",102,130,1850,4,5122,57.1,144,25.6,"No",2.2
+"IntelA Processors","Mobile",313,22,75,2,1,35,32,25.6,"No",2.1
+"IntelA Processors","Mobile",116,22,86,4,22,10,8,21.3,"No",2.41
+"IntelA Processors","Server",212,32,42,2,5,40,375,25,"No",1.2
+"IntelA Processors","Embedded",114,22,156,2,6,40,384,38.4,"Yes",1.4
+"Legacy IntelA Processors","Mobile",404,130,856,4,5122,20.8,64,85,"No",1.4
+"Legacy IntelA Processors","Desktop",211,32,64,2,3,65,32,17,"No",2.6
+"Legacy IntelA Processors","Mobile",207,90,105,1,22,27,16.38,21,"No",1.73
+"Legacy IntelA Processors","Desktop",100,180,1980,4,2562,26.1,8,17.1,"No",0.866
+"Legacy IntelA Processors","Desktop",107,180,307,4,2562,19.5,8,12.8,"No",0.75
+"Legacy IntelA Processors","Desktop",100,130,1850,4,5122,89,144,25.6,"Yes",3.4
+"Legacy IntelA Processors","Desktop",405,90,42,2,12,84,8,17.1,"Yes",3.2
+"Legacy IntelA Processors","Desktop",102,130,856,4,5122,54.3,16,21,"No",2
+"Legacy IntelA Processors","Mobile",209,180,1177,4,2562,9.7,144,25.6,"No",0.6
+"Legacy IntelA Processors","Mobile",109,130,1980,4,5122,25.8,144,25.6,"No",1.5
+"Legacy IntelA Processors","Desktop",211,32,64,2,3,35,32,17,"No",2.2
+"Legacy IntelA Processors","Mobile",309,130,3587,4,12,7,8.01,12.8,"No",0.9
+"Legacy IntelA Processors","Desktop",203,180,856,4,2562,20.8,8,8.5,"No",0.8
+"Legacy IntelA Processors","Desktop",100,180,1980,4,2562,18.3,144,25.6,"No",0.7
+"Legacy IntelA Processors","Desktop",104,90,1663,4,12,103,375,51.2,"Yes",3.4
+"Legacy IntelA Processors","Desktop",405,90,1059,4,22,115,64,68,"Yes",3.8
+"Legacy IntelA Processors","Desktop",204,90,42,2,12,84,16.38,17,"Yes",3.2
+"Legacy IntelA Processors","Desktop",205,180,307,4,2562,71.8,144,25.6,"No",2
+"Legacy IntelA Processors","Mobile",107,130,3692,4,5122,26.9,8,85,"No",1.6
+"Legacy IntelA Processors","Embedded",212,22,168,4,33,15,32,21.3,"Yes",1.5
+"Legacy IntelA Processors","Desktop",211,32,75,2,3,65,32,21,"No",2.8
+"Legacy IntelA Processors","Desktop",211,32,19,2,3,65,32,17,"No",2.6
+"Legacy IntelA Processors","Mobile",313,130,1850,4,12,7,4,12.8,"No",1
+"Legacy IntelA Processors","Mobile",306,90,134,4,22,7.5,2,12.8,"No",1.7
+"Legacy IntelA Processors","Desktop",100,180,1980,4,2562,22.8,144,25.6,"No",0.733
+"Legacy IntelA Processors","Desktop",405,180,1980,4,2562,17,64,85,"No",0.65
+"Legacy IntelA Processors","Desktop",104,90,583,4,12,103,144,25.6,"Yes",3.2
+"Legacy IntelA Processors","Desktop",205,90,1059,4,22,115,4.1,51.2,"Yes",3.8
+"Legacy IntelA Processors","Desktop",204,90,93,2,12,84,16,25.6,"Yes",3
+"Legacy IntelA Processors","Mobile",102,130,1177,4,5122,30,8,17.1,"No",1.7
+"Legacy IntelA Processors","Embedded",413,32,201,4,43,15,16.38,21,"Yes",2
+"Legacy IntelA Processors","Desktop",211,32,43,2,3,65,32,21,"No",2.9
+"Legacy IntelA Processors","Desktop",311,32,64,2,3,65,32,17,"No",2.7
+"Legacy IntelA Processors","Desktop",100,180,3692,4,2562,17.5,64,85,"No",0.667
+"Legacy IntelA Processors","Desktop",100,250,3692,4,5122,34.5,16.38,21.3,"No",0.6
+"Legacy IntelA Processors","Desktop",102,130,1850,4,5122,82,16,85,"Yes",3.2
+"Legacy IntelA Processors","Desktop",404,90,75,2,12,84,16.38,25,"Yes",3
+"Legacy IntelA Processors","Desktop",204,90,372,4,1,103,16.38,21.3,"Yes",2.8
+"Legacy IntelA Processors","Desktop",109,180,856,4,2562,69.2,144,25.6,"No",1.9
+"Legacy IntelA Processors","Mobile",110,180,3692,4,2562,30.7,144,25.6,"No",0.9
+"Legacy IntelA Processors","Mobile",100,130,856,4,5122,20.1,128,85,"Yes",0.933
+"Legacy IntelA Processors","Mobile",206,130,1850,4,5122,30,144,25.6,"No",1.8
+"Legacy IntelA Processors","Desktop",311,32,75,2,3,65,32,21,"No",3
+"Legacy IntelA Processors","Desktop",311,32,72,2,3,35,32,17,"No",2.3
+"Legacy IntelA Processors","Desktop",310,45,93,2,2,65,8,17.1,"No",3.33
+"Legacy IntelA Processors","Mobile",209,130,1980,4,12,12,16,21,"No",1.2
+"Legacy IntelA Processors","Mobile",315,90,19,1,22,27,128,34.1,"No",1.6
+"Legacy IntelA Processors","Desktop",108,250,1100,4,5122,34.5,144,25.6,"No",0.6
+"Legacy IntelA Processors","Desktop",100,180,1980,4,2562,19.5,16.38,21.3,"Yes",0.6
+"Legacy IntelA Processors","Desktop",206,65,316,4,42,130,24,25.6,"No",3.6
+"Legacy IntelA Processors","Desktop",104,90,1223,4,12,103,16.38,51.2,"Yes",3.2
+"Legacy IntelA Processors","Desktop",405,90,1059,4,22,115,64,85,"Yes",3.6
+"Legacy IntelA Processors","Desktop",204,90,42,2,12,84,8,17.1,"Yes",3
+"Legacy IntelA Processors","Desktop",404,90,75,2,12,84,8,17.1,"Yes",3.06
+"Legacy IntelA Processors","Desktop",102,130,1100,4,5122,68.4,144,25.6,"No",2.8
+"Legacy IntelA Processors","Desktop",109,130,1980,4,5122,68.1,144,25.6,"Yes",1.8
+"Legacy IntelA Processors","Mobile",204,180,1980,4,2562,27.5,16.38,21.3,"No",0.85
+"Legacy IntelA Processors","Mobile",204,130,3692,4,5122,19.5,8,12.8,"No",0.866
+"Legacy IntelA Processors","Mobile",100,130,1850,4,5122,32,8,17.1,"No",1.9
+"Legacy IntelA Processors","Desktop",212,32,107,2,3,35,32,21,"No",2.6
+"Legacy IntelA Processors","Mobile",211,32,29,2,23,35,16,21.3,"No",2
+"Legacy IntelA Processors","Desktop",311,32,98,2,3,65,32,17,"No",2.7
+"Legacy IntelA Processors","Mobile",104,180,307,4,2562,13.1,16.38,21,"No",0.4
+"Legacy IntelA Processors","Mobile",203,130,1980,4,12,12,8.01,12.8,"No",1.1
+"Legacy IntelA Processors","Desktop",204,180,307,4,2562,15.8,2,12.8,"No",0.6
+"Legacy IntelA Processors","Desktop",205,250,856,4,5122,30.8,144,85,"No",0.55
+"Legacy IntelA Processors","Desktop",106,65,224,4,42,130,1.02,85,"No",3.4
+"Legacy IntelA Processors","Desktop",204,90,20,2,12,89,8,17.1,"Yes",3
+"Legacy IntelA Processors","Desktop",106,65,369,4,22,86,144,25.6,"Yes",3.6
+"Legacy IntelA Processors","Desktop",206,90,70,2,12,84,8,17.1,"Yes",3.06
+"Legacy IntelA Processors","Desktop",204,90,1177,4,12,84,8,17.1,"Yes",3.06
+"Legacy IntelA Processors","Desktop",404,90,75,2,12,84,8,21,"Yes",2.8
+"Legacy IntelA Processors","Desktop",204,180,1177,4,2562,66.7,8,85,"No",1.8
+"Legacy IntelA Processors","Mobile",107,180,307,4,2562,25.9,16,21,"No",0.8
+"Legacy IntelA Processors","Mobile",204,130,307,4,5122,32,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",211,32,75,2,23,35,16,21.3,"No",2.1
+"Legacy IntelA Processors","Desktop",212,32,82,2,3,65,32,21,"No",3.1
+"Legacy IntelA Processors","Desktop",212,32,64,2,3,65,32,17,"No",2.8
+"Legacy IntelA Processors","Mobile",106,90,12.31,1,2562,13.1,8,10.6,"No",0.366
+"Legacy IntelA Processors","Desktop",307,65,287,1,542.32629249889,35,128,68,"No",0.3
+"Legacy IntelA Processors","Desktop",210,45,20,2,2,65,144,17,"No",3.2
+"Legacy IntelA Processors","Desktop",410,45,72,2,2,65,16.38,17,"No",3.2
+"Legacy IntelA Processors","Mobile",408,65,281,4,12,35,8,17.1,"No",1.86
+"Legacy IntelA Processors","Mobile",107,130,307,4,12,22,8.79,17.1,"No",1.3
+"Legacy IntelA Processors","Desktop",100,180,1980,4,2562,14.5,144,25.6,"No",0.55
+"Legacy IntelA Processors","Desktop",306,65,163,4,42,95,64,85,"No",3.4
+"Legacy IntelA Processors","Desktop",204,250,856,4,5122,29.7,16.38,21,"No",0.533
+"Legacy IntelA Processors","Desktop",404,130,307,4,512,81.9,64,68,"Yes",3
+"Legacy IntelA Processors","Desktop",305,90,178,8,12,84,8,21,"Yes",2.8
+"Legacy IntelA Processors","Desktop",405,90,37,2,12,84,8,17.1,"Yes",2.93
+"Legacy IntelA Processors","Desktop",111,130,307,4,5122,66.1,144,25.6,"No",2.66
+"Legacy IntelA Processors","Desktop",105,90,1059,4,22,115,4.1,51.2,"Yes",3.6
+"Legacy IntelA Processors","Desktop",208,130,1177,4,512,30.4,144,85,"No",1.7
+"Legacy IntelA Processors","Mobile",213,180,856,4,2562,24.6,8,85,"No",0.75
+"Legacy IntelA Processors","Mobile",313,130,3587,4,2562,7,4,85,"No",0.65
+"Legacy IntelA Processors","Mobile",102,130,3692,4,5122,35,144,25.6,"No",2.2
+"Legacy IntelA Processors","Desktop",212,32,75,2,3,35,32,17,"No",2.4
+"Legacy IntelA Processors","Desktop",102,90,231,4,542.32629249889,66.2,8,17.1,"Yes",0.266
+"Legacy IntelA Processors","Mobile",307,45,969,4,2562,11.8,64,68,"No",0.333
+"Legacy IntelA Processors","Desktop",310,45,64,2,2,65,16.38,21.3,"No",3
+"Legacy IntelA Processors","Mobile",409,45,281,4,12,35,8,17.1,"No",2.2
+"Legacy IntelA Processors","Mobile",108,65,42,2,12,35,16.38,17,"No",1.73
+"Legacy IntelA Processors","Desktop",108,65,1177,4,12,65,8,17.1,"No",2.4
+"Legacy IntelA Processors","Mobile",204,90,37,1,22,7.5,4,6.4,"No",1.6
+"Legacy IntelA Processors","Mobile",104,130,1850,4,12,22,8,38.4,"No",1.4
+"Legacy IntelA Processors","Desktop",404,180,307,4,2562,14,64,68,"No",0.533
+"Legacy IntelA Processors","Desktop",207,250,1177,4,5122,28,8,17.1,"No",0.5
+"Legacy IntelA Processors","Desktop",106,65,183,4,42,130,24,25.6,"No",3.2
+"Legacy IntelA Processors","Desktop",104,90,64,2,12,89,144,25.6,"Yes",3
+"Legacy IntelA Processors","Desktop",206,65,81,2,22,86,144,21.3,"Yes",3.4
+"Legacy IntelA Processors","Desktop",404,90,478,4,12,84,8,17.1,"Yes",2.8
+"Legacy IntelA Processors","Desktop",305,90,177,4,12,84,16.6,21.3,"Yes",2.93
+"Legacy IntelA Processors","Desktop",106,90,75,2,12,89,8,21,"Yes",2.66
+"Legacy IntelA Processors","Desktop",110,180,3692,4,2562,64,144,25.6,"No",1.7
+"Legacy IntelA Processors","Mobile",306,180,1980,4,2562,23,8,10.6,"No",0.7
+"Legacy IntelA Processors","Mobile",208,130,3587,4,5122,4.5,2,12.8,"No",1.33
+"Legacy IntelA Processors","Mobile",204,130,1100,4,5122,76,384,68,"Yes",3.2
+"Legacy IntelA Processors","Mobile",102,130,856,4,5122,35,16.38,21.3,"No",2.3
+"Legacy IntelA Processors","Mobile",411,32,42,2,23,35,16,21.3,"No",2.2
+"Legacy IntelA Processors","Mobile",208,65,42,2,5122,11.1,8,10.6,"No",0.3
+"Legacy IntelA Processors","Mobile",211,32,107,2,23,17,8.01,21.3,"No",1.2
+"Legacy IntelA Processors","Desktop",108,45,43,2,5122,17,1,10.6,"Yes",0.233
+"Legacy IntelA Processors","Mobile",110,45,225,4,1,35,16,25.6,"Yes",2.3
+"Legacy IntelA Processors","Desktop",110,45,75,2,2,65,8,17.1,"No",3.06
+"Legacy IntelA Processors","Desktop",210,45,72,2,2,65,8,21,"No",2.8
+"Legacy IntelA Processors","Mobile",407,65,75,2,12,35,16,17,"No",1.6
+"Legacy IntelA Processors","Desktop",105,90,87,2,12,89,16,21.3,"Yes",2.8
+"Legacy IntelA Processors","Desktop",107,65,84,2,42,95,8,21,"No",3.2
+"Legacy IntelA Processors","Desktop",407,180,307,4,2562,13.2,64,59.7,"No",0.5
+"Legacy IntelA Processors","Desktop",302,130,3692,4,2562,31.2,8,17.1,"No",1.4
+"Legacy IntelA Processors","Desktop",104,90,134,8,12,89,8,10.66,"Yes",2.8
+"Legacy IntelA Processors","Desktop",105,90,107,2,22,84,8,17.1,"Yes",3.4
+"Legacy IntelA Processors","Desktop",305,90,161,4,12,84,8,17.1,"Yes",2.8
+"Legacy IntelA Processors","Desktop",204,130,1100,4,5122,61.5,144,25.6,"No",2.53
+"Legacy IntelA Processors","Desktop",306,130,1100,4,5122,38,16,21,"No",1.6
+"Legacy IntelA Processors","Mobile",109,180,3692,4,2562,21.5,144,25.6,"No",0.65
+"Legacy IntelA Processors","Mobile",111,130,3587,4,5122,22,144,25.6,"No",1.26
+"Legacy IntelA Processors","Mobile",209,130,3692,4,5122,70,384,51.2,"Yes",3.06
+"Legacy IntelA Processors","Mobile",204,90,281,4,12,88,16.38,21,"Yes",3.46
+"Legacy IntelA Processors","Mobile",408,130,1850,4,5122,35,16,21.3,"No",2.4
+"Legacy IntelA Processors","Desktop",312,32,64,2,3,65,32,17,"No",2.9
+"Legacy IntelA Processors","Mobile",112,32,74,2,23,35,16,21.3,"No",2.3
+"Legacy IntelA Processors","Mobile",411,32,107,2,23,17,16,21.3,"No",1.3
+"Legacy IntelA Processors","Mobile",111,32,52,2,3,35,8,17.1,"No",2.27
+"Legacy IntelA Processors","Mobile",204,90,1223,4,2562,11.6,384,38.4,"No",0.3
+"Legacy IntelA Processors","Desktop",208,250,3692,4,5122,15.7,144,25.6,"No",0.2
+"Legacy IntelA Processors","Desktop",208,45,413,4,5122,37.9,144,25.6,"Yes",0.2
+"Legacy IntelA Processors","Desktop",207,65,41,1,5122,20.6,8,12.8,"No",0.333
+"Legacy IntelA Processors","Desktop",111,32,42,2,3,73,16.38,17,"No",2.93
+"Legacy IntelA Processors","Desktop",309,45,64,2,2,65,8.79,17.1,"No",2.93
+"Legacy IntelA Processors","Desktop",407,65,161,4,12,65,16,21,"No",2.2
+"Legacy IntelA Processors","Mobile",407,65,153,4,12,35,16,17,"No",1.46
+"Legacy IntelA Processors","Mobile",107,130,856,4,12,24.5,16,21.3,"No",1.5
+"Legacy IntelA Processors","Desktop",109,250,1100,2,5122,25.3,384,85,"No",0.45
+"Legacy IntelA Processors","Desktop",106,90,119,8,12,89,16,21,"Yes",2.8
+"Legacy IntelA Processors","Desktop",305,130,1100,4,2562,29.9,64,68,"No",1.33
+"Legacy IntelA Processors","Desktop",106,65,178,2,42,95,128,85,"No",3
+"Legacy IntelA Processors","Desktop",205,90,423,4,22,130,24,25.6,"No",3.2
+"Legacy IntelA Processors","Desktop",110,130,1980,4,5122,69.7,128,85,"Yes",2.8
+"Legacy IntelA Processors","Desktop",106,65,82,2,22,86,8,17.1,"Yes",3.2
+"Legacy IntelA Processors","Desktop",405,90,37,2,12,84,8,17.1,"Yes",2.8
+"Legacy IntelA Processors","Desktop",208,180,1850,4,2562,61,128,85,"No",1.6
+"Legacy IntelA Processors","Mobile",307,180,3587,4,5122,34.5,16,85,"No",0.6
+"Legacy IntelA Processors","Mobile",109,130,1850,4,5122,22,144,25.6,"No",1.2
+"Legacy IntelA Processors","Mobile",204,130,1850,4,5122,68.4,8,17.1,"Yes",2.8
+"Legacy IntelA Processors","Mobile",107,90,32,2,12,88,16,17,"Yes",3.33
+"Legacy IntelA Processors","Mobile",206,130,856,4,5122,35,16.38,21,"No",2.5
+"Legacy IntelA Processors","Mobile",212,32,107,2,2,35,16,21.3,"No",2.4
+"Legacy IntelA Processors","Desktop",312,32,64,2,3,35,32,17,"No",2.5
+"Legacy IntelA Processors","Mobile",112,32,74,2,23,17,16.38,21.3,"No",1.4
+"Legacy IntelA Processors","Mobile",310,32,86,2,3,35,8,17.1,"No",2.13
+"Legacy IntelA Processors","Mobile",308,45,32,2,5122,9.8,64,85,"Yes",0.8
+"Legacy IntelA Processors","Mobile",306,45,58,2,5122,10.3,8,12.8,"Yes",0.266
+"Legacy IntelA Processors","Desktop",111,130,1980,4,5122,13.1,144,25.6,"No",0.166
+"Legacy IntelA Processors","Desktop",205,65,161,4,542.32629249889,65,384,85,"No",0.09
+"Legacy IntelA Processors","Desktop",415,45,156,4,2562,35,256,85,"No",0.2
+"Legacy IntelA Processors","Desktop",106,65,161,4,5122,27.1,8,17.1,"No",0.45
+"Legacy IntelA Processors","Desktop",407,130,1177,4,5122,21.5,128,68,"No",0.3
+"Legacy IntelA Processors","Desktop",110,32,42,2,3,73,16.38,17,"No",2.8
+"Legacy IntelA Processors","Desktop",108,45,74,2,22,65,8,17.1,"No",2.93
+"Legacy IntelA Processors","Desktop",109,45,67,2,22,65,16.38,17,"No",2.7
+"Legacy IntelA Processors","Mobile",308,45,72,2,12,35,8,17.1,"No",2.1
+"Legacy IntelA Processors","Desktop",307,65,75,2,12,65,16.38,21,"No",2
+"Legacy IntelA Processors","Desktop",305,90,64,2,12,84,16.38,17,"Yes",2.8
+"Legacy IntelA Processors","Mobile",207,65,60,2,12,31,8,10.6,"No",1.86
+"Legacy IntelA Processors","Mobile",204,90,125,4,22,7.5,2,6.4,"No",1.5
+"Legacy IntelA Processors","Mobile",203,130,3692,4,12,24.5,16.38,21,"No",1.6
+"Legacy IntelA Processors","Desktop",107,130,3692,4,2562,29.9,8,85,"No",1.2
+"Legacy IntelA Processors","Desktop",306,65,74,2,42,95,128,85,"No",3
+"Legacy IntelA Processors","Desktop",205,90,316,4,22,130,24,25.6,"No",3
+"Legacy IntelA Processors","Desktop",105,90,52,2,22,84,144,25.6,"Yes",3.2
+"Legacy IntelA Processors","Desktop",205,90,163,4,12,84,16,17,"Yes",2.66
+"Legacy IntelA Processors","Desktop",102,130,3692,4,5122,59.8,144,25.6,"No",2.4
+"Legacy IntelA Processors","Desktop",107,180,307,4,2562,57.8,144,25.6,"No",1.5
+"Legacy IntelA Processors","Mobile",206,180,1980,4,2562,16.8,384,68,"No",0.5
+"Legacy IntelA Processors","Mobile",304,130,856,4,5122,21.8,64,68,"No",1.13
+"Legacy IntelA Processors","Mobile",100,130,3692,4,5122,66.1,8,17.1,"Yes",2.66
+"Legacy IntelA Processors","Mobile",205,130,307,4,5122,35,144,85,"No",2.6
+"Legacy IntelA Processors","Mobile",104,90,107,2,12,88,16.6,21.3,"Yes",3.2
+"Legacy IntelA Processors","Mobile",312,32,75,2,2,17,16.38,21.3,"No",1.5
+"Legacy IntelA Processors","Mobile",310,32,107,2,3,35,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",111,32,11.77,2,3,18,8,12.8,"No",1.33
+"Legacy IntelA Processors","Desktop",111,65,1059,4,542.32629249889,104,2.05,51.2,"Yes",0.15
+"Legacy IntelA Processors","Desktop",110,90,1223,4,542.32629249889,103,1.54,51.2,"Yes",0.15
+"Legacy IntelA Processors","Desktop",107,45,213,4,542.32629249889,95,8,17.1,"No",0.075
+"Legacy IntelA Processors","Desktop",308,45,179,4,12,44,8,17.1,"No",0.2
+"Legacy IntelA Processors","Desktop",211,45,287,2,2562,31.7,8,17.1,"No",0.18
+"Legacy IntelA Processors","Desktop",110,250,3587,4,5122,24.3,384,85,"No",0.4
+"Legacy IntelA Processors","Desktop",100,250,3692,4,5122,16.8,144,25.6,"No",0.266
+"Legacy IntelA Processors","Mobile",100,130,307,4,2562,10.3,144,25.6,"No",0.266
+"Legacy IntelA Processors","Desktop",311,32,37,2,3,73,16.38,17,"No",2.8
+"Legacy IntelA Processors","Mobile",408,65,225,4,12,35,16.38,21,"No",2.16
+"Legacy IntelA Processors","Desktop",108,45,64,2,22,65,8,17.1,"No",2.6
+"Legacy IntelA Processors","Mobile",207,65,2.54,2,12,31,16.38,17,"No",1.73
+"Legacy IntelA Processors","Desktop",306,65,163,4,12,65,8,17.1,"No",1.8
+"Legacy IntelA Processors","Desktop",106,65,999,4,42,130,24,25.6,"Yes",3.73
+"Legacy IntelA Processors","Mobile",207,130,3692,4,12,24.5,16.6,25.6,"No",1.7
+"Legacy IntelA Processors","Desktop",100,130,1177,4,2562,29.1,8,85,"No",1.13
+"Legacy IntelA Processors","Desktop",203,180,1980,4,2562,33,8,17.1,"No",1.1
+"Legacy IntelA Processors","Desktop",106,65,177,2,42,95,128,85,"No",2.8
+"Legacy IntelA Processors","Desktop",205,90,74,2,22,95,16,21.3,"No",2.8
+"Legacy IntelA Processors","Desktop",102,130,3692,4,5122,69,384,68,"Yes",2.6
+"Legacy IntelA Processors","Desktop",404,90,316,4,22,115,8,17.1,"Yes",3.73
+"Legacy IntelA Processors","Desktop",102,130,224,4,23,102.9,144,25.6,"Yes",3.4
+"Legacy IntelA Processors","Desktop",106,65,37,2,22,86,144,17,"Yes",3
+"Legacy IntelA Processors","Desktop",204,90,369,4,12,84,8,17.1,"Yes",2.8
+"Legacy IntelA Processors","Desktop",105,90,178,4,12,84,144,34.1,"Yes",2.66
+"Legacy IntelA Processors","Desktop",110,90,178,8,12,89,144,34.1,"Yes",2.4
+"Legacy IntelA Processors","Desktop",108,180,3692,2,2562,54.7,8,21,"No",1.4
+"Legacy IntelA Processors","Mobile",100,180,1980,4,2562,15.5,4,12.8,"No",0.45
+"Legacy IntelA Processors","Mobile",109,130,307,4,5122,21,144,25.6,"No",1.06
+"Legacy IntelA Processors","Mobile",110,90,315,4,12,88,144,25.6,"Yes",3.06
+"Legacy IntelA Processors","Mobile",312,32,52,2,23,17,16,21.3,"No",1.6
+"Legacy IntelA Processors","Mobile",108,130,1100,4,5122,21,144,25.6,"No",1.06
+"Legacy IntelA Processors","Mobile",316,45,75,2,5122,9,2.93,4.2,"Yes",0.233
+"Legacy IntelA Processors","Desktop",409,45,20,2,542.32629249889,65,8,21,"No",0.133
+"Legacy IntelA Processors","Desktop",110,90,287,2,542.32629249889,84,128,85,"No",0.12
+"Legacy IntelA Processors","Desktop",106,65,64,1,542.32629249889,40,16.38,17,"No",0.1
+"Legacy IntelA Processors","Desktop",408,45,12.85,2,5122,35,8,17.1,"Yes",0.166
+"Legacy IntelA Processors","Desktop",199,45,326,4,2562,31.7,384,85,"No",0.15
+"Legacy IntelA Processors","Desktop",106,250,1980,4,5122,21.5,8.3,85,"No",0.35
+"Legacy IntelA Processors","Desktop",405,130,1980,4,5122,34.8,144,34.1,"No",0.233
+"Legacy IntelA Processors","Mobile",210,32,68,2,3,18,8,12.8,"No",1.2
+"Legacy IntelA Processors","Mobile",210,32,107,2,3,35,8,17.1,"No",1.86
+"Legacy IntelA Processors","Desktop",209,45,77,2,22,65,8,17.1,"No",2.8
+"Legacy IntelA Processors","Mobile",109,45,107,2,12,35,8,17.1,"No",2
+"Legacy IntelA Processors","Desktop",308,45,72,2,22,65,144,25.6,"No",2.5
+"Legacy IntelA Processors","Mobile",108,65,107,2,12,35,8,17.1,"No",2
+"Legacy IntelA Processors","Desktop",104,130,1100,4,5122,81.9,384,85,"Yes",3
+"Legacy IntelA Processors","Desktop",207,65,177,4,12,65,16,21,"No",1.6
+"Legacy IntelA Processors","Mobile",107,65,75,2,12,31,16.38,17,"No",1.6
+"Legacy IntelA Processors","Desktop",106,65,999,4,42,130,288,25.6,"Yes",3.46
+"Legacy IntelA Processors","Desktop",205,90,1059,4,22,130,24,25.6,"Yes",3.2
+"Legacy IntelA Processors","Mobile",106,130,1850,4,12,24.5,8,42.6,"No",1.5
+"Legacy IntelA Processors","Desktop",100,180,1980,4,2562,29,144,25.6,"No",1
+"Legacy IntelA Processors","Desktop",100,180,1980,4,2562,29,144,25.6,"No",1
+"Legacy IntelA Processors","Desktop",306,65,74,2,42,95,8,17.1,"No",2.8
+"Legacy IntelA Processors","Desktop",105,90,93,2,22,95,8,17.1,"No",2.66
+"Legacy IntelA Processors","Desktop",305,130,307,4,5122,81.8,64,68,"Yes",3.06
+"Legacy IntelA Processors","Desktop",204,130,307,4,5122,66.2,16,21,"Yes",2.4
+"Legacy IntelA Processors","Desktop",404,130,316,4,22,110.7,16.38,21,"Yes",3.46
+"Legacy IntelA Processors","Desktop",110,130,307,4,22,92.1,384,34.1,"Yes",3.2
+"Legacy IntelA Processors","Desktop",405,90,494,4,22,84,128,59.7,"Yes",3
+"Legacy IntelA Processors","Desktop",105,90,42,2,22,84,16,21.3,"Yes",2.8
+"Legacy IntelA Processors","Desktop",305,90,178,4,12,84,8,17.1,"Yes",2.93
+"Legacy IntelA Processors","Desktop",405,90,178,8,12,84,8,17.1,"Yes",2.66
+"Legacy IntelA Processors","Desktop",100,130,1850,4,5122,58,16.38,85,"No",2.26
+"Legacy IntelA Processors","Desktop",204,180,3692,4,2562,51.6,8,17.1,"No",1.3
+"Legacy IntelA Processors","Mobile",111,180,1980,4,2562,34,144,25.6,"No",1
+"Legacy IntelA Processors","Mobile",109,130,3692,4,5122,20.5,8,85,"No",1
+"Legacy IntelA Processors","Mobile",100,130,3587,4,5122,59.8,16,21.3,"Yes",2.4
+"IntelA Processors","Desktop",113,22,42,2,2,35,32,21,"No",2.3
+"IntelA Processors","Desktop",113,22,75,2,2,55,32,21,"No",2.7
+"IntelA Processors","Desktop",313,22,42,2,2,35,32,21,"No",2.4
+"IntelA Processors","Desktop",114,22,42,2,2,53,32,21.3,"No",2.7
+"IntelA Processors","Desktop",313,22,52,2,2,55,32,21,"No",2.8
+"IntelA Processors","Desktop",114,22,42,2,2,35,32,21.3,"No",2.4
+"IntelA Processors","Embedded",114,22,42,2,2,35,32,21.3,"No",2.2
+"IntelA Processors","Desktop",114,22,52,2,2,53,32,21.3,"No",2.8
+"IntelA Processors","Desktop",214,22,42,2,2,53,32,21.3,"No",2.8
+"IntelA Processors","Desktop",214,22,42,2,2,35,32,21.3,"No",2.5
+"IntelA Processors","Desktop",214,22,52,2,2,53,32,21.3,"No",2.9
+"IntelA Processors","Desktop",415,14,42,2,2,51,64,34.1,"No",2.8
+"IntelA Processors","Desktop",415,14,20,2,2,35,64,34.1,"No",2.6
+"IntelA Processors","Embedded",116,14,107,2,2,35,64,34.1,"No",2.4
+"IntelA Processors","Embedded",415,14,42,2,2,35,64,34.1,"No",2.3
+"IntelA Processors","Desktop",415,14,52,2,2,51,64,34.1,"No",2.9
+"IntelA Processors","Embedded",116,14,107,2,2,25,64,34.1,"No",1.6
+"IntelA Processors","Desktop",117,14,42,2,2,51,64,34.1,"No",2.9
+"IntelA Processors","Desktop",217,14,42,2,2,54,64,34.1,"No",2.9
+"IntelA Processors","Desktop",117,14,42,2,2,35,64,34.1,"No",2.7
+"IntelA Processors","Desktop",217,14,42,2,2,35,64,34.1,"No",2.7
+"IntelA Processors","Desktop",117,14,52,2,2,51,64,34.1,"No",3
+"IntelA Processors","Desktop",413,22,72,2,12,10,8,17.1,"No",2.41
+"IntelA Processors","Desktop",413,22,82,4,22,10,8,25.6,"No",2
+"IntelA Processors","Desktop",313,22,40,4,22,10,8,21.32,"No",2
+"IntelA Processors","Desktop",116,14,107,2,22,6,8,21.3,"No",1.6
+"IntelA Processors","Desktop",116,14,86,4,22,6,8,21.3,"No",1.6
+"IntelA Processors","Desktop",316,14,107,2,2,10,8,17.1,"No",2
+"IntelA Processors","Desktop",316,14,107,4,2,10,8,21.3,"No",1.5
+"IntelA Processors","Mobile",413,22,107,2,1,4.5,4,6.4,"No",1.6
+"IntelA Processors","Mobile",114,22,107,2,1,4.3,4,10.6,"No",1.58
+"IntelA Processors","Mobile",314,22,107,2,12,4.5,4,10.66,"No",1.58
+"IntelA Processors","Mobile",313,22,161,2,1,7.5,8,21.3,"No",2
+"IntelA Processors","Mobile",413,22,76,2,1,7.5,8,21.3,"No",1.86
+"IntelA Processors","Mobile",413,22,37,2,1,7.5,8,21.3,"No",2.13
+"IntelA Processors","Mobile",114,22,107,2,1,7.5,8,21.3,"No",2.16
+"IntelA Processors","Mobile",314,22,107,2,12,7.5,8,21.32,"No",2.16
+"IntelA Processors","Mobile",313,22,161,4,2,7.5,8.79,17.1,"No",1.6
+"IntelA Processors","Mobile",413,22,107,4,2,7.5,8,21.3,"No",1.86
+"IntelA Processors","Mobile",114,22,107,4,2,7.5,8,25.6,"No",1.83
+"IntelA Processors","Mobile",314,22,107,4,22,7.5,8,21.32,"No",1.83
+"IntelA Processors","Mobile",316,14,107,4,22,6,8,21.3,"No",1.1
+"IntelA Processors","Mobile",316,14,107,2,22,6,8,21.3,"No",1.1
+"IntelA Processors","Mobile",116,14,107,4,22,6,8,21.3,"No",1.6
+"IntelA Processors","Mobile",115,14,107,4,22,6,8,21.3,"No",1.6
+"IntelA Processors","Mobile",116,14,107,2,22,6,8,17.1,"No",1.6
+"IntelA Processors","Mobile",115,14,107,2,22,6,8,21.3,"No",1.6
+"IntelA Processors","Mobile",116,14,107,2,22,4,8,21.3,"No",1.04
+"IntelA Processors","Mobile",115,14,107,2,22,4,8,21.3,"No",1.04
+"IntelA Processors","Mobile",215,14,107,2,2,15,16,25.6,"No",1.7
+"IntelA Processors","Mobile",115,14,107,2,2,15,16,25.6,"No",1.7
+"IntelA Processors","Mobile",215,14,107,2,2,15,16,25.6,"No",1.9
+"IntelA Processors","Mobile",415,14,107,2,2,15,32,34.1,"No",1.6
+"IntelA Processors","Mobile",415,14,107,2,2,15,32,34.1,"No",2
+"IntelA Processors","Mobile",117,14,107,2,2,15,32,34.1,"No",1.8
+"IntelA Processors","Mobile",217,14,52,2,2,6,16,29.8,"No",1.5
+"IntelA Processors","Mobile",117,14,107,2,2,15,32,34.1,"No",2.2
+"7th Generation","Mobile",316,14,281,4,4,4.5,16,29.8,"Yes",1.2
+"7th Generation","Mobile",316,14,281,4,3,15,32,34.1,"Yes",2.5
+"7th Generation","Mobile",117,14,304,4,4,15,32,34.1,"Yes",2.2
+"7th Generation","Mobile",117,14,346,4,4,28,32,34.1,"Yes",3.1
+"7th Generation","Mobile",117,14,315,4,4,28,32,34.1,"Yes",3.3
+"7th Generation","Mobile",117,14,250,4,6,45,64,34.1,"No",2.5
+"7th Generation","Mobile",117,14,281,4,3,15,32,34.1,"Yes",2.6
+"7th Generation","Mobile",117,14,304,4,4,15,32,34.1,"Yes",2.3
+"7th Generation","Desktop",117,14,182,4,6,65,64,34.1,"No",3
+"7th Generation","Desktop",117,14,225,4,6,35,64,34.1,"No",2.4
+"7th Generation","Embedded",117,14,250,4,6,45,64,34.1,"No",2.9
+"7th Generation","Mobile",117,14,393,4,6,45,64,34.1,"No",2.8
+"7th Generation","Embedded",117,14,250,4,6,25,64,34.1,"No",2.1
+"7th Generation","Desktop",117,14,225,4,6,35,64,34.1,"No",2.7
+"7th Generation","Desktop",117,14,250,4,6,65,64,34.1,"No",3.4
+"7th Generation","Desktop",117,14,234,4,6,65,64,34.1,"No",3.5
+"7th Generation","Desktop",117,14,306,4,6,35,64,34.1,"No",2.8
+"7th Generation","Desktop",117,14,120,4,6,91,64,34.1,"No",3.8
+"IntelA Processors","Mobile",212,22,1096,8,8,55,32,25.6,"Yes",2.9
+"IntelA Processors","Desktop",411,32,594,12,12,130,64.23,51.2,"Yes",3.2
+"IntelA Processors","Mobile",312,22,1096,8,8,55,32,25.6,"Yes",3
+"IntelA Processors","Desktop",411,32,1059,12,15,130,64,51.2,"Yes",3.3
+"IntelA Processors","Desktop",412,32,1059,12,15,150,64.45,51.2,"Yes",3.5
+"IntelA Processors","Desktop",313,22,332,8,10,130,64,59.7,"Yes",3.7
+"IntelA Processors","Mobile",213,22,623,8,8,57,32,25.6,"Yes",3
+"IntelA Processors","Desktop",313,22,594,12,12,130,64,59.7,"Yes",3.4
+"IntelA Processors","Mobile",114,22,434,8,8,57,32,25.6,"Yes",3.1
+"IntelA Processors","Desktop",313,22,1059,12,15,130,64,59.7,"Yes",3.6
+"IntelA Processors","Desktop",314,22,423,12,15,140,64,68,"Yes",3.3
+"IntelA Processors","Desktop",314,22,1059,12,15,140,64,68,"Yes",3.5
+"IntelA Processors","Desktop",314,22,1059,16,20,140,64,68,"Yes",3
+"IntelA Processors","Desktop",216,14,1059,12,15,140,128,76.8,"Yes",3.4
+"IntelA Processors","Desktop",216,14,1059,12,15,140,128,76.8,"Yes",3.6
+"IntelA Processors","Desktop",216,14,1059,16,20,140,128,68,"Yes",3.2
+"IntelA Processors","Desktop",216,14,3543,20,25,140,128,76.8,"Yes",3
+"IntelA Processors","Desktop",217,14,835,4,6,112,64,34.1,"No",4
+"IntelA Processors","Desktop",217,14,372,8,8,112,64,34.1,"Yes",4.3
+"IntelA Processors","Desktop",217,14,294,12,8.253,140,128,68,"Yes",3.5
+"IntelA Processors","Desktop",217,14,4061,20,13.753,140,128,76.8,"Yes",3.3
+"IntelA Processors","Desktop",217,14,4650,16,113,140,128,85,"Yes",3.6
+"IntelA Processors","Desktop",317,14,1931,24,16.53,140,128,68,"Yes",2.9
+"IntelA Processors","Desktop",317,22,4061,28,19.25,165,128,76.8,"Yes",3.1
+"IntelA Processors","Desktop",317,14,2558,32,22,165,128,76.8,"Yes",2.8
+"IntelA Processors","Desktop",317,14,7007,36,24.75,165,128,76.8,"Yes",2.6
+"8th Generation","Mobile",317,14,409,8,8,15,32,34.1,"Yes",1.9
+"8th Generation","Mobile",317,14,297,8,6,15,32,34.1,"Yes",1.7
+"7th Generation","Mobile",316,14,393,4,4,15,32,34.1,"Yes",2.7
+"7th Generation","Mobile",117,14,415,4,4,15,32,34.1,"Yes",2.4
+"7th Generation","Mobile",117,14,281,4,4,28,32,34.1,"Yes",3.5
+"7th Generation","Mobile",117,14,393,4,4,15,32,34.1,"Yes",2.8
+"7th Generation","Mobile",117,14,415,4,4,15,32,34.1,"Yes",2.5
+"7th Generation","Desktop",117,14,261,8,8,35,64,34.1,"Yes",2.9
+"7th Generation","Desktop",117,14,261,8,8,91,64,34.1,"Yes",4.2
+"7th Generation","Desktop",117,14,568,8,8,65,64,34.1,"Yes",3.6
+"7th Generation","Mobile",117,14,378,8,6,45,64,34.1,"Yes",2.8
+"7th Generation","Embedded",117,14,378,8,8,45,64,34.1,"Yes",3
+"7th Generation","Mobile",117,14,378,8,8,45,64,34.1,"Yes",2.9
+"7th Generation","Mobile",117,14,378,8,8,45,64,34.1,"Yes",2.9
+"7th Generation","Mobile",117,14,568,8,8,45,64,34.1,"Yes",3.1
+"IntelA Processors","Embedded",315,14,2.54,1,542.32629249889,25,64,37.5,"No",0.032
+"IntelA Processors","Embedded",214,32,12.85,1,16,2.2,2,1.6,"No",0.4
+"IntelA Processors","Embedded",315,14,2.54,1,542.32629249889,0.025,8,42.6,"No",0.033
+"Legacy IntelA Processors","Embedded",310,45,19,2,5122,3.3,2,12.8,"Yes",0.6
+"IntelA Processors","Mobile",116,14,37,4,2,7.5,8,25.6,"No",1.6
+"IntelA Processors","Mobile",411,32,42,4,12,3.5,2.44,10.6,"Yes",1.6
+"IntelA Processors","Embedded",414,22,31,2,12,3,8,5.3,"No",1.33
+"IntelA Processors","Desktop",311,32,42,2,12,10,4,6.4,"No",1.86
+"IntelA Processors","Embedded",317,22,39,2,1,7,16,25.6,"No",1.5
+"IntelA Processors","Server",404,130,1614,4,62,122,64,68,"No",1.66
+"IntelA Processors","Server",407,130,912,4,62,122,128,68,"No",1.6
+"IntelA Processors","Server",107,130,3692,4,1.52,90,16,21,"No",0.9
+"IntelA Processors","Server",407,90,1245,4,62,104,128,68,"No",1.6
+"IntelA Processors","Server",407,90,696,4,123,75,64,68,"No",1.6
+"IntelA Processors","Server",110,65,946,4,103,130,128,85,"Yes",1.6
+"IntelA Processors","Server",110,65,1614,8,163,155,4.1,85,"Yes",1.33
+"IntelA Processors","Server",110,65,2059,8,203,155,384,85,"Yes",1.46
+"IntelA Processors","Server",110,65,2059,8,203,185,4.1,68,"Yes",1.6
+"IntelA Processors","Server",110,65,3838,8,243,185,384,85,"Yes",1.73
+"IntelA Processors","Server",407,90,910,4,123,104,32,21,"Yes",1.42
+"IntelA Processors","Server",407,90,1552,4,83,104,128,68,"No",1.66
+"IntelA Processors","Server",407,90,1980,4,183,104,32.77,21,"Yes",1.66
+"IntelA Processors","Server",407,90,1980,4,183,104,64,68,"Yes",1.6
+"IntelA Processors","Server",407,90,3692,4,243,104,32,21,"Yes",1.66
+"IntelA Processors","Server",407,90,3692,4,243,104,64,34.1,"Yes",1.6
+"IntelA Processors","Server",407,90,2059,4,243,104,128,68,"Yes",1.66
+"IntelA Processors","Server",107,90,1245,4,122,104,4.1,68,"No",1.4
+"IntelA Processors","Server",211,90,1980,4,122,104,1.02,68,"No",1.42
+"IntelA Processors","Server",313,90,2837,4,82,104,64,85,"No",1.6
+"IntelA Processors","Server",406,90,1980,4,182,104,64,68,"No",1.6
+"IntelA Processors","Server",305,90,2059,4,242,104,32,21,"No",1.6
+"IntelA Processors","Server",107,130,4650,4,32,100,32,21,"No",1
+"IntelA Processors","Server",204,130,3692,4,32,97,32,85,"No",1.3
+"IntelA Processors","Server",102,130,1980,4,42,91,1.54,85,"No",1.4
+"IntelA Processors","Server",404,130,6841,4,42,107,16,17,"No",1.5
+"IntelA Processors","Server",407,130,1552,4,62,107,32,25.6,"No",1.5
+"IntelA Processors","Server",412,130,1391,4,92,122,128,68,"No",1.6
+"IntelA Processors","Server",404,130,1614,4,92,122,64,68,"No",1.66
+"IntelA Processors","Server",313,22,43,2,1,6,16,10.7,"No",1.7
+"IntelA Processors","Embedded",317,22,64,4,2,10,32,25.6,"No",1.4
+"IntelA Processors","Server",313,22,70,4,2,9,32,21.3,"No",1.7
+"IntelA Processors","Server",313,22,86,4,2,14,64,25.6,"No",2.4
+"IntelA Processors","Server",313,22,150,8,4,12,32,25.6,"No",1.7
+"IntelA Processors","Server",313,22,171,8,4,20,64,25.6,"No",2.4
+"IntelA Processors","Embedded",214,22,60,2,1,6,16,10.7,"No",1.25
+"IntelA Processors","Embedded",313,22,60,2,1,7,16,21,"No",1.7
+"IntelA Processors","Embedded",313,22,60,2,1,7,16,21.3,"No",1.7
+"IntelA Processors","Embedded",214,22,98,4,2,9.5,32,25.6,"No",1.25
+"IntelA Processors","Embedded",313,22,91,4,2,13,32,25.6,"No",1.7
+"IntelA Processors","Embedded",313,22,104,4,2,15,64,25.6,"No",2.4
+"IntelA Processors","Embedded",313,22,104,4,2,15,64,25.6,"No",2.4
+"IntelA Processors","Embedded",313,22,182,8,4,18,32,25.6,"No",2
+"IntelA Processors","Embedded",313,22,208,8,4,20,64,25.6,"No",2.4
+"IntelA Processors","Embedded",313,22,208,8,4,20,64,25.6,"No",2.4
+"IntelA Processors","Server",317,14,449,16,16,31,256,37.5,"No",2
+"IntelA Processors","Server",317,14,434,16,16,32,256,34.1,"No",2.1
+"IntelA Processors","Server",317,14,389,16,16,24,256,34.1,"No",1.7
+"IntelA Processors","Server",317,14,289,12,12,21.5,256,34.1,"No",1.9
+"IntelA Processors","Server",317,14,332,12,12,25,256,34.1,"No",2
+"IntelA Processors","Server",317,14,323,12,12,25,256,34.1,"No",2.1
+"IntelA Processors","Server",317,14,369,12,12,25,256,34.1,"No",2
+"IntelA Processors","Server",317,14,193,8,16,25,256,34.1,"No",2.2
+"IntelA Processors","Server",317,14,171,8,16,21,256,34.1,"No",2.2
+"IntelA Processors","Server",317,14,209,8,16,17,256,34.1,"No",1.7
+"IntelA Processors","Server",317,14,86,4,8,16,256,34.1,"No",2.2
+"IntelA Processors","Server",317,14,75,4,8,15,256,34.1,"No",2.1
+"IntelA Processors","Server",317,14,86,4,8,11.5,256,34.1,"No",1.6
+"IntelA Processors","Server",117,14,27,2,4,9,128,34.1,"No",1.5
+"IntelA Processors","Server",317,14,32,2,4,9.5,128,34.1,"No",1.6
+"IntelA Processors","Desktop",112,32,47,4,12,10,4,6.4,"Yes",1.86
+"IntelA Processors","Desktop",311,32,54,4,12,10,4,6.4,"Yes",2.13
+"IntelA Processors","Embedded",413,22,31,1,5122,5,8,5.3,"No",1.46
+"IntelA Processors","Embedded",413,22,34,2,12,6,8,10.6,"No",1.33
+"IntelA Processors","Embedded",413,22,37,2,12,7,8,21.3,"No",1.46
+"IntelA Processors","Embedded",413,22,41,2,12,8,8,17.1,"No",1.75
+"IntelA Processors","Embedded",413,22,52,4,22,10,8,21.3,"No",1.91
+"IntelA Processors","Mobile",411,32,47,4,12,6.5,4.88,4.2,"Yes",1.86
+"IntelA Processors","Server",412,32,54,4,1,8.1,8,10.6,"Yes",1.6
+"IntelA Processors","Server",412,32,64,4,1,6.1,8,10.6,"Yes",1.6
+"IntelA Processors","Server",412,32,107,4,1,8.5,8,10.6,"Yes",2
+"IntelA Processors","Server",213,32,80,4,1,11.7,8,5.3,"Yes",1.6
+"IntelA Processors","Server",213,32,103,4,1,13.1,8,10.66,"Yes",1.6
+"IntelA Processors","Server",213,32,120,4,1,14.1,8,5.3,"Yes",2
+"IntelA Processors","Mobile",115,28,42,2,512,2.2,1,3.2,"Yes",1
+"IntelA Processors","Mobile",115,28,98,4,1,13.1,2,4.2,"No",1.2
+"IntelA Processors","Mobile",115,28,107,4,1,17,2,4.2,"No",1.2
+"IntelA Processors","Embedded",116,14,39,4,2,5,8,17.1,"No",1.04
+"IntelA Processors","Mobile",215,14,21,4,2,15,2,12.8,"No",1.44
+"IntelA Processors","Mobile",116,14,86,4,22,11.8,2,12.8,"No",1.44
+"IntelA Processors","Mobile",116,14,21,4,2,6,2,12.8,"No",1.44
+"IntelA Processors","Mobile",115,14,27,4,2,7.5,8,25.6,"No",1.44
+"IntelA Processors","Mobile",116,14,27,4,2,7.5,8,25.6,"No",1.44
+"IntelA Processors","Embedded",416,14,12.85,2,22,6.5,8,34.1,"No",1.3
+"IntelA Processors","Embedded",416,14,885,4,22,9.5,8,34.1,"No",1.6
+"IntelA Processors","Mobile",115,14,37,4,2,7.5,8,25.6,"No",1.6
+"IntelA Processors","Embedded",416,14,250,4,22,12,8,38.4,"No",1.6
+"IntelA Processors","Mobile",213,32,192,4,1,18,2,8.5,"Yes",1.2
+"IntelA Processors","Mobile",312,32,161,4,12,6,2.4,6.4,"Yes",1.8
+"IntelA Processors","Mobile",114,22,21,4,22,5,1,5.3,"No",1.33
+"IntelA Processors","Mobile",114,22,94,4,22,3,2,10.6,"No",1.33
+"IntelA Processors","Mobile",114,22,18,4,22,5,2,10.6,"No",1.33
+"IntelA Processors","Mobile",114,22,17,4,22,4.5,1,5.3,"No",1.33
+"IntelA Processors","Mobile",214,22,20,4,22,6,2,10.6,"No",1.33
+"IntelA Processors","Mobile",214,22,20,4,22,7.5,1,5.3,"No",1.33
+"IntelA Processors","Mobile",313,22,250,4,22,11.8,4,17.1,"No",1.33
+"IntelA Processors","Mobile",313,22,98,4,22,9,2,10.6,"No",1.33
+"IntelA Processors","Mobile",114,22,30,4,22,7,4,17.1,"No",1.33
+"IntelA Processors","Mobile",114,22,91,4,22,5.5,2,10.6,"No",1.33
+"IntelA Processors","Mobile",313,22,47,4,22,5.5,4,17.1,"No",1.46
+"IntelA Processors","Mobile",114,22,35,4,22,11.5,4,17.1,"No",1.46
+"IntelA Processors","Mobile",313,22,37,4,22,6.5,2,10.6,"No",1.5
+"IntelA Processors","Mobile",114,22,47,4,22,4.5,2,10.6,"No",1.49
+"IntelA Processors","Mobile",214,22,103,4,22,7.5,4,21.3,"No",1.49
+"IntelA Processors","Mobile",114,22,40,4,22,1.3,4,17.1,"No",1.59
+"Legacy IntelA Processors","Embedded",310,45,22,2,5122,3.3,2,12.8,"Yes",0.6
+"Legacy IntelA Processors","Mobile",208,45,287,2,5122,0.65,8.01,12.8,"Yes",0.8
+"Legacy IntelA Processors","Mobile",208,45,20,1,5122,2,8,85,"No",1.1
+"Legacy IntelA Processors","Embedded",310,45,29,2,5122,3.6,2,6.4,"Yes",1
+"Legacy IntelA Processors","Mobile",210,45,12.85,2,512,1.3,1,1.6,"Yes",1.2
+"Legacy IntelA Processors","Mobile",208,45,20,2,5122,2.2,8,17.1,"Yes",1.1
+"Legacy IntelA Processors","Embedded",310,45,37,2,5122,3.6,2,10.6,"Yes",1
+"Legacy IntelA Processors","Mobile",208,45,27,2,5122,2.2,144,25.6,"Yes",1.1
+"Legacy IntelA Processors","Embedded",410,45,75,2,5122,7,2.93,10.6,"Yes",1
+"Legacy IntelA Processors","Mobile",209,45,284,4,5122,1.4,2.93,12.8,"Yes",1.2
+"Legacy IntelA Processors","Embedded",410,45,134,2,5122,7,2.93,6.4,"Yes",1
+"Legacy IntelA Processors","Desktop",208,45,29,2,5122,4,144,17,"Yes",1.6
+"Legacy IntelA Processors","Mobile",208,45,58,2,5122,2,4,3.2,"Yes",1.33
+"Legacy IntelA Processors","Embedded",310,45,54,2,5122,3.6,2,6.4,"Yes",1.3
+"Legacy IntelA Processors","Mobile",210,45,37,2,512,2.2,2,3.2,"Yes",1.6
+"Legacy IntelA Processors","Mobile",208,45,50,2,5122,2.2,8.01,3.2,"Yes",1.33
+"Legacy IntelA Processors","Embedded",310,45,64,2,5122,3.6,2,10.6,"Yes",1.3
+"Legacy IntelA Processors","Mobile",208,45,65,2,5122,2,8,12.8,"Yes",1.6
+"Legacy IntelA Processors","Embedded",410,45,74,2,5122,7,2.93,12.8,"Yes",1.3
+"Legacy IntelA Processors","Mobile",210,45,75,2,512,2.2,2,3.2,"Yes",1.9
+"Legacy IntelA Processors","Mobile",110,45,64,2,5122,5.5,2,12.8,"Yes",1.66
+"Legacy IntelA Processors","Mobile",208,45,65,2,5122,2.2,144,25.6,"Yes",1.6
+"Legacy IntelA Processors","Mobile",211,45,42,2,5122,3,2.93,6.4,"Yes",1.2
+"Legacy IntelA Processors","Embedded",410,45,107,2,5122,7,2.93,10.6,"Yes",1.3
+"Legacy IntelA Processors","Mobile",210,45,64,2,5122,6.5,2,10.66,"Yes",1.66
+"Legacy IntelA Processors","Desktop",110,45,43,2,5122,10,4,6.4,"Yes",1.66
+"Legacy IntelA Processors","Desktop",110,45,63,4,12,13,4,6.4,"Yes",1.66
+"Legacy IntelA Processors","Mobile",208,45,75,2,5122,2.4,8,17.1,"Yes",1.86
+"Legacy IntelA Processors","Mobile",211,45,64,2,512,3,2.93,12.8,"Yes",1.5
+"Legacy IntelA Processors","Embedded",310,45,74,2,5122,4.5,2,10.6,"Yes",1.6
+"Legacy IntelA Processors","Mobile",310,45,415,4,12,8.5,2,10.6,"Yes",1.5
+"Legacy IntelA Processors","Mobile",110,45,64,2,5122,6.5,2,10.6,"Yes",1.83
+"Legacy IntelA Processors","Mobile",209,45,87,2,5122,2.4,4,3.2,"Yes",2
+"Legacy IntelA Processors","Mobile",208,45,32,2,5122,2.5,8,1.6,"Yes",1.6
+"Legacy IntelA Processors","Desktop",308,45,117,8,12,8,2,12.8,"Yes",1.6
+"Legacy IntelA Processors","Mobile",111,45,281,4,12,8.5,2,10.6,"Yes",1.66
+"Legacy IntelA Processors","Embedded",310,45,85,2,5122,4.5,2,10.6,"Yes",1.6
+"Legacy IntelA Processors","Mobile",210,45,37,2,5122,2.5,2,17.1,"Yes",2.13
+"Legacy IntelA Processors","Mobile",210,45,47,2,5122,6.5,2,12.8,"Yes",1.83
+"Legacy IntelA Processors","Desktop",210,45,63,4,12,13,4,6.4,"Yes",1.8
+"Legacy IntelA Processors","Desktop",210,45,42,2,5122,10,4,6.4,"Yes",1.8
+"Legacy IntelA Processors","Mobile",109,45,72,2,5122,2.5,8,1.6,"Yes",1.66
+"IntelA Processors","Embedded",214,32,13.39,1,16,2.2,2,1.6,"No",0.4
+"IntelA Processors","Embedded",114,32,10.7,1,16,2.2,2,1.6,"No",0.4
+"IntelA Processors","Embedded",214,32,11.23,1,16,2.2,2,1.6,"No",0.4
+"IntelA Processors","Embedded",214,32,12.31,1,16,2.2,2,1.6,"No",0.4
+"IntelA Processors","Embedded",114,32,10.16,1,16,2.2,2,1.6,"No",0.4
+"IntelA Processors","Embedded",214,32,11.77,1,16,2.2,2,1.6,"No",0.4
+"IntelA Processors","Embedded",413,32,9.62,1,16,2.2,2,1.6,"No",0.4
+"IntelA Processors","Server",412,32,1350,8,20,130,384,85.3,"Yes",1.73
+"IntelA Processors","Server",217,32,4650,16,32,170,24,25.6,"Yes",2.66
+"IntelA Processors","Server",416,14,3368,52,362,260,384,115.2,"Yes",1.5
+"IntelA Processors","Server",213,22,4616,56,28.52,300,6,240,"Yes",1.1
+"IntelA Processors","Server",213,22,4394,56,28.52,300,6,240,"Yes",1.1
+"IntelA Processors","Server",311,32,383,8,8,95,32,21,"Yes",3.6
+"IntelA Processors","Server",317,14,192,8,6,35,128,34.1,"Yes",1.6
+"Legacy IntelA Processors","Server",111,32,403,4,4,80,288,25.6,"No",1.6
+"IntelA Processors","Embedded",212,32,389,8,63,25,32,25.6,"Yes",1
+"IntelA Processors","Server",213,22,161,4,8,80,32,25.6,"No",3.1
+"IntelA Processors","Embedded",215,14,393,8,6,47,32,25.6,"Yes",1.8
+"IntelA Processors","Server",415,14,120,4,8,80,64,34.1,"No",3
+"IntelA Processors","Server",117,14,107,4,8,72,64,37.5,"No",3
+"IntelA Processors","Server",112,32,774,16,20,135,384,51.2,"Yes",2.9
+"IntelA Processors","Server",313,22,7007,24,30,130,768,59.7,"Yes",2.7
+"IntelA Processors","Server",313,22,4394,24,30,115,768,59.7,"Yes",2.4
+"IntelA Processors","Server",216,14,294,8,10,140,1.54,76.8,"Yes",3.5
+"IntelA Processors","Server",216,14,406,8,10,140,1.54,76.8,"Yes",3.7
+"IntelA Processors","Server",216,14,1446,12,15,140,1.54,76.8,"Yes",3.6
+"IntelA Processors","Server",216,14,1113,16,20,140,1.54,76.8,"Yes",3.2
+"IntelA Processors","Server",216,14,1723,16,20,140,1.54,76.8,"Yes",3.4
+"IntelA Processors","Server",116,14,213,6,15,85,1.54,59.7,"No",1.7
+"IntelA Processors","Embedded",116,14,363,16,20,50,1.54,59.7,"Yes",1.6
+"IntelA Processors","Server",116,14,608,8,20,85,1.54,59.7,"No",1.7
+"IntelA Processors","Embedded",116,14,779,20,25,75,1.54,68.3,"Yes",2.2
+"IntelA Processors","Server",116,14,1013,16,20,85,1.54,68.3,"Yes",2.1
+"IntelA Processors","Server",116,14,444,8,10,85,1.54,68.3,"Yes",2.6
+"IntelA Processors","Embedded",116,14,1364,24,30,75,1.54,68.3,"Yes",1.9
+"IntelA Processors","Server",116,14,612,20,25,55,1.54,68.3,"Yes",1.8
+"IntelA Processors","Server",116,14,1222,20,25,85,1.54,68.3,"Yes",2.2
+"IntelA Processors","Server",116,14,996,8,15,135,1.54,76.8,"Yes",3.5
+"IntelA Processors","Server",116,14,939,20,25,90,1.54,68.3,"Yes",2.4
+"IntelA Processors","Server",116,14,1552,12,20,135,1.54,76.8,"Yes",3.4
+"IntelA Processors","Embedded",116,14,1544,28,35,75,1.54,76.8,"Yes",1.8
+"IntelA Processors","Server",116,14,1329,28,35,65,1.54,76.8,"Yes",1.7
+"IntelA Processors","Server",116,14,1445,24,30,105,1.54,76.8,"Yes",2.2
+"IntelA Processors","Server",116,14,1445,28,35,105,3.07,76.8,"Yes",2
+"IntelA Processors","Server",116,14,2057,16,25,135,1.54,76.8,"Yes",3.2
+"IntelA Processors","Embedded",116,14,1832,28,35,105,1.54,76.8,"Yes",2.3
+"IntelA Processors","Server",116,14,3003,28,35,120,1.54,76.8,"Yes",2.4
+"IntelA Processors","Server",116,14,1846,32,40,120,1.54,76.8,"Yes",2.1
+"IntelA Processors","Server",116,14,4227,24,30,160,1.54,76.8,"Yes",3
+"IntelA Processors","Server",116,14,3838,28,35,135,1.54,76.8,"Yes",2.6
+"IntelA Processors","Server",116,14,5729,36,45,120,1.54,76.8,"Yes",2.1
+"IntelA Processors","Server",116,14,2891,32,40,145,1.54,76.8,"Yes",2.6
+"IntelA Processors","Server",116,14,2702,36,45,145,1.54,76.8,"Yes",2.3
+"IntelA Processors","Server",116,14,3226,40,50,135,1.54,76.8,"Yes",2.2
+"IntelA Processors","Embedded",416,14,4560,44,55,145,1.54,76.8,"Yes",2.2
+"IntelA Processors","Server",116,14,4115,44,55,145,1.54,76.8,"Yes",2.2
+"IntelA Processors","Server",416,14,4938,44,55,145,1.54,76.8,"Yes",2.4
+"IntelA Processors","Server",216,14,1219,20,25,105,1.54,68,"Yes",1.8
+"IntelA Processors","Server",216,14,1668,20,25,105,1.54,68,"Yes",2.1
+"IntelA Processors","Server",216,14,2225,10,25,135,1.54,68,"No",2.6
+"IntelA Processors","Embedded",216,14,2535,28,35,75,1.54,68,"Yes",1.8
+"IntelA Processors","Server",216,14,2837,24,30,105,1.54,68,"Yes",2.1
+"IntelA Processors","Server",216,14,3838,28,35,105,1.54,68,"Yes",2.2
+"IntelA Processors","Server",216,14,4616,16,30,135,1.54,68,"Yes",2.5
+"IntelA Processors","Server",216,14,4727,32,40,120,1.54,68,"Yes",2.2
+"IntelA Processors","Server",216,14,5729,36,45,135,1.54,68,"Yes",2.2
+"IntelA Processors","Server",216,14,7007,44,55,135,1.54,68,"Yes",2.2
+"IntelA Processors","Server",314,22,493,6,15,85,768,51,"No",1.6
+"IntelA Processors","Embedded",314,22,441,12,15,52,768,59,"Yes",2
+"IntelA Processors","Server",314,22,306,6,15,85,768,51,"No",1.9
+"IntelA Processors","Embedded",314,22,779,16,20,75,768,59,"Yes",2.3
+"IntelA Processors","Server",314,22,306,12,15,85,768,59,"Yes",2.4
+"IntelA Processors","Server",314,22,444,8,10,105,768,59,"Yes",3
+"IntelA Processors","Embedded",314,22,1364,20,25,75,768,59,"Yes",2
+"IntelA Processors","Server",314,22,501,16,20,85,768,59,"Yes",2.4
+"IntelA Processors","Server",314,22,612,16,20,55,768,59,"Yes",1.8
+"IntelA Processors","Server",314,22,996,8,15,135,768,68,"Yes",3.5
+"IntelA Processors","Server",314,22,890,16,20,90,768,59,"Yes",2.6
+"IntelA Processors","Server",314,22,1552,12,20,135,768,68,"Yes",3.4
+"IntelA Processors","Server",314,22,1219,20,25,105,768,68,"Yes",2.3
+"IntelA Processors","Embedded",314,22,1544,24,30,75,768,68,"Yes",1.8
+"IntelA Processors","Server",314,22,1329,24,30,65,768,68,"Yes",1.8
+"IntelA Processors","Embedded",314,22,1832,24,30,105,768,68,"Yes",2.2
+"IntelA Processors","Embedded",115,22,1832,24,30,105,768,68,"Yes",2.2
+"IntelA Processors","Server",314,22,1668,20,25,105,768,68,"Yes",2.6
+"IntelA Processors","Server",314,22,2057,16,20,135,768,68,"Yes",3.2
+"IntelA Processors","Server",314,22,2837,24,30,120,768,68,"Yes",2.3
+"IntelA Processors","Server",314,22,3838,24,30,120,768,68,"Yes",2.5
+"IntelA Processors","Server",314,22,1846,28,35,120,768,68,"Yes",2
+"IntelA Processors","Server",215,22,1219,20,25,105,768,68,"Yes",1.7
+"IntelA Processors","Server",215,22,1668,20,25,105,768,68,"Yes",2
+"IntelA Processors","Server",314,22,2767,20,25,160,768,68,"Yes",3.1
+"IntelA Processors","Server",215,22,2225,10,25,135,768,68,"No",2.6
+"IntelA Processors","Server",314,22,2767,24,30,135,768,68,"Yes",2.6
+"IntelA Processors","Server",215,22,2859,24,30,105,768,68,"Yes",1.9
+"IntelA Processors","Server",314,22,1723,16,20,140,768,68,"Yes",3.2
+"IntelA Processors","Server",314,22,4727,28,35,120,768,68,"Yes",2.3
+"IntelA Processors","Embedded",215,22,2405,24,30,105,768,68,"Yes",1.7
+"IntelA Processors","Server",314,22,1080,16,20,140,768,68,"Yes",3
+"IntelA Processors","Server",215,22,3838,24,30,105,768,68,"Yes",2.1
+"IntelA Processors","Server",314,22,7007,12,15,140,768,68,"Yes",3.5
+"IntelA Processors","Server",314,22,2460,28,35,145,768,68,"Yes",2.6
+"IntelA Processors","Server",215,22,4616,12,30,135,768,68,"Yes",2.9
+"IntelA Processors","Embedded",115,22,256,8,10,45,384,51.2,"Yes",1.8
+"IntelA Processors","Server",314,22,372,8,10,140,768,68,"Yes",3.7
+"IntelA Processors","Server",314,22,4061,32,40,135,768,68,"Yes",2.3
+"IntelA Processors","Server",215,22,4727,28,35,120,768,68,"Yes",2.1
+"IntelA Processors","Embedded",115,22,472,12,15,50,384,51.2,"Yes",2
+"IntelA Processors","Server",314,22,885,8,10,140,768,68,"Yes",3.5
+"IntelA Processors","Server",215,22,5729,32,40,135,768,68,"Yes",2
+"IntelA Processors","Embedded",115,22,811,16,20,55,384,51.2,"Yes",1.8
+"IntelA Processors","Server",215,22,7007,36,45,135,768,68,"Yes",2.1
+"IntelA Processors","Embedded",115,22,1555,20,25,70,384,51.2,"Yes",1.8
+"IntelA Processors","Embedded",115,22,608,16,20,65,384,51.2,"Yes",2
+"IntelA Processors","Server",314,22,4938,36,45,145,768,68,"Yes",2.3
+"IntelA Processors","Server",313,22,3543,20,25,130,768,59.7,"Yes",3
+"IntelA Processors","Server",313,22,1727,20,25,115,768,59.7,"Yes",2.8
+"IntelA Processors","Server",313,22,2057,16,25,150,256,59.7,"Yes",3.4
+"IntelA Processors","Server",313,22,1750,20,25,115,768,59.7,"Yes",2.5
+"IntelA Processors","Server",313,22,2057,16,25,130,768,59.7,"Yes",3.3
+"IntelA Processors","Server",313,22,1750,20,25,95,768,59.7,"Yes",2.2
+"IntelA Processors","Server",313,22,1219,20,25,70,768,51.2,"Yes",1.7
+"IntelA Processors","Embedded",313,22,1750,20,25,95,768,59.7,"Yes",2.4
+"IntelA Processors","Server",313,22,551,16,20,95,768,59.7,"Yes",2.6
+"IntelA Processors","Server",114,22,1440,20,25,95,384,38.4,"Yes",2.4
+"IntelA Processors","Embedded",313,22,1479,20,25,70,768,59.7,"Yes",1.9
+"IntelA Processors","Server",114,22,1219,20,25,60,384,38.4,"Yes",1.7
+"IntelA Processors","Server",313,22,1552,12,25,130,768,59.7,"Yes",3.5
+"IntelA Processors","Server",114,22,1107,16,20,95,384,38.4,"Yes",2.5
+"IntelA Processors","Server",114,22,4394,24,30,115,768,59.7,"Yes",2.4
+"IntelA Processors","Embedded",114,22,1424,20,25,70,384,38.4,"Yes",1.8
+"IntelA Processors","Server",313,22,1479,16,20,95,768,51.2,"Yes",2
+"IntelA Processors","Server",313,22,996,8,15,130,768,59.7,"Yes",3.5
+"IntelA Processors","Server",114,22,3616,20,25,95,768,59.7,"Yes",2.4
+"IntelA Processors","Server",114,22,832,16,20,95,384,38.4,"Yes",1.9
+"IntelA Processors","Server",313,22,612,12,15,60,768,51.2,"Yes",2.4
+"IntelA Processors","Server",114,22,612,12,15,60,384,38.4,"Yes",2.4
+"IntelA Processors","Server",114,22,2725,20,20,95,768,59.7,"Yes",2.2
+"IntelA Processors","Server",313,22,612,12,15,80,768,51.2,"Yes",2.6
+"IntelA Processors","Server",114,22,551,12,15,80,384,38.4,"Yes",2.5
+"IntelA Processors","Server",114,22,2108,8,16,130,768,59.7,"No",3.3
+"IntelA Processors","Embedded",114,22,2405,20,25,70,768,59.7,"Yes",1.9
+"IntelA Processors","Embedded",313,22,1216,16,20,70,768,51.2,"Yes",1.9
+"IntelA Processors","Embedded",114,22,1013,16,20,60,384,38.4,"Yes",1.8
+"IntelA Processors","Server",313,22,406,12,15,80,768,51.2,"Yes",2.1
+"IntelA Processors","Server",114,22,406,12,15,80,384,38.4,"Yes",2.2
+"IntelA Processors","Server",313,22,1223,12,15,130,256,59.7,"Yes",3.7
+"IntelA Processors","Server",114,22,1611,16,20,95,768,51.2,"Yes",2.6
+"IntelA Processors","Embedded",313,22,632,12,15,50,768,42.6,"Yes",2
+"IntelA Processors","Embedded",114,22,607,12,15,50,384,32,"Yes",2
+"IntelA Processors","Server",313,22,583,12,12,130,256,59.7,"Yes",3.5
+"IntelA Processors","Server",114,22,1219,16,16,95,768,51.2,"Yes",2.3
+"IntelA Processors","Server",114,22,885,12,15,95,768,42.6,"Yes",2.6
+"IntelA Processors","Server",313,22,91,4,10,80,768,42.6,"No",2.5
+"IntelA Processors","Server",114,22,250,4,10,80,384,32,"No",2.4
+"IntelA Processors","Server",313,22,294,8,10,130,256,59.7,"Yes",3.7
+"IntelA Processors","Embedded",114,22,494,12,15,60,384,38.4,"Yes",2.2
+"IntelA Processors","Server",313,22,202,4,10,80,768,42.6,"No",1.8
+"IntelA Processors","Server",114,22,192,4,10,80,384,32,"No",1.8
+"IntelA Processors","Server",114,22,551,8,10,95,768,42.6,"Yes",2.2
+"IntelA Processors","Server",112,32,1446,16,20,150,256,51.2,"Yes",3.1
+"IntelA Processors","Server",112,32,1980,16,20,130,384,51.2,"Yes",2.7
+"IntelA Processors","Server",112,32,1446,16,20,115,384,51.2,"Yes",2.6
+"IntelA Processors","Server",112,32,1552,12,15,130,384,51.2,"Yes",2.9
+"IntelA Processors","Server",112,32,1113,16,20,115,384,51.2,"Yes",2.4
+"IntelA Processors","Server",112,32,2391,16,20,95,384,51.2,"Yes",2.2
+"IntelA Processors","Embedded",112,32,1479,16,20,95,384,51.2,"Yes",2.1
+"IntelA Processors","Server",112,32,1479,16,20,95,384,51.2,"Yes",2
+"IntelA Processors","Embedded",112,32,1266,16,20,70,384,51.2,"Yes",1.8
+"IntelA Processors","Server",112,32,1107,16,20,70,384,51.2,"Yes",1.8
+"IntelA Processors","Server",112,32,885,8,10,130,384,51.2,"Yes",3.3
+"IntelA Processors","Server",212,32,885,16,20,95,384,38.4,"Yes",2.3
+"IntelA Processors","Server",212,32,1107,16,20,70,384,38.4,"Yes",1.8
+"IntelA Processors","Server",112,32,1440,12,15,95,384,42.6,"Yes",2.5
+"IntelA Processors","Server",212,32,1479,16,20,95,384,38.4,"Yes",2.1
+"IntelA Processors","Server",112,32,885,4,5,80,384,51.2,"Yes",3
+"IntelA Processors","Embedded",212,32,1266,16,20,70,384,38.4,"Yes",1.8
+"IntelA Processors","Server",212,32,1350,16,20,115,384,51.2,"Yes",2.6
+"IntelA Processors","Server",112,32,662,12,15,60,384,42.6,"Yes",2
+"IntelA Processors","Server",212,32,1446,16,20,130,384,51.2,"Yes",2.7
+"IntelA Processors","Server",212,32,885,12,15,95,384,32,"Yes",2.4
+"IntelA Processors","Server",112,32,1611,12,15,95,384,42.6,"Yes",2.3
+"IntelA Processors","Server",112,32,1552,12,15,130,256,51.2,"Yes",3.3
+"IntelA Processors","Server",212,32,662,12,15,60,384,32,"Yes",2
+"IntelA Processors","Server",212,32,890,12,15,95,384,32,"Yes",2.2
+"IntelA Processors","Server",212,32,1611,16,20,95,384,51.2,"Yes",2.4
+"IntelA Processors","Embedded",212,32,692,12,15,60,384,38.4,"Yes",1.8
+"IntelA Processors","Server",212,32,1107,16,16,95,384,42.6,"Yes",2.2
+"IntelA Processors","Server",112,32,583,12,12,130,256,51.2,"Yes",3.2
+"IntelA Processors","Server",112,32,2391,12,15,95,384,42.6,"Yes",2
+"IntelA Processors","Server",212,32,1440,12,15,95,384,32,"Yes",1.9
+"IntelA Processors","Server",212,32,1611,6,15,130,384,51.2,"No",2.9
+"IntelA Processors","Embedded",212,32,428,8,10,50,384,38.4,"Yes",2
+"IntelA Processors","Server",212,32,480,12,153,60,384,32,"Yes",1.8
+"IntelA Processors","Server",112,32,294,8,10,130,375,51.2,"Yes",3.6
+"IntelA Processors","Server",112,32,120,4,10,80,384,34.1,"No",2.4
+"IntelA Processors","Server",212,32,832,12,15,95,384,42.6,"Yes",2.4
+"IntelA Processors","Server",212,32,161,4,10,80,384,25,"No",2.2
+"IntelA Processors","Server",212,32,1219,12,12,95,384,34.1,"Yes",2.2
+"IntelA Processors","Server",212,32,27,4,10,80,384,25,"No",1.8
+"IntelA Processors","Server",212,32,1107,8,10,95,384,34.1,"Yes",2
+"IntelA Processors","Server",112,32,47,4,10,80,384,34.1,"No",1.8
+"IntelA Processors","Server",117,14,104,4,8,73,64,37.5,"No",3.3
+"IntelA Processors","Server",117,14,612,8,8,72,64,37.5,"Yes",3.5
+"IntelA Processors","Server",117,14,339,8,8,72,64,37.5,"Yes",3.7
+"IntelA Processors","Server",117,14,662,8,8,73,64,37.5,"Yes",3.7
+"IntelA Processors","Server",117,14,450,8,8,72,64,37.5,"Yes",3.8
+"IntelA Processors","Server",117,14,339,8,8,73,64,37.5,"Yes",3.8
+"IntelA Processors","Server",117,14,383,8,8,72,64,37.5,"Yes",3.9
+"IntelA Processors","Server",317,14,450,8,8,79,64,37.5,"Yes",4.1
+"IntelA Processors","Embedded",217,14,161,4,6,25,64,34.1,"No",2.1
+"IntelA Processors","Embedded",217,14,64,4,6,45,64,34.1,"No",2.9
+"IntelA Processors","Embedded",117,14,433,8,8,25,64,34.1,"Yes",2.2
+"IntelA Processors","Mobile",117,14,434,8,8,45,64,34.1,"Yes",3
+"IntelA Processors","Mobile",117,14,623,8,8,45,64,34.1,"Yes",3.1
+"IntelA Processors","Server",415,14,161,4,8,80,64,34.1,"No",3.3
+"IntelA Processors","Server",415,14,328,8,8,80,64,34.1,"Yes",3.4
+"IntelA Processors","Server",415,14,339,8,8,80,64,34.1,"Yes",3.5
+"IntelA Processors","Server",415,14,250,4,8,25,64,34.1,"No",2
+"IntelA Processors","Server",415,14,278,8,8,25,64,34.1,"Yes",2.1
+"IntelA Processors","Server",415,14,612,8,8,80,64,34.1,"Yes",3.5
+"IntelA Processors","Server",415,14,294,8,8,45,64,34.1,"Yes",2.9
+"IntelA Processors","Embedded",415,14,377,8,8,35,64,34.1,"Yes",2.4
+"IntelA Processors","Server",415,14,662,8,8,80,64,34.1,"Yes",3.6
+"IntelA Processors","Server",415,14,662,8,8,80,64,34.1,"Yes",3.6
+"IntelA Processors","Server",415,14,612,8,8,80,64,34.1,"Yes",3.7
+"IntelA Processors","Mobile",315,14,434,8,8,45,64,34.1,"Yes",2.8
+"IntelA Processors","Embedded",415,14,433,8,8,25,64,34.1,"Yes",2
+"IntelA Processors","Mobile",116,14,489,8,8,45,64,34.1,"Yes",2.8
+"IntelA Processors","Mobile",315,14,623,8,8,45,64,34.1,"Yes",2.9
+"IntelA Processors","Mobile",116,14,679,8,8,45,64,34.1,"Yes",2.9
+"IntelA Processors","Embedded",216,14,396,8,8,45,64,25.6,"Yes",1.9
+"IntelA Processors","Server",216,14,417,8,8,35,64,25.6,"Yes",2.5
+"IntelA Processors","Mobile",116,14,1207,8,8,45,64,34.1,"Yes",3
+"IntelA Processors","Embedded",216,14,449,8,8,45,64,25.6,"Yes",2
+"IntelA Processors","Server",216,14,445,8,8,45,64,25.6,"Yes",3
+"IntelA Processors","Server",216,14,556,8,8,65,64,25.6,"Yes",3.5
+"IntelA Processors","Server",215,14,417,8,6,35,32,29.8,"Yes",2.3
+"IntelA Processors","Embedded",215,14,449,8,6,47,32,25.6,"Yes",2
+"IntelA Processors","Server",215,14,556,8,6,95,32,29.8,"Yes",3.5
+"IntelA Processors","Server",215,14,445,8,6,65,32,29.8,"Yes",3.4
+"IntelA Processors","Server",313,22,47,4,4,13,32,25.6,"Yes",1.1
+"IntelA Processors","Server",214,22,21,4,8,84,32,25.6,"No",3.3
+"IntelA Processors","Server",213,22,86,4,8,84,32,25.6,"No",3.2
+"IntelA Processors","Server",213,22,323,8,8,80,32,25.6,"Yes",3.3
+"IntelA Processors","Server",213,22,250,8,8,25,32,25.6,"Yes",1.8
+"IntelA Processors","Server",214,22,662,8,8,80,32,25.6,"Yes",3.4
+"IntelA Processors","Server",213,22,339,8,8,80,32,25.6,"Yes",3.4
+"IntelA Processors","Server",214,22,278,8,8,25,32,25.6,"Yes",2
+"IntelA Processors","Server",214,22,339,8,8,80,32,25.6,"Yes",3.5
+"IntelA Processors","Server",213,22,662,8,8,84,32,25.6,"Yes",3.4
+"IntelA Processors","Server",214,22,450,8,8,84,32,25.6,"Yes",3.5
+"IntelA Processors","Server",213,22,383,8,8,84,32,25.6,"Yes",3.5
+"IntelA Processors","Server",213,22,294,8,8,45,32,25.6,"Yes",2.5
+"IntelA Processors","Server",214,22,556,8,8,80,32,25.6,"Yes",3.6
+"IntelA Processors","Embedded",213,22,377,8,8,45,32,25.6,"Yes",2.3
+"IntelA Processors","Server",213,22,445,8,8,80,32,25.6,"Yes",3.5
+"IntelA Processors","Server",214,22,328,8,8,45,32,25.6,"Yes",2.7
+"IntelA Processors","Server",213,22,612,8,8,82,32,25.6,"Yes",3.6
+"IntelA Processors","Server",214,22,450,8,8,84,32,25.6,"Yes",3.6
+"IntelA Processors","Server",214,22,612,8,8,82,32,25.6,"Yes",3.7
+"IntelA Processors","Server",213,22,662,8,8,84,32,25.6,"Yes",3.6
+"IntelA Processors","Server",213,22,662,8,8,65,32,25.6,"Yes",3.1
+"IntelA Processors","Server",214,22,662,8,8,84,32,25.6,"Yes",3.7
+"IntelA Processors","Server",214,22,774,8,8,65,32,25.6,"Yes",3.2
+"IntelA Processors","Embedded",313,22,389,8,83,25,32,25.6,"Yes",1.8
+"IntelA Processors","Embedded",313,22,545,8,83,40,32,25.6,"Yes",2.5
+"IntelA Processors","Server",212,22,189,4,3,17,32.23,25.6,"Yes",2.3
+"IntelA Processors","Server",212,22,21,4,8,69,32.77,25.6,"No",3.1
+"IntelA Processors","Server",212,22,161,4,8,77,32.77,25.6,"No",3.2
+"IntelA Processors","Server",212,22,369,8,8,69,32.77,25.6,"Yes",3.3
+"IntelA Processors","Server",212,22,612,8,8,69,32.77,25.6,"Yes",3.4
+"IntelA Processors","Server",212,22,774,8,8,77,32.77,25.6,"Yes",3.4
+"IntelA Processors","Server",212,22,305,8,8,45,32.77,25.6,"Yes",2.5
+"IntelA Processors","Server",212,22,612,8,8,69,32.77,25.6,"Yes",3.5
+"IntelA Processors","Server",212,22,623,8,8,69,32.77,25.6,"Yes",3.6
+"IntelA Processors","Server",212,22,328,8,8,77,32.77,25.6,"Yes",3.5
+"IntelA Processors","Server",212,22,662,8,8,87,32.77,25.6,"Yes",3.7
+"IntelA Processors","Embedded",212,32,519,8,83,40,32,25.6,"Yes",2
+"IntelA Processors","Server",211,32,189,4,8,80,32,21,"No",3.1
+"IntelA Processors","Server",211,32,189,4,3,20,32,21,"Yes",2.2
+"IntelA Processors","Server",211,32,64,4,6,95,32,21,"No",3.1
+"IntelA Processors","Server",211,32,230,8,8,80,32,21,"Yes",3.2
+"IntelA Processors","Server",211,32,445,8,8,80,32,21,"Yes",3.3
+"IntelA Processors","Server",211,32,250,8,8,95,32,21,"Yes",3.2
+"IntelA Processors","Server",211,32,150,8,8,95,32,21,"Yes",3.3
+"IntelA Processors","Server",211,32,294,8,8,45,32,21,"Yes",2.4
+"IntelA Processors","Server",211,32,556,8,8,95,32,21,"Yes",3.4
+"IntelA Processors","Server",211,32,294,8,8,80,32,21,"Yes",3.4
+"IntelA Processors","Server",211,32,383,8,8,95,32,21,"Yes",3.5
+"IntelA Processors","Server",415,14,234,8,6,35,128,34.1,"Yes",2.2
+"IntelA Processors","Server",115,14,199,8,6,45,128,34.1,"Yes",2.2
+"IntelA Processors","Server",415,14,199,8,6,45,128,37.5,"Yes",2.4
+"IntelA Processors","Server",317,14,256,8,6,45,128,34.1,"Yes",2
+"IntelA Processors","Server",415,14,259,8,6,35,128,34.1,"Yes",2.2
+"IntelA Processors","Server",415,14,389,12,9,35,128,34.1,"Yes",1.9
+"IntelA Processors","Server",216,14,324,8,6,20,128,34.1,"Yes",1.3
+"IntelA Processors","Server",415,14,348,12,9,45,128,34.1,"Yes",2.2
+"IntelA Processors","Server",317,14,470,12,9,45,128,34.1,"Yes",2.1
+"IntelA Processors","Server",415,14,571,16,12,35,128,34.1,"Yes",1.7
+"IntelA Processors","Server",216,14,590,16,12,35,128,34.1,"Yes",1.6
+"IntelA Processors","Server",115,14,581,16,12,45,128,34.1,"Yes",2
+"IntelA Processors","Server",415,14,581,16,12,45,128,34.1,"Yes",2.1
+"IntelA Processors","Server",317,14,652,16,12,45,128,34.1,"Yes",1.9
+"IntelA Processors","Server",415,14,675,16,12,45,128,34.1,"Yes",2
+"IntelA Processors","Server",216,14,883,24,18,45,128,34.1,"Yes",1.5
+"IntelA Processors","Server",116,14,844,24,18,45,128,34.1,"Yes",1.5
+"IntelA Processors","Server",116,14,1299,24,18,65,128,34.1,"Yes",2.1
+"IntelA Processors","Server",317,14,855,16,12,65,128,34.1,"Yes",2.3
+"IntelA Processors","Server",116,14,1222,32,24,45,128,34.1,"Yes",1.3
+"IntelA Processors","Server",116,14,1477,32,24,45,128,34.1,"Yes",1.3
+"Legacy IntelA Processors","Server",111,32,403,4,8,80,288,25.6,"No",2.13
+"Legacy IntelA Processors","Server",303,130,3587,4,5122,40,32,21,"Yes",2.4
+"Legacy IntelA Processors","Server",204,90,68,2,12,55,32,17,"Yes",2.8
+"Legacy IntelA Processors","Server",111,32,403,4,8,80,288,25.6,"No",2.26
+"Legacy IntelA Processors","Server",302,130,1980,4,5122,30,32,21,"Yes",1.6
+"Legacy IntelA Processors","Server",110,32,551,8,12,80,288,25.6,"Yes",2.4
+"Legacy IntelA Processors","Server",304,130,856,4,5122,85,64,85,"Yes",3
+"Legacy IntelA Processors","Server",110,32,692,8,12,80,288,25.6,"Yes",2.53
+"Legacy IntelA Processors","Server",204,130,3692,4,42,85,8,17.1,"Yes",3
+"Legacy IntelA Processors","Server",407,90,1552,4,22,110,32,51.2,"Yes",3.8
+"Legacy IntelA Processors","Server",110,32,493,8,12,80,288,25.6,"Yes",2.66
+"Legacy IntelA Processors","Server",401,130,1177,4,5122,74,64,68,"Yes",2.8
+"Legacy IntelA Processors","Server",407,90,1223,4,22,110,32,51.2,"Yes",3.8
+"Legacy IntelA Processors","Server",110,32,503,12,12,80,288,32,"Yes",2.4
+"Legacy IntelA Processors","Server",407,130,3692,4,22,72,64,34.1,"No",2.8
+"Legacy IntelA Processors","Server",111,32,444,12,12,80,288,32,"Yes",2.53
+"Legacy IntelA Processors","Server",100,130,1980,4,22,80,16,25.6,"No",2.7
+"Legacy IntelA Processors","Server",206,90,1334,4,22,110,144,32,"Yes",3.6
+"Legacy IntelA Processors","Server",110,32,440,4,12,40,288,25.6,"No",1.86
+"Legacy IntelA Processors","Server",108,90,1334,4,22,110,144,32,"Yes",3.6
+"Legacy IntelA Processors","Server",108,130,3692,4,5122,60,144,32,"Yes",2.6
+"Legacy IntelA Processors","Server",110,32,437,8,12,40,32,21.3,"Yes",1.87
+"Legacy IntelA Processors","Server",109,45,74,2,4,80,144,19.2,"No",1.86
+"Legacy IntelA Processors","Server",407,45,231,4,122,80,384,68,"No",2
+"Legacy IntelA Processors","Server",404,130,1980,4,12,66,64,59.7,"No",2.5
+"Legacy IntelA Processors","Server",104,90,594,4,12,103,32,21,"Yes",3.6
+"Legacy IntelA Processors","Server",110,32,306,8,12,40,288,25.6,"Yes",2.13
+"Legacy IntelA Processors","Server",110,45,37,2,4,80,144,19.2,"No",2
+"Legacy IntelA Processors","Server",407,45,284,4,122,80,384,68,"No",2.33
+"Legacy IntelA Processors","Server",111,130,1980,4,5122,65,144,32,"Yes",2.4
+"Legacy IntelA Processors","Server",205,90,1350,4,22,110,144,32,"Yes",3.4
+"Legacy IntelA Processors","Server",109,45,221,4,4,80,144,19.2,"No",2
+"Legacy IntelA Processors","Server",110,32,525,12,12,60,288,25.6,"Yes",2
+"Legacy IntelA Processors","Server",407,45,347,4,122,80,1.54,68,"No",2.5
+"Legacy IntelA Processors","Server",308,90,1611,4,22,110,64,51.2,"Yes",3.4
+"Legacy IntelA Processors","Server",407,130,3692,4,5122,61,128,59.7,"Yes",2.2
+"Legacy IntelA Processors","Server",109,45,560,4,4,80,144,19.2,"No",2.13
+"Legacy IntelA Processors","Server",407,45,42,2,62,65,32,17,"No",1.86
+"Legacy IntelA Processors","Server",407,45,491,4,122,80,8,68,"No",2.66
+"Legacy IntelA Processors","Server",102,130,1177,4,22,65,8,17.1,"No",2.2
+"Legacy IntelA Processors","Server",105,90,1059,4,12,103,32,25.6,"Yes",3.4
+"Legacy IntelA Processors","Server",110,32,940,12,12,60,288,32,"Yes",2.26
+"Legacy IntelA Processors","Server",110,45,221,4,4,80,144,19.2,"No",2.26
+"Legacy IntelA Processors","Server",108,45,317,4,62,65,32,21,"No",2.33
+"Legacy IntelA Processors","Server",108,45,287,4,122,80,384,68,"No",2.83
+"Legacy IntelA Processors","Server",106,65,163,4,22,15,8,21.3,"No",1.66
+"Legacy IntelA Processors","Server",102,130,307,4,5122,58,144,25.6,"Yes",2
+"Legacy IntelA Processors","Server",407,90,774,4,22,110,32,21,"Yes",3.2
+"Legacy IntelA Processors","Server",111,32,774,8,12,130,288,25.6,"Yes",2.93
+"Legacy IntelA Processors","Server",109,45,493,8,8,80,144,25.6,"Yes",2.26
+"Legacy IntelA Processors","Server",407,45,969,4,122,80,32.77,21,"No",3
+"Legacy IntelA Processors","Embedded",108,45,649,4,62,65,1.54,85,"No",3
+"Legacy IntelA Processors","Server",306,65,369,4,22,31,32,21,"No",2.16
+"Legacy IntelA Processors","Server",406,90,1113,4,22,110,64.23,76.8,"Yes",3.2
+"Legacy IntelA Processors","Server",203,130,3587,4,22,57,16,21.3,"No",2
+"Legacy IntelA Processors","Server",110,32,1107,12,12,95,288,32,"Yes",2.66
+"Legacy IntelA Processors","Server",109,45,493,8,8,80,144,25.6,"Yes",2.4
+"Legacy IntelA Processors","Server",407,45,326,4,122,80,8,68,"No",2.8
+"Legacy IntelA Processors","Server",204,90,594,4,12,103,32,21,"Yes",3.2
+"Legacy IntelA Processors","Server",205,130,3692,4,22,92,16,21.3,"Yes",3.2
+"Legacy IntelA Processors","Server",317,180,3692,4,2562,77.5,128,68,"No",2
+"Legacy IntelA Processors","Server",106,65,178,4,22,31,32,17,"No",2
+"Legacy IntelA Processors","Server",204,65,81,2,42,65,16,21.3,"No",1.6
+"Legacy IntelA Processors","Server",110,32,551,12,12,95,288,32,"Yes",2.8
+"Legacy IntelA Processors","Server",109,45,940,8,8,80,144,25.6,"Yes",2.53
+"Legacy IntelA Processors","Server",407,45,286,4,122,80,32,21,"No",3
+"Legacy IntelA Processors","Server",206,130,856,4,12,57,144,32,"No",2
+"Legacy IntelA Processors","Server",203,130,1177,4,12,92,16,42.6,"Yes",3.2
+"Legacy IntelA Processors","Server",407,65,39,2,42,65,64.45,68,"No",1.86
+"Legacy IntelA Processors","Server",110,32,1440,8,12,95,288,32,"Yes",3.06
+"Legacy IntelA Processors","Server",407,45,413,4,256,65,64,68,"No",0.6
+"Legacy IntelA Processors","Server",109,45,649,4,4,60,144,19.2,"No",2.13
+"Legacy IntelA Processors","Server",109,45,340,4,122,65,144,25.6,"No",2.83
+"Legacy IntelA Processors","Server",308,45,403,4,62,20,768,68,"No",1.86
+"Legacy IntelA Processors","Embedded",108,45,494,4,122,40,144,25.6,"No",2.13
+"Legacy IntelA Processors","Server",406,65,284,4,82,80,32,21,"No",1.6
+"Legacy IntelA Processors","Server",107,130,1850,4,12,55,8,34.1,"No",1.9
+"Legacy IntelA Processors","Server",408,130,3587,4,5122,85,64,59.7,"Yes",3.06
+"Legacy IntelA Processors","Server",106,65,107,2,22,31,32,21,"No",1.66
+"Legacy IntelA Processors","Server",206,65,37,2,42,65,32,21,"No",2
+"Legacy IntelA Processors","Server",109,90,3157,4,42,135,144,32,"Yes",2.8
+"Legacy IntelA Processors","Server",407,90,1334,4,22,110,128,68,"Yes",3
+"Legacy IntelA Processors","Server",110,32,551,12,12,95,288,32,"Yes",2.93
+"Legacy IntelA Processors","Embedded",109,45,403,4,8,38,144,25.6,"Yes",2
+"Legacy IntelA Processors","Server",108,45,177,4,62,95,32,21.3,"No",2.5
+"Legacy IntelA Processors","Server",108,45,326,4,122,50,32,21,"No",2.33
+"Legacy IntelA Processors","Server",406,65,268,4,82,80,128,68,"No",1.86
+"Legacy IntelA Processors","Server",203,180,1980,4,22,40,16.38,21,"No",0.9
+"Legacy IntelA Processors","Server",210,65,494,4,42,95,1.54,85,"Yes",2.6
+"Legacy IntelA Processors","Server",204,130,3692,4,12,87,8.3,21,"Yes",3.06
+"Legacy IntelA Processors","Server",100,130,1100,4,5122,55,32,21.3,"Yes",1.8
+"Legacy IntelA Processors","Server",206,65,478,4,42,65,144,25.6,"No",2.33
+"Legacy IntelA Processors","Server",107,65,369,4,22,65,32,21,"No",1.86
+"Legacy IntelA Processors","Server",204,90,594,4,12,103,32,21,"Yes",3
+"Legacy IntelA Processors","Server",111,32,2391,8,12,95,288,32,"Yes",3.2
+"Legacy IntelA Processors","Server",110,45,1479,8,183,95,384,85,"Yes",1.87
+"Legacy IntelA Processors","Server",110,32,201,4,4,30,16.38,17,"Yes",2.26
+"Legacy IntelA Processors","Embedded",109,45,504,8,8,60,144,25.6,"Yes",2.13
+"Legacy IntelA Processors","Server",308,45,1223,4,82,90,768,85,"No",2.13
+"Legacy IntelA Processors","Embedded",108,45,560,4,62,35,144,25.6,"No",2.66
+"Legacy IntelA Processors","Server",108,45,413,4,122,50,144,85,"No",2.5
+"Legacy IntelA Processors","Server",107,65,326,4,82,80,16,85,"No",2
+"Legacy IntelA Processors","Server",209,90,93,2,22,55,32,21.3,"Yes",3
+"Legacy IntelA Processors","Server",100,180,1980,4,22,29.6,16,51.2,"No",0.7
+"Legacy IntelA Processors","Server",306,65,1177,4,42,95,32,21,"Yes",2.5
+"Legacy IntelA Processors","Server",408,180,3692,4,2562,65.8,128,68,"No",1.7
+"Legacy IntelA Processors","Server",404,65,76,2,42,65,32,21,"No",2.66
+"Legacy IntelA Processors","Server",207,65,221,4,22,65,32,21.3,"No",2.13
+"Legacy IntelA Processors","Server",111,32,890,12,12,95,288,32,"Yes",3.06
+"Legacy IntelA Processors","Server",310,32,594,12,12,130,24,25.6,"Yes",3.2
+"Legacy IntelA Processors","Server",110,45,1552,12,123,105,144,32,"Yes",1.87
+"Legacy IntelA Processors","Server",309,45,305,8,8,45,32,21,"Yes",1.86
+"Legacy IntelA Processors","Server",109,45,306,8,8,60,144,25.6,"Yes",2.26
+"Legacy IntelA Processors","Server",109,45,305,8,8,130,24,25.6,"Yes",2.66
+"Legacy IntelA Processors","Server",308,45,1223,4,122,90,768,68,"No",2.13
+"Legacy IntelA Processors","Server",308,45,202,4,62,95,768,68,"No",2.66
+"Legacy IntelA Processors","Server",208,45,42,2,62,40,16,21,"No",3
+"Legacy IntelA Processors","Server",308,45,601,4,122,50,32,21.3,"No",2.66
+"Legacy IntelA Processors","Server",307,65,29,4,42,80,64,85,"No",1.6
+"Legacy IntelA Processors","Server",107,65,340,4,82,80,32.77,21,"No",2.33
+"Legacy IntelA Processors","Server",203,180,1100,4,12,29.6,8,42.6,"No",0.7
+"Legacy IntelA Processors","Server",408,90,594,4,12,103,128,51,"Yes",3
+"Legacy IntelA Processors","Server",203,180,307,4,2562,29.6,8,17.1,"No",0.933
+"Legacy IntelA Processors","Server",407,65,32,2,42,80,32,17,"No",3
+"Legacy IntelA Processors","Server",306,65,1177,4,42,95,32,21,"Yes",3
+"Legacy IntelA Processors","Server",105,65,178,4,42,95,32,21.3,"Yes",2.66
+"Legacy IntelA Processors","Server",308,65,163,4,42,65,64,85,"No",2.4
+"Legacy IntelA Processors","Server",110,32,1663,8,12,130,288,32,"Yes",3.46
+"Legacy IntelA Processors","Server",110,45,1552,12,183,105,384,85,"Yes",2
+"Legacy IntelA Processors","Server",309,45,250,4,8,95,32,21,"No",2.4
+"Legacy IntelA Processors","Server",309,45,444,8,8,60,144,25.6,"Yes",2.4
+"Legacy IntelA Processors","Server",110,45,305,8,8,130,24,25.6,"Yes",2.8
+"Legacy IntelA Processors","Server",308,45,2059,4,162,90,144,25.6,"No",2.4
+"Legacy IntelA Processors","Server",407,45,912,4,122,120,32,25.6,"No",3
+"Legacy IntelA Processors","Server",108,45,268,4,122,95,384,85,"No",2.66
+"Legacy IntelA Processors","Server",307,65,478,4,42,80,128,59.7,"No",2.13
+"Legacy IntelA Processors","Server",407,65,1177,4,42,65,128,68,"No",2.33
+"Legacy IntelA Processors","Server",408,65,41,2,42,40,32,17,"No",1.6
+"Legacy IntelA Processors","Server",107,65,287,4,82,50,384,85,"No",1.6
+"Legacy IntelA Processors","Server",203,180,1980,4,2562,27.4,8,17.1,"No",0.866
+"Legacy IntelA Processors","Server",107,250,1980,4,5122,34,144,32,"Yes",0.55
+"Legacy IntelA Processors","Server",107,180,1100,4,12,72,8.79,17.1,"No",1.6
+"Legacy IntelA Processors","Server",403,130,1850,4,5122,74,64,59.7,"Yes",2.8
+"Legacy IntelA Processors","Server",107,65,478,4,42,95,1.54,85,"Yes",3
+"Legacy IntelA Processors","Server",108,65,163,4,42,95,1.54,85,"Yes",2.83
+"Legacy IntelA Processors","Server",110,90,1663,4,12,110,144,32,"Yes",3.66
+"Legacy IntelA Processors","Server",407,90,1113,4,22,110,32,21,"Yes",2.8
+"Legacy IntelA Processors","Server",407,130,1177,4,5122,34.5,64.45,68,"Yes",0.45
+"Legacy IntelA Processors","Embedded",110,45,286,4,83,85,144,25.6,"No",2
+"Legacy IntelA Processors","Server",110,45,193,12,183,95,32,17,"Yes",1.87
+"Legacy IntelA Processors","Server",309,45,230,8,8,95,32,21,"Yes",2.53
+"Legacy IntelA Processors","Server",109,45,594,8,8,130,24,25.6,"Yes",2.93
+"Legacy IntelA Processors","Server",109,45,1059,8,8,130,144,32,"Yes",3.2
+"Legacy IntelA Processors","Server",308,45,2391,6,123,90,144,32,"No",2.4
+"Legacy IntelA Processors","Server",107,65,231,4,82,40,16,21,"No",1.6
+"Legacy IntelA Processors","Server",407,45,1245,4,122,120,64,34.1,"No",3.16
+"Legacy IntelA Processors","Server",307,65,478,4,62,80,128,68,"No",2.4
+"Legacy IntelA Processors","Server",204,180,1177,4,2562,25.4,8,85,"No",0.8
+"Legacy IntelA Processors","Server",102,250,1980,4,22,39.5,8,10.6,"No",0.55
+"Legacy IntelA Processors","Server",206,180,856,4,5122,68,144,85,"Yes",1.5
+"Legacy IntelA Processors","Server",407,65,1391,4,82,150,64,68,"Yes",3.2
+"Legacy IntelA Processors","Server",412,130,307,4,12,77,64.45,59.7,"Yes",2.8
+"Legacy IntelA Processors","Server",107,65,177,4,42,95,32,21.3,"Yes",3
+"Legacy IntelA Processors","Server",307,65,1177,4,42,65,32,85,"No",2.66
+"Legacy IntelA Processors","Server",208,90,999,4,82,129,24,32,"No",3.33
+"Legacy IntelA Processors","Server",100,90,1059,4,12,103,32,21.3,"Yes",2.8
+"Legacy IntelA Processors","Server",204,90,369,4,22,46.7,8,17.1,"No",0.45
+"Legacy IntelA Processors","Server",110,32,594,12,12,130,24,32,"Yes",3.33
+"Legacy IntelA Processors","Server",110,32,594,12,12,130,288,32,"Yes",3.33
+"Legacy IntelA Processors","Embedded",110,45,326,4,83,65,144,25.6,"No",2.13
+"Legacy IntelA Processors","Embedded",110,45,417,2,43,65,144,25.6,"No",2.27
+"Legacy IntelA Processors","Server",309,45,369,8,8,95,32,21,"Yes",2.66
+"Legacy IntelA Processors","Server",110,45,551,16,243,95,384,68,"Yes",1.87
+"Legacy IntelA Processors","Server",309,45,1059,8,8,130,144,32,"Yes",3.33
+"Legacy IntelA Processors","Server",309,45,305,8,8,130,24,25.6,"Yes",3.06
+"Legacy IntelA Processors","Server",308,45,1467,4,122,120,768,85,"No",3.33
+"Legacy IntelA Processors","Server",108,45,179,4,62,65,32,21,"No",3
+"Legacy IntelA Processors","Server",108,45,287,4,122,95,384,85,"No",2.83
+"Legacy IntelA Processors","Server",407,45,72,2,62,80,8.79,25.6,"No",3.33
+"Legacy IntelA Processors","Server",110,90,1350,4,22,110,4.1,51.2,"Yes",2.8
+"Legacy IntelA Processors","Server",206,65,494,4,42,40,144,25.6,"No",1.86
+"Legacy IntelA Processors","Server",107,65,601,4,82,50,144,32,"No",1.86
+"Legacy IntelA Processors","Server",102,180,3692,4,2562,23.3,144,32,"No",0.733
+"Legacy IntelA Processors","Server",307,250,3692,4,12,34,8,17.1,"No",0.55
+"Legacy IntelA Processors","Server",204,65,1467,4,82,150,24,32,"Yes",3.16
+"Legacy IntelA Processors","Server",408,130,1100,4,5122,72,64,68,"Yes",2.66
+"Legacy IntelA Processors","Server",100,180,3692,4,2562,59.2,8.79,17.1,"No",1.5
+"Legacy IntelA Processors","Server",110,90,1177,4,22,165,24,32,"Yes",2.66
+"Legacy IntelA Processors","Server",205,65,2280,4,42,130,24,32,"Yes",3.2
+"Legacy IntelA Processors","Server",407,90,583,4,12,110,8.01,21.3,"Yes",3.16
+"Legacy IntelA Processors","Server",204,90,594,4,12,110,32,21,"No",3.5
+"Legacy IntelA Processors","Server",111,32,1663,8,12,130,288,32,"Yes",3.6
+"Legacy IntelA Processors","Server",104,130,856,4,22,46.7,8.79,17.1,"No",0.45
+"Legacy IntelA Processors","Embedded",110,45,221,1,23,23,32,21.3,"No",1.73
+"Legacy IntelA Processors","Embedded",110,45,503,8,83,85,144,25.6,"Yes",2.53
+"Legacy IntelA Processors","Server",110,45,1245,6,183,130,24,25.6,"No",2.67
+"Legacy IntelA Processors","Server",110,45,946,8,123,105,144,25.6,"Yes",1.73
+"Legacy IntelA Processors","Server",309,45,437,8,8,95,32,21,"Yes",2.8
+"Legacy IntelA Processors","Server",409,45,305,8,8,130,24,25.6,"Yes",3.2
+"Legacy IntelA Processors","Server",109,45,885,8,8,95,144,32,"Yes",2.66
+"Legacy IntelA Processors","Server",308,45,340,4,122,50,16,21,"No",2.13
+"Legacy IntelA Processors","Server",308,45,52,2,62,80,32,17,"No",3.5
+"IntelA Processors","Server",317,14,5448,36,24.75,140,512,85.3,"Yes",2.3
+"Legacy IntelA Processors","Server",407,45,946,4,122,120,384,68,"No",3
+"IntelA Processors","Server",317,14,1440,20,13.75,140,512,85.3,"Yes",3.3
+"IntelA Processors","Server",317,14,1113,16,11,140,512,85.3,"Yes",3.7
+"IntelA Processors","Server",317,14,835,12,8.25,140,512,85.3,"Yes",3.7
+"IntelA Processors","Server",317,14,617,12,8.25,140,512,85.3,"Yes",3.6
+"IntelA Processors","Server",317,14,444,8,8.25,120,512,85.3,"Yes",4
+"IntelA Processors","Server",317,14,294,8,8.25,120,512,85.3,"Yes",3.6
+"Legacy IntelA Processors","Server",307,65,601,4,82,80,64,85,"No",2.4
+"Legacy IntelA Processors","Server",307,65,286,2,82,50,16,25.6,"No",2
+"Legacy IntelA Processors","Server",408,65,65,2,42,40,32,17,"No",2.2
+"Legacy IntelA Processors","Server",107,65,910,4,82,105,1.54,85,"No",2.13
+"Legacy IntelA Processors","Server",204,65,369,4,42,95,32,21.3,"Yes",3.2
+"Legacy IntelA Processors","Server",100,180,1980,4,2562,21.3,16,21.3,"No",0.667
+"Legacy IntelA Processors","Server",206,250,3692,4,5122,36,144,25.6,"Yes",0.5
+"Legacy IntelA Processors","Server",110,130,1100,4,12,48,144,32,"No",1.5
+"Legacy IntelA Processors","Server",305,65,1245,4,162,150,32,32,"Yes",3.4
+"Legacy IntelA Processors","Server",402,130,3692,4,5122,65,8,17.1,"Yes",2.4
+"Legacy IntelA Processors","Server",109,90,1980,4,22,165,288,25.6,"Yes",2.8
+"Legacy IntelA Processors","Server",209,90,224,4,82,129,24,25.6,"No",3
+"Legacy IntelA Processors","Server",204,90,583,4,12,103,32,25.6,"Yes",2.8
+"Legacy IntelA Processors","Server",111,32,594,12,12,130,24,32,"Yes",3.46
+"Legacy IntelA Processors","Server",111,32,583,12,12,130,288,32,"Yes",3.46
+"Legacy IntelA Processors","Server",407,130,856,4,5122,30.8,64,68,"Yes",0.4
+"Legacy IntelA Processors","Embedded",110,45,326,4,43,35,32,21.3,"Yes",1.73
+"Legacy IntelA Processors","Embedded",110,45,493,8,83,48,144,25.6,"Yes",1.73
+"Legacy IntelA Processors","Server",110,45,912,16,183,130,288,32,"Yes",2
+"Legacy IntelA Processors","Server",110,45,1245,12,183,105,8,85,"Yes",2
+"Legacy IntelA Processors","Server",309,45,339,8,8,95,32,21,"Yes",2.93
+"Legacy IntelA Processors","Server",109,45,1059,8,8,130,24,32,"Yes",3.2
+"Legacy IntelA Processors","Server",109,45,1611,8,8,95,144,32,"Yes",2.8
+"Legacy IntelA Processors","Server",308,45,428,6,122,65,144,25.6,"No",2.13
+"Legacy IntelA Processors","Embedded",108,45,63,1,32,30,32,21.3,"No",2.4
+"Legacy IntelA Processors","Server",308,45,339,4,122,95,768,85,"No",3
+"Legacy IntelA Processors","Server",308,45,107,2,62,65,32,21.3,"No",3.16
+"Legacy IntelA Processors","Server",407,45,161,4,62,80,32,21,"No",3.4
+"Legacy IntelA Processors","Server",407,45,1467,4,122,150,16,25.6,"No",3.2
+"Legacy IntelA Processors","Server",307,65,340,4,82,50,144,25.6,"No",1.86
+"Legacy IntelA Processors","Server",307,65,67,2,82,80,64.23,68,"No",2.4
+"Legacy IntelA Processors","Server",206,65,494,4,42,35,32,21.3,"No",2.13
+"Legacy IntelA Processors","Server",406,65,2837,4,82,120,64,68,"No",2.66
+"Legacy IntelA Processors","Server",107,65,6841,4,82,105,1.54,85,"No",2.4
+"Legacy IntelA Processors","Server",407,180,3587,4,2562,19.2,128,59.7,"No",0.6
+"Legacy IntelA Processors","Server",408,250,1980,4,22,36.2,8,17.1,"No",0.5
+"Legacy IntelA Processors","Server",102,180,1980,4,5122,64,144,32,"Yes",1.4
+"Legacy IntelA Processors","Server",205,65,1614,4,162,150,24,32,"Yes",3.33
+"Legacy IntelA Processors","Server",404,130,3587,4,12,77,16.38,21,"Yes",2.4
+"Legacy IntelA Processors","Server",110,90,3157,4,42,165,288,32,"Yes",3
+"Legacy IntelA Processors","Server",205,65,3157,4,42,130,24,32,"Yes",3.46
+"Legacy IntelA Processors","Server",204,90,58,1,2,65,16,17,"No",3
+"Legacy IntelA Processors","Server",409,45,268,4,5122,18.6,8,4.2,"Yes",0.4
+"Legacy IntelA Processors","Server",210,45,623,8,8,95,32,21,"Yes",3.06
+"Legacy IntelA Processors","Embedded",110,45,493,8,83,60,144,25.6,"Yes",2.13
+"Legacy IntelA Processors","Server",110,45,3838,16,243,130,24,32,"Yes",2.27
+"Legacy IntelA Processors","Server",110,45,1467,16,183,130,24,32,"Yes",2
+"Legacy IntelA Processors","Server",109,45,562,4,122,95,32,21.3,"No",3.16
+"Legacy IntelA Processors","Server",309,45,1059,8,8,130,24,32,"Yes",3.33
+"Legacy IntelA Processors","Server",109,45,1107,8,8,95,144,32,"Yes",2.93
+"Legacy IntelA Processors","Server",308,45,2837,6,162,130,288,25.6,"No",2.66
+"Legacy IntelA Processors","Server",308,45,1980,4,122,150,288,25.6,"No",3.4
+"Legacy IntelA Processors","Server",109,45,243,4,62,45,32,21,"No",3
+"Legacy IntelA Processors","Server",307,65,347,4,82,95,128,68,"No",2.66
+"Legacy IntelA Processors","Server",307,65,1245,4,82,130,288,32,"No",2.93
+"Legacy IntelA Processors","Server",307,65,491,4,82,80,128,85,"No",2.93
+"Legacy IntelA Processors","Server",307,65,1980,4,82,150,24,32,"No",3
+"Legacy IntelA Processors","Server",404,65,1467,4,162,150,64,32,"Yes",3.5
+"Legacy IntelA Processors","Server",100,250,1980,4,12,44,8,17.1,"No",0.5
+"Legacy IntelA Processors","Server",199,180,1980,4,2562,30.8,8,17.1,"No",1
+"Legacy IntelA Processors","Server",102,130,3587,4,5122,58,32,25.6,"Yes",2
+"Legacy IntelA Processors","Server",102,180,1980,4,2562,56,16,25.6,"No",1.4
+"Legacy IntelA Processors","Server",406,90,3157,4,42,165,64,68,"Yes",3
+"Legacy IntelA Processors","Server",206,65,42,2,42,40,32,17,"No",2.33
+"Legacy IntelA Processors","Server",108,65,851,4,42,130,144,32,"Yes",3.73
+"Legacy IntelA Processors","Server",213,90,2059,4,42,129,144,25.6,"Yes",2.83
+"IntelA Processors","Server",412,22,3368,56,302,225,8,320,"Yes",1.05
+"IntelA Processors","Server",213,22,1881,52,302,245,8,352,"Yes",1.05
+"IntelA Processors","Server",213,22,4616,52,30.52,300,16,352,"Yes",1.24
+"IntelA Processors","Server",213,22,5448,56,30.52,300,16,352,"Yes",1.24
+"IntelA Processors","Server",114,22,4394,52,30.52,270,16,352,"Yes",1.24
+"IntelA Processors","Server",214,22,4394,56,30.52,300,16,352,"Yes",1.24
+"IntelA Processors","Server",416,14,3213,56,362,245,384,115.2,"Yes",1.5
+"IntelA Processors","Server",416,14,2591,52,342,230,384,115.2,"Yes",1.4
+"IntelA Processors","Server",216,14,2436,56,342,215,384,115.2,"Yes",1.4
+"IntelA Processors","Server",416,14,2147,56,322,230,384,115.2,"Yes",1.3
+"IntelA Processors","Server",216,14,1992,56,322,215,384,115.2,"Yes",1.3
+"IntelA Processors","Server",416,14,2036,52,322,230,384,102,"Yes",1.3
+"IntelA Processors","Server",216,14,1881,56,322,215,384,102,"Yes",1.3
+"IntelA Processors","Server",217,32,3750,8,32,170,1.54,85,"Yes",2.53
+"IntelA Processors","Server",217,32,2650,16,24,170,768,51.2,"Yes",2.13
+"IntelA Processors","Server",217,32,1350,8,20,130,768,51.2,"Yes",1.73
+"IntelA Processors","Server",412,32,2650,16,24,170,64,34.1,"Yes",2.13
+"IntelA Processors","Server",412,32,3750,8,32,170,384,68,"Yes",2.4
+"IntelA Processors","Server",412,32,4650,16,32,170,24,34.1,"Yes",2.53
+"IntelA Processors","Server",211,32,774,12,18,105,1.02,51.2,"Yes",1.73
+"IntelA Processors","Server",114,22,2059,24,24,105,1.54,68,"Yes",2.3
+"IntelA Processors","Server",215,22,1223,16,20,115,1.54,85,"Yes",2
+"IntelA Processors","Server",216,14,1223,16,20,115,3.07,85,"Yes",2.1
+"IntelA Processors","Server",317,14,494,6,8.253,85,768,59,"No",1.7
+"Legacy IntelA Processors","Desktop",107,65,107,1,5122,65,16,21,"No",3.6
+"IntelA Processors","Mobile",113,22,75,2,2,35,32,25.6,"No",1.8
+"IntelA Processors","Embedded",114,22,86,2,2,37,32,25.6,"No",2.2
+"IntelA Processors","Desktop",113,22,64,2,3,55,32,21,"No",2.8
+"IntelA Processors","Server",415,14,103,2,3,20,128,37.5,"No",1.2
+"Legacy IntelA Processors","Mobile",411,32,378,8,8,55,32,25.6,"Yes",2.7
+"4th - 6th Generations","Mobile",214,22,281,4,3,11.5,16,25.6,"Yes",1.6
+"4th - 6th Generations","Desktop",213,22,243,4,6,84,32,25.6,"No",3.4
+"4th - 6th Generations","Mobile",314,22,426,4,4,28,16,25.6,"Yes",3
+"4th - 6th Generations","Mobile",314,14,426,4,4,4.5,16,25.6,"Yes",0.8
+"4th - 6th Generations","Mobile",314,14,281,4,4,4.5,16,25.6,"Yes",0.8
+"4th - 6th Generations","Mobile",115,14,281,4,3,15,16,25.6,"Yes",2.2
+"4th - 6th Generations","Mobile",115,14,315,4,3,15,16,25.6,"Yes",1.6
+"4th - 6th Generations","Mobile",115,14,315,4,3,28,16,25.6,"Yes",2.7
+"4th - 6th Generations","Mobile",115,14,315,4,3,28,16,25.6,"Yes",2.9
+"4th - 6th Generations","Mobile",115,14,281,4,3,15,16,25.6,"Yes",2.3
+"4th - 6th Generations","Mobile",215,14,289,4,4,47,32,25.6,"Yes",3.1
+"4th - 6th Generations","Mobile",115,14,315,4,3,15,16,25.6,"Yes",1.8
+"4th - 6th Generations","Desktop",215,14,244,4,4,65,32,29.86,"No",2.8
+"4th - 6th Generations","Desktop",215,14,120,4,4,65,32,25.6,"No",3.1
+"4th - 6th Generations","Mobile",115,14,275,4,3,15,16,25.6,"Yes",2
+"4th - 6th Generations","Desktop",215,14,265,4,4,65,32,29.86,"No",3.1
+"4th - 6th Generations","Mobile",115,14,281,4,3,15,16,25.6,"Yes",2.1
+"4th - 6th Generations","Mobile",115,14,275,4,3,15,16,25.6,"Yes",2.1
+"4th - 6th Generations","Mobile",115,14,281,4,3,15,16,25.6,"Yes",2.2
+"4th - 6th Generations","Mobile",115,14,315,4,3,28,16,25.6,"Yes",2.5
+"4th - 6th Generations","Mobile",414,14,281,4,4,4.5,16,25.6,"Yes",0.8
+"4th - 6th Generations","Mobile",414,14,281,4,4,4.5,16,25.6,"Yes",0.9
+"4th - 6th Generations","Mobile",414,14,281,4,4,4.5,16,25.6,"Yes",1.1
+"4th - 6th Generations","Mobile",314,14,250,4,4,4.5,16,25.6,"Yes",1.1
+"4th - 6th Generations","Mobile",414,14,281,4,4,4.5,16,25.6,"Yes",1.2
+"4th - 6th Generations","Mobile",313,22,426,4,4,28,16,25.6,"Yes",2.8
+"4th - 6th Generations","Mobile",313,22,426,4,4,15,16,25.6,"Yes",1.5
+"4th - 6th Generations","Mobile",214,22,393,4,4,15,16,25.6,"Yes",2
+"4th - 6th Generations","Mobile",313,22,393,4,4,15,16,25.6,"Yes",1.8
+"4th - 6th Generations","Mobile",313,22,426,4,4,15,16,25.6,"Yes",1.7
+"4th - 6th Generations","Mobile",313,22,393,4,4,11.5,16,25.6,"Yes",1.7
+"4th - 6th Generations","Mobile",114,22,225,4,4,37,32,25.6,"Yes",3
+"4th - 6th Generations","Mobile",313,22,393,4,4,15,16,25.6,"Yes",2.1
+"4th - 6th Generations","Mobile",413,22,346,4,4,37,32,25.6,"Yes",2.9
+"4th - 6th Generations","Desktop",214,22,303,8,8,45,32,25.6,"Yes",2.7
+"4th - 6th Generations","Desktop",214,22,568,8,8,65,32,25.6,"Yes",3.2
+"4th - 6th Generations","Desktop",214,22,623,8,8,84,32,25.6,"Yes",3.6
+"4th - 6th Generations","Desktop",214,22,303,8,8,35,32,25.6,"Yes",2.2
+"4th - 6th Generations","Desktop",313,22,348,8,8,84,32,25.6,"Yes",3.5
+"4th - 6th Generations","Embedded",213,22,303,8,8,45,32,25.6,"Yes",2.3
+"4th - 6th Generations","Desktop",213,22,303,8,8,45,32,25.6,"Yes",2.5
+"4th - 6th Generations","Desktop",213,22,378,8,8,65,32,25.6,"Yes",3.1
+"4th - 6th Generations","Desktop",213,22,358,8,6,65,32,25.6,"Yes",3.2
+"4th - 6th Generations","Desktop",213,22,378,8,8,84,32,25.6,"Yes",3.4
+"4th - 6th Generations","Desktop",213,22,303,8,8,35,32,25.6,"Yes",2
+"4th - 6th Generations","Desktop",213,22,409,8,8,84,32,25.6,"Yes",3.5
+"4th - 6th Generations","Desktop",214,22,623,8,8,88,32,25.6,"Yes",4
+"4th - 6th Generations","Mobile",314,22,434,8,6,47,32,25.6,"Yes",2.2
+"4th - 6th Generations","Mobile",214,22,434,8,6,47,32,25.6,"Yes",2.1
+"4th - 6th Generations","Mobile",313,22,434,8,6,47,32,25.6,"Yes",2
+"4th - 6th Generations","Mobile",115,22,378,8,6,37,32,25.6,"Yes",2.4
+"4th - 6th Generations","Mobile",115,22,378,8,6,47,32,25.6,"Yes",2.6
+"4th - 6th Generations","Mobile",214,22,378,8,6,37,32,25.6,"Yes",2.3
+"4th - 6th Generations","Mobile",214,22,378,8,6,37,32,25.6,"Yes",2.3
+"4th - 6th Generations","Mobile",214,22,378,8,6,47,32,25.6,"Yes",2.5
+"4th - 6th Generations","Mobile",214,22,378,8,6,47,32,25.6,"Yes",2.5
+"4th - 6th Generations","Mobile",213,22,378,8,6,37,32,25.6,"Yes",2.2
+"4th - 6th Generations","Mobile",213,22,303,8,6,37,32,25.6,"Yes",2.2
+"4th - 6th Generations","Embedded",114,22,459,8,8,27,32,25.6,"Yes",2
+"4th - 6th Generations","Mobile",213,22,378,8,6,47,32,25.6,"Yes",2.4
+"4th - 6th Generations","Mobile",213,22,378,8,6,47,32,25.6,"Yes",2.4
+"4th - 6th Generations","Embedded",213,22,378,8,6,47,32,25.6,"Yes",2.4
+"4th - 6th Generations","Embedded",114,22,459,8,8,43,32,25.6,"Yes",2.7
+"4th - 6th Generations","Mobile",314,22,434,8,6,47,32,25.6,"Yes",2.5
+"4th - 6th Generations","Mobile",114,22,434,8,6,47,32,25.6,"Yes",2.4
+"4th - 6th Generations","Mobile",313,22,434,8,6,47,32,25.6,"Yes",2.3
+"4th - 6th Generations","Mobile",114,22,378,8,6,47,32,25.6,"Yes",2.8
+"4th - 6th Generations","Mobile",213,22,380,8,6,47,32,25.6,"Yes",2.7
+"4th - 6th Generations","Mobile",314,22,623,8,6,47,32,25.6,"Yes",2.8
+"4th - 6th Generations","Mobile",413,22,623,8,6,47,32,25.6,"Yes",2.6
+"4th - 6th Generations","Mobile",313,22,623,8,6,47,32,25.6,"Yes",2.4
+"4th - 6th Generations","Mobile",114,22,409,8,8,47,32,25.6,"Yes",2.9
+"4th - 6th Generations","Mobile",213,22,570,8,8,47,32,25.6,"Yes",2.8
+"4th - 6th Generations","Mobile",313,22,315,4,3,28,16,25.6,"Yes",2.6
+"4th - 6th Generations","Mobile",314,22,315,4,3,28,16,25.6,"Yes",2.6
+"4th - 6th Generations","Mobile",214,22,315,4,3,15,16,25.6,"Yes",1.4
+"4th - 6th Generations","Mobile",313,22,315,4,3,28,16,25.6,"Yes",2.4
+"4th - 6th Generations","Mobile",313,22,315,4,3,15,16,25.6,"Yes",1.3
+"4th - 6th Generations","Mobile",214,22,281,4,3,11.5,16,25.6,"Yes",1.6
+"4th - 6th Generations","Mobile",313,22,281,4,3,11.5,16,25.6,"Yes",1.5
+"4th - 6th Generations","Mobile",214,22,281,4,3,15,16,25.6,"Yes",1.7
+"4th - 6th Generations","Mobile",214,22,225,4,3,37,32,25.6,"Yes",2.6
+"4th - 6th Generations","Mobile",314,22,225,4,3,47,32,25.6,"Yes",2.9
+"4th - 6th Generations","Mobile",313,22,281,4,3,11.5,16,25.6,"Yes",1.6
+"4th - 6th Generations","Mobile",313,22,281,4,3,11.5,16,25.6,"Yes",1.4
+"4th - 6th Generations","Mobile",313,22,281,4,3,15,16,25.6,"Yes",1.6
+"4th - 6th Generations","Mobile",413,22,225,4,3,37,32,25.6,"Yes",2.5
+"4th - 6th Generations","Mobile",114,22,281,4,3,15,16,25.6,"Yes",1.5
+"4th - 6th Generations","Mobile",413,22,225,4,3,47,32,25.6,"Yes",2.8
+"4th - 6th Generations","Mobile",313,22,315,4,3,15,16,25.6,"Yes",1.4
+"4th - 6th Generations","Mobile",114,22,266,4,3,37,32,25.6,"Yes",2.9
+"4th - 6th Generations","Mobile",413,22,266,4,3,37,32,25.6,"Yes",2.8
+"4th - 6th Generations","Mobile",114,22,281,4,3,15,16,25.6,"Yes",2
+"4th - 6th Generations","Mobile",114,22,315,4,3,37,32,25.6,"Yes",2.7
+"4th - 6th Generations","Mobile",314,22,315,4,3,28,16,25.6,"Yes",2.8
+"4th - 6th Generations","Mobile",313,22,281,4,3,11.5,16,25.6,"Yes",1.6
+"4th - 6th Generations","Mobile",313,22,281,4,3,11.5,16,25.6,"Yes",1.6
+"4th - 6th Generations","Mobile",313,22,281,4,3,15,16,25.6,"Yes",1.9
+"4th - 6th Generations","Mobile",413,22,250,4,3,37,32,25.6,"Yes",2.6
+"4th - 6th Generations","Desktop",213,22,200,4,6,84,32,25.6,"No",3
+"4th - 6th Generations","Desktop",313,22,117,4,6,84,32,25.6,"No",3.1
+"4th - 6th Generations","Desktop",313,22,184,4,6,65,32,25.6,"No",2.8
+"4th - 6th Generations","Desktop",213,22,182,4,6,65,32,25.6,"No",2.7
+"4th - 6th Generations","Desktop",214,22,232,4,6,84,32,25.6,"No",3.2
+"4th - 6th Generations","Desktop",214,22,182,4,6,65,32,25.6,"No",2.9
+"4th - 6th Generations","Desktop",214,22,182,4,6,35,32,25.6,"No",1.9
+"4th - 6th Generations","Embedded",313,22,266,4,3,37,16,25.6,"Yes",2.7
+"4th - 6th Generations","Embedded",313,22,266,4,3,25,16,25.6,"Yes",1.6
+"4th - 6th Generations","Embedded",114,22,324,4,4,27,32,25.6,"Yes",2.5
+"4th - 6th Generations","Embedded",214,22,266,4,3,37,16,25.6,"Yes",2.9
+"4th - 6th Generations","Embedded",214,22,266,4,3,25,16,25.6,"Yes",1.8
+"4th - 6th Generations","Desktop",214,22,192,4,6,35,32,25.6,"No",2
+"4th - 6th Generations","Desktop",214,22,225,4,6,65,32,25.6,"No",3
+"4th - 6th Generations","Desktop",214,22,182,4,6,84,32,25.6,"No",3.3
+"4th - 6th Generations","Embedded",213,22,192,4,4,35,32,25.6,"Yes",2.7
+"4th - 6th Generations","Desktop",213,22,117,4,4,35,32,25.6,"Yes",2.9
+"4th - 6th Generations","Desktop",213,22,132,4,6,65,32,25.6,"No",2.9
+"4th - 6th Generations","Desktop",213,22,255,4,4,65,32,25.6,"No",2.7
+"4th - 6th Generations","Desktop",213,22,138,4,6,84,32,25.6,"No",3.2
+"4th - 6th Generations","Desktop",214,22,213,4,6,45,32,25.6,"No",2.5
+"4th - 6th Generations","Desktop",214,22,317,4,6,65,32,25.6,"No",3.2
+"4th - 6th Generations","Desktop",214,22,213,4,6,88,32,25.6,"No",3.5
+"4th - 6th Generations","Desktop",214,22,179,4,6,84,32,25.6,"No",3.5
+"4th - 6th Generations","Desktop",213,22,213,4,6,45,32,25.6,"No",2.3
+"4th - 6th Generations","Desktop",213,22,276,4,4,65,32,25.6,"No",3
+"4th - 6th Generations","Desktop",213,22,213,4,6,65,32,25.6,"No",3.1
+"4th - 6th Generations","Desktop",213,22,117,4,6,84,32,25.6,"No",3.4
+"Legacy IntelA Processors","Mobile",209,45,75,1,3,5.5,16.38,21.3,"No",1.3
+"Legacy IntelA Processors","Mobile",199,65,275,4,22,31,8,17.1,"No",1.73
+"Legacy IntelA Processors","Mobile",106,65,315,4,22,27,16.38,21,"No",1.66
+"Legacy IntelA Processors","Mobile",208,65,42,1,22,31,8,21,"No",1.86
+"Legacy IntelA Processors","Mobile",107,65,29,1,22,27,8,17.1,"No",1.83
+"Legacy IntelA Processors","Mobile",109,65,42,1,22,6,8,10.6,"No",1.06
+"Legacy IntelA Processors","Mobile",204,65,47,1,22,6,8,10.6,"No",1.2
+"Legacy IntelA Processors","Mobile",209,65,68,1,22,5.5,2,5.3,"No",1.33
+"Legacy IntelA Processors","Mobile",307,65,42,1,12,5.5,1,12.8,"No",1.06
+"Legacy IntelA Processors","Mobile",307,65,75,1,12,5.5,2,12.8,"No",1.2
+"Legacy IntelA Processors","Mobile",209,45,134,2,32,5.5,1.54,85,"No",1.4
+"Legacy IntelA Processors","Mobile",308,45,281,1,32,5.5,8,12.8,"No",1.2
+"Legacy IntelA Processors","Mobile",204,65,393,4,22,9,384,42.6,"No",1.06
+"Legacy IntelA Processors","Mobile",106,65,107,2,22,9,8,6.4,"No",1.2
+"Legacy IntelA Processors","Mobile",306,65,393,4,22,10,4,12.8,"No",1.06
+"Legacy IntelA Processors","Mobile",306,65,95,2,22,10,8,12.8,"No",1.06
+"Legacy IntelA Processors","Mobile",207,65,107,2,22,10,8,10.6,"No",1.2
+"Legacy IntelA Processors","Mobile",316,65,72,2,22,10,8,12.8,"No",1.2
+"Legacy IntelA Processors","Mobile",108,65,52,2,22,10,2,10.6,"No",1.33
+"Legacy IntelA Processors","Mobile",106,65,64,2,22,31,8,17.1,"No",1.6
+"Legacy IntelA Processors","Mobile",302,65,72,2,22,31,16.38,17,"No",1.73
+"Legacy IntelA Processors","Mobile",204,65,134,4,22,31,16,21.3,"No",1.66
+"Legacy IntelA Processors","Mobile",107,65,12.85,2,22,31,16,17,"No",1.66
+"Legacy IntelA Processors","Mobile",106,65,253,4,22,31,8,17.1,"No",1.86
+"Legacy IntelA Processors","Mobile",302,65,107,2,22,31,16,21,"No",1.83
+"Legacy IntelA Processors","Mobile",106,65,225,4,22,31,8,21,"No",2
+"Legacy IntelA Processors","Mobile",106,65,29,2,22,31,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",106,65,42,2,22,31,16,17,"No",2.16
+"Legacy IntelA Processors","Mobile",407,65,281,2,22,34,8,17.1,"No",1.6
+"Legacy IntelA Processors","Mobile",106,65,315,4,22,31,8,17.1,"No",2.33
+"Legacy IntelA Processors","Mobile",407,65,42,2,22,35,16.38,21.3,"No",1.5
+"Legacy IntelA Processors","Mobile",108,65,72,2,22,35,8,21,"No",1.4
+"Legacy IntelA Processors","Mobile",308,65,86,2,22,34,8,17.1,"No",1.73
+"Legacy IntelA Processors","Mobile",108,65,75,2,22,35,8,17.1,"No",1.66
+"Legacy IntelA Processors","Mobile",307,65,64,2,22,35,8,21,"No",1.6
+"Legacy IntelA Processors","Mobile",307,65,134,4,22,34,16.6,21.3,"No",1.66
+"Legacy IntelA Processors","Mobile",308,65,275,4,22,35,16.38,21.3,"No",1.83
+"Legacy IntelA Processors","Mobile",307,65,225,4,22,34,8,21,"No",1.83
+"Legacy IntelA Processors","Mobile",208,65,315,4,22,35,144,25.6,"No",1.8
+"Legacy IntelA Processors","Mobile",108,65,111,2,22,35,16.6,21.3,"No",2
+"Legacy IntelA Processors","Mobile",408,65,138,4,22,35,8.79,17.1,"No",2
+"Legacy IntelA Processors","Mobile",207,65,107,2,22,35,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",109,45,72,2,22,35,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",209,45,275,4,22,35,8,17.1,"No",2.1
+"Legacy IntelA Processors","Mobile",109,45,221,4,22,35,16,21,"No",2.2
+"Legacy IntelA Processors","Mobile",309,45,93,2,22,35,8,21,"No",2.2
+"4th - 6th Generations","Mobile",214,22,281,4,3,15,16,25.6,"Yes",1.9
+"4th - 6th Generations","Mobile",214,22,275,4,3,15,16,25.6,"Yes",1.9
+"4th - 6th Generations","Mobile",313,22,281,4,3,11.5,16,25.6,"Yes",1.5
+"4th - 6th Generations","Mobile",313,22,281,4,3,11.5,16,25.6,"Yes",1.5
+"4th - 6th Generations","Mobile",313,22,281,4,3,11.5,16,25.6,"Yes",1.3
+"4th - 6th Generations","Mobile",313,22,281,4,3,15,16,25.6,"Yes",1.7
+"4th - 6th Generations","Mobile",313,22,275,4,3,15,16,25.6,"Yes",1.7
+"4th - 6th Generations","Mobile",413,22,225,4,3,37,32,25.6,"Yes",2.4
+"4th - 6th Generations","Desktop",313,22,117,4,3,54,32,25.6,"Yes",3.4
+"Legacy IntelA Processors","Mobile",207,65,42,2,22,35,8,17.1,"No",1.8
+"4th - 6th Generations","Desktop",313,22,117,4,3,35,32,25.6,"Yes",2.9
+"Legacy IntelA Processors","Mobile",307,65,417,4,42,34,16,21,"No",2
+"Legacy IntelA Processors","Mobile",307,65,161,4,22,35,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",207,65,134,4,42,35,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",306,65,213,4,42,34,16.38,21,"No",2.16
+"Legacy IntelA Processors","Mobile",306,65,315,4,42,35,8,17.1,"No",2.2
+"Legacy IntelA Processors","Mobile",307,65,42,2,42,34,16,21,"No",2.33
+"Legacy IntelA Processors","Mobile",207,65,281,4,42,35,16.38,21,"No",2.4
+"Legacy IntelA Processors","Mobile",108,45,346,4,32,35,384,85,"No",2.1
+"Legacy IntelA Processors","Mobile",108,45,393,4,32,35,8.79,21,"No",2.4
+"Legacy IntelA Processors","Mobile",307,65,20,2,42,35,64.45,68,"No",2.6
+"Legacy IntelA Processors","Mobile",108,45,60,2,62,35,8,17.1,"No",2.5
+"Legacy IntelA Processors","Mobile",308,45,417,4,62,35,64.23,85,"No",2.53
+"Legacy IntelA Processors","Mobile",108,45,426,4,62,35,8,17.1,"No",2.6
+"Legacy IntelA Processors","Mobile",408,45,364,4,62,35,8,17.1,"No",2.66
+"Legacy IntelA Processors","Mobile",308,45,107,2,62,35,8,17.1,"No",2.8
+"Legacy IntelA Processors","Mobile",408,45,346,4,62,35,64,68,"No",2.93
+"Legacy IntelA Processors","Mobile",209,45,315,4,62,35,144,85,"No",3.06
+"Legacy IntelA Processors","Mobile",308,45,245,4,32,10,64,68,"No",1.2
+"Legacy IntelA Processors","Mobile",308,45,393,4,32,10,8,12.8,"No",1.4
+"Legacy IntelA Processors","Mobile",109,45,13.39,2,32,10,1,6.4,"No",1.6
+"Legacy IntelA Processors","Mobile",308,45,247,4,62,25,8,17.1,"No",2.26
+"Legacy IntelA Processors","Mobile",308,45,393,4,62,25,64,85,"No",2.4
+"Legacy IntelA Processors","Mobile",109,45,37,2,62,25,16,25,"No",2.53
+"4th - 6th Generations","Desktop",214,22,117,4,3,54,32,25.6,"Yes",3.5
+"4th - 6th Generations","Desktop",214,22,117,4,3,35,32,25.6,"Yes",3
+"4th - 6th Generations","Desktop",314,22,117,4,3,54,32,25.6,"Yes",3.6
+"4th - 6th Generations","Desktop",314,22,117,4,3,35,32,25.6,"Yes",3.1
+"4th - 6th Generations","Desktop",115,22,117,4,3,54,32,25.6,"Yes",3.7
+"4th - 6th Generations","Desktop",115,22,117,4,3,35,32,25.6,"Yes",3.2
+"4th - 6th Generations","Mobile",313,22,315,4,3,28,16,25.6,"Yes",2
+"4th - 6th Generations","Mobile",214,22,281,4,3,15,16,25.6,"Yes",2
+"4th - 6th Generations","Embedded",214,22,225,4,3,25,32,25.6,"Yes",1.8
+"4th - 6th Generations","Mobile",214,22,225,4,3,37,32,25.6,"Yes",2.6
+"4th - 6th Generations","Embedded",214,22,225,4,3,37,32,25.6,"Yes",2.6
+"4th - 6th Generations","Embedded",313,22,225,4,3,25,16,25.6,"Yes",1.6
+"4th - 6th Generations","Mobile",413,22,225,4,3,37,32,25.6,"Yes",2.5
+"4th - 6th Generations","Mobile",313,22,281,4,3,15,16,25.6,"Yes",1.8
+"4th - 6th Generations","Embedded",313,22,225,4,3,37,16,25.6,"Yes",2.4
+"4th - 6th Generations","Desktop",115,22,138,4,4,35,32,25.6,"Yes",3.3
+"4th - 6th Generations","Desktop",314,22,117,4,4,54,32,25.6,"Yes",3.8
+"4th - 6th Generations","Desktop",314,22,138,4,4,35,32,25.6,"Yes",3.2
+"4th - 6th Generations","Desktop",214,22,250,4,4,54,32,25.6,"Yes",3.7
+"4th - 6th Generations","Desktop",214,22,138,4,4,35,32,25.6,"Yes",3.1
+"4th - 6th Generations","Desktop",214,22,177,4,4,54,32,25.6,"Yes",3.6
+"4th - 6th Generations","Desktop",313,22,117,4,4,54,32,25.6,"Yes",3.6
+"4th - 6th Generations","Embedded",313,22,122,4,4,35,32,25.6,"Yes",2.4
+"4th - 6th Generations","Embedded",214,22,138,4,4,35,32,25.6,"Yes",2.6
+"4th - 6th Generations","Desktop",313,22,138,4,4,35,32,25.6,"Yes",3
+"Legacy IntelA Processors","Mobile",308,45,247,4,62,17,4,4.2,"No",1.8
+"Legacy IntelA Processors","Mobile",308,45,247,4,62,17,2,10.6,"No",1.86
+"Legacy IntelA Processors","Mobile",109,45,281,4,62,17,16,21.3,"No",2.13
+"Legacy IntelA Processors","Mobile",308,45,42,2,62,17,8,6.4,"No",1.6
+"Legacy IntelA Processors","Mobile",308,45,37,2,32,25,16,17,"No",2
+"Legacy IntelA Processors","Mobile",408,45,107,2,32,25,16.38,21,"No",2
+"Legacy IntelA Processors","Mobile",109,45,47,2,32,25,8,17.1,"No",2.13
+"Legacy IntelA Processors","Mobile",309,45,134,2,32,25,16.38,21.3,"No",2.26
+"Legacy IntelA Processors","Mobile",309,45,64,2,32,25,8,17.1,"No",2.26
+"Legacy IntelA Processors","Mobile",308,45,52,2,32,25,8,17.1,"No",2.26
+"Legacy IntelA Processors","Mobile",308,45,211,2,32,25,8,17.1,"No",2.4
+"Legacy IntelA Processors","Mobile",408,45,29,2,32,25,8,17.1,"No",2.53
+"Legacy IntelA Processors","Mobile",209,45,253,2,32,25,8,17.1,"No",2.66
+"Legacy IntelA Processors","Mobile",308,45,364,4,62,25,8,17.1,"No",2.53
+"Legacy IntelA Processors","Mobile",408,45,304,4,62,25,64,68,"No",2.66
+"Legacy IntelA Processors","Mobile",209,45,346,4,62,28,8,17.1,"No",2.8
+"Legacy IntelA Processors","Mobile",203,65,281,4,22,15,8,6.4,"No",1.83
+"Legacy IntelA Processors","Mobile",204,65,42,2,22,15,2,12.8,"No",1.5
+"Legacy IntelA Processors","Mobile",106,65,2.54,2,22,15,8,12.8,"No",1.66
+"Legacy IntelA Processors","Mobile",107,65,393,4,42,17,4,12.8,"No",1.33
+"Legacy IntelA Processors","Mobile",207,65,37,2,42,17,2,10.6,"No",1.4
+"Legacy IntelA Processors","Mobile",306,65,281,1,42,17,128,85,"No",1.5
+"Legacy IntelA Processors","Mobile",306,65,13.39,2,42,17,4,10.66,"No",1.6
+"Legacy IntelA Processors","Mobile",307,65,134,1,42,17,64,85,"No",1.8
+"Legacy IntelA Processors","Desktop",306,65,417,4,22,65,8,17.1,"No",1.8
+"4th - 6th Generations","Desktop",313,22,63,4,4,54,32,25.6,"Yes",3.5
+"Legacy IntelA Processors","Desktop",207,65,42,2,22,65,16.38,21.3,"No",2
+"Legacy IntelA Processors","Desktop",307,65,134,4,22,65,8,17.1,"No",2.2
+"Legacy IntelA Processors","Desktop",407,65,177,4,22,65,128,34.1,"No",2.4
+"Legacy IntelA Processors","Desktop",108,65,1177,4,22,65,8,17.1,"No",2.6
+"Legacy IntelA Processors","Desktop",306,65,178,4,22,65,8,17.1,"No",1.86
+"Legacy IntelA Processors","Desktop",306,65,163,4,22,65,16.6,21.3,"No",2.13
+"Legacy IntelA Processors","Desktop",207,65,95,2,42,65,16.38,21,"No",1.86
+"Legacy IntelA Processors","Desktop",207,65,64,2,42,65,1.54,85,"No",2.13
+"Legacy IntelA Processors","Desktop",307,65,247,4,42,65,8,21,"No",2.33
+"Legacy IntelA Processors","Desktop",307,65,478,4,42,65,64,59.7,"No",2.33
+"Legacy IntelA Processors","Desktop",306,65,75,2,42,65,8,17.1,"No",2.4
+"Legacy IntelA Processors","Desktop",306,65,52,2,42,65,8,17.1,"No",2.66
+"Legacy IntelA Processors","Desktop",307,65,64,2,42,65,8,17.1,"No",2.66
+"Legacy IntelA Processors","Desktop",307,65,60,2,42,65,8,17.1,"No",3
+"Legacy IntelA Processors","Desktop",208,45,403,4,32,65,128,85,"No",2.53
+"Legacy IntelA Processors","Desktop",308,45,117,4,32,65,128,85,"No",2.66
+"Legacy IntelA Processors","Desktop",108,45,134,4,32,65,16.38,21.3,"No",2.8
+"Legacy IntelA Processors","Desktop",109,45,125,1,32,65,8,17.1,"No",2.93
+"Legacy IntelA Processors","Desktop",209,45,147,4,32,65,8,17.1,"No",3.06
+"Legacy IntelA Processors","Desktop",108,45,250,4,62,65,16.6,21,"No",2.66
+"Legacy IntelA Processors","Desktop",108,45,117,4,62,65,8,17.1,"No",2.66
+"Legacy IntelA Processors","Desktop",208,45,138,2,62,65,8,17.1,"No",2.83
+"Legacy IntelA Processors","Desktop",108,45,440,4,62,65,144,25.6,"No",3
+"Legacy IntelA Processors","Desktop",108,45,200,4,62,65,8,17.1,"No",3.16
+"Legacy IntelA Processors","Desktop",308,45,285,2,62,65,16.38,17,"No",3.33
+"Legacy IntelA Processors","Desktop",107,65,316,4,82,105,1.54,85,"No",2.4
+"Legacy IntelA Processors","Desktop",307,65,316,4,82,105,64,85,"No",2.66
+"Legacy IntelA Processors","Desktop",308,45,179,2,42,95,64,85,"No",2.33
+"Legacy IntelA Processors","Desktop",109,45,232,4,42,65,16.38,21,"No",2.33
+"Legacy IntelA Processors","Desktop",408,45,179,4,42,95,128,68,"No",2.5
+"Legacy IntelA Processors","Desktop",209,45,179,4,42,95,8.79,17.1,"No",2.66
+"Legacy IntelA Processors","Desktop",209,45,232,4,42,65,384,68,"No",2.66
+"Legacy IntelA Processors","Mobile",109,45,364,4,62,45,144,32,"No",2
+"Legacy IntelA Processors","Mobile",308,45,284,1,122,45,16,21,"No",2.26
+"Legacy IntelA Processors","Desktop",108,45,200,4,62,95,1.54,85,"No",2.5
+"Legacy IntelA Processors","Desktop",308,45,255,4,62,95,8,17.1,"No",2.66
+"Legacy IntelA Processors","Desktop",109,45,254,4,62,65,16,21.3,"No",2.66
+"Legacy IntelA Processors","Desktop",108,45,347,4,122,95,384,85,"No",2.66
+"Legacy IntelA Processors","Desktop",309,45,213,1,62,95,8,17.1,"No",2.83
+"Legacy IntelA Processors","Desktop",309,45,234,4,62,95,128,85,"No",2.83
+"Legacy IntelA Processors","Desktop",309,45,232,1,62,65,16,21,"No",2.83
+"Legacy IntelA Processors","Desktop",108,45,287,4,122,95,144,25.6,"No",2.83
+"Legacy IntelA Processors","Desktop",109,45,340,4,122,65,144,25.6,"No",2.83
+"Legacy IntelA Processors","Desktop",308,45,339,4,122,95,64.45,85,"No",3
+"Legacy IntelA Processors","Mobile",110,32,138,4,3,35,8.79,17.1,"Yes",2.13
+"Legacy IntelA Processors","Mobile",110,32,177,4,3,35,8,17.1,"Yes",2.13
+"Legacy IntelA Processors","Mobile",210,32,225,4,3,18,8,12.8,"Yes",1.2
+"Legacy IntelA Processors","Mobile",110,32,346,4,3,35,8,17.1,"Yes",2.26
+"Legacy IntelA Processors","Mobile",310,32,346,4,3,35,8,17.1,"Yes",2.4
+"Legacy IntelA Processors","Mobile",310,32,281,4,3,35,8,17.1,"Yes",2.53
+"Legacy IntelA Processors","Mobile",410,32,134,4,3,18,8,12.8,"Yes",1.33
+"Legacy IntelA Processors","Desktop",110,32,117,4,4,73,16.38,21,"Yes",2.93
+"Legacy IntelA Processors","Desktop",110,32,205,4,4,73,16.38,21,"Yes",3.06
+"Legacy IntelA Processors","Desktop",210,32,117,4,4,73,16.38,21,"Yes",3.2
+"Legacy IntelA Processors","Mobile",110,32,138,4,3,35,8,17.1,"Yes",2.26
+"Legacy IntelA Processors","Mobile",210,32,281,4,3,18,8,12.8,"Yes",1.2
+"Legacy IntelA Processors","Mobile",210,32,281,4,3,35,8,17.1,"Yes",2.4
+"Legacy IntelA Processors","Mobile",310,32,315,4,3,35,8,17.1,"Yes",2.53
+"Legacy IntelA Processors","Mobile",410,32,266,4,3,18,8,12.8,"Yes",1.33
+"Legacy IntelA Processors","Embedded",110,32,210,4,3,35,8.79,17.1,"Yes",2.4
+"Legacy IntelA Processors","Mobile",110,32,281,4,3,35,8.3,17.1,"Yes",2.4
+"Legacy IntelA Processors","Mobile",110,32,415,4,3,18,8,12.8,"Yes",1.07
+"Legacy IntelA Processors","Mobile",110,32,269,4,3,35,8,17.1,"Yes",2.53
+"Legacy IntelA Processors","Mobile",210,32,315,4,3,18,8,12.8,"Yes",1.2
+"Legacy IntelA Processors","Mobile",310,32,225,4,3,35,8,17.1,"Yes",2.66
+"Legacy IntelA Processors","Mobile",310,32,281,4,3,18,8,12.8,"Yes",1.33
+"Legacy IntelA Processors","Mobile",310,32,346,4,3,35,8,17.1,"Yes",2.66
+"Legacy IntelA Processors","Desktop",110,32,177,4,4,73,16.38,21,"Yes",3.2
+"Legacy IntelA Processors","Desktop",210,32,177,4,4,73,16.38,21,"Yes",3.2
+"Legacy IntelA Processors","Desktop",110,32,276,4,4,73,16.38,21,"Yes",3.33
+"Legacy IntelA Processors","Desktop",110,32,177,4,4,87,16.38,21,"Yes",3.33
+"Legacy IntelA Processors","Desktop",110,32,305,4,4,73,16.6,21,"Yes",3.46
+"Legacy IntelA Processors","Desktop",309,45,132,4,8,95,16,21,"No",2.66
+"Legacy IntelA Processors","Desktop",110,45,279,4,8,82,16,21,"No",2.4
+"Legacy IntelA Processors","Desktop",310,45,213,4,8,95,16,21,"No",2.8
+"Legacy IntelA Processors","Embedded",110,32,247,4,4,25,8.79,17.1,"Yes",2
+"Legacy IntelA Processors","Mobile",110,32,236,4,4,25,8,17.1,"Yes",2
+"Legacy IntelA Processors","Mobile",110,32,250,4,4,35,8,17.1,"Yes",2.66
+"Legacy IntelA Processors","Embedded",110,32,248,4,4,18,8.79,12.8,"Yes",1.06
+"Legacy IntelA Processors","Mobile",110,32,281,4,4,18,8,12.8,"Yes",1.06
+"Legacy IntelA Processors","Mobile",110,32,269,4,4,25,8,17.1,"Yes",2.13
+"Legacy IntelA Processors","Mobile",310,32,281,4,4,35,8,17.1,"Yes",2.8
+"Legacy IntelA Processors","Mobile",110,32,304,4,4,18,8,12.8,"Yes",1.2
+"Legacy IntelA Processors","Mobile",310,32,281,4,4,25,8,17.1,"Yes",2.26
+"Legacy IntelA Processors","Mobile",110,32,248,4,4,18,8.79,12.8,"Yes",1.33
+"Legacy IntelA Processors","Mobile",210,32,304,4,4,18,8,12.8,"Yes",1.33
+"Legacy IntelA Processors","Mobile",310,32,281,4,4,18,8,12.8,"Yes",1.46
+"Legacy IntelA Processors","Mobile",310,45,380,8,6,45,8,21,"Yes",1.73
+"Legacy IntelA Processors","Mobile",310,45,570,8,8,45,8,21,"Yes",1.86
+"Legacy IntelA Processors","Desktop",110,45,362,8,8,82,16,21,"Yes",2.53
+"Legacy IntelA Processors","Desktop",309,45,305,8,8,95,16,21,"Yes",2.93
+"Legacy IntelA Processors","Desktop",210,45,378,8,8,82,16,21,"Yes",2.66
+"Legacy IntelA Processors","Desktop",210,45,353,8,8,95,16,21,"Yes",2.93
+"Legacy IntelA Processors","Desktop",210,45,570,8,8,95,16,21,"Yes",3.06
+"Legacy IntelA Processors","Desktop",110,45,305,8,8,130,24,25.6,"Yes",2.8
+"Legacy IntelA Processors","Desktop",408,45,555,8,8,130,24,25.6,"Yes",2.93
+"Legacy IntelA Processors","Desktop",209,45,305,8,8,130,24,25.6,"Yes",3.06
+"Legacy IntelA Processors","Desktop",409,45,305,8,8,130,24,25.6,"Yes",3.2
+"Legacy IntelA Processors","Desktop",310,32,594,12,12,130,24,25.6,"Yes",3.2
+"Legacy IntelA Processors","Desktop",211,32,594,12,12,130,24,25.6,"Yes",3.33
+"Legacy IntelA Processors","Desktop",310,32,117,4,4,73,16.38,21,"Yes",3.33
+"Legacy IntelA Processors","Mobile",111,32,426,4,3,35,8,17.1,"Yes",2.66
+"Legacy IntelA Processors","Mobile",111,32,225,4,3,35,8,17.1,"Yes",2.66
+"Legacy IntelA Processors","Desktop",210,32,305,4,4,73,16.6,21,"Yes",3.6
+"Legacy IntelA Processors","Mobile",110,32,232,4,4,35,8.79,17.1,"Yes",2.53
+"Legacy IntelA Processors","Mobile",309,45,380,8,6,45,8,21,"Yes",1.6
+"Legacy IntelA Processors","Mobile",309,45,303,8,8,45,8,21,"Yes",1.73
+"Legacy IntelA Processors","Desktop",309,45,182,8,8,95,16,21,"Yes",2.8
+"Legacy IntelA Processors","Desktop",408,45,305,8,8,130,24,25.6,"Yes",2.66
+"Legacy IntelA Processors","Desktop",111,32,120,4,3,65,32,21,"Yes",3.1
+"Legacy IntelA Processors","Desktop",111,32,132,4,3,35,32,21,"Yes",2.5
+"Legacy IntelA Processors","Desktop",211,32,134,4,3,65,32,21,"Yes",3.1
+"Legacy IntelA Processors","Desktop",211,32,117,4,3,65,32,21,"Yes",3.1
+"Legacy IntelA Processors","Embedded",212,32,293,4,3,25,32,21.3,"Yes",2
+"Legacy IntelA Processors","Desktop",111,32,293,4,3,65,32,21,"Yes",3.3
+"Legacy IntelA Processors","Desktop",311,32,121,4,3,35,32,21,"Yes",2.6
+"Legacy IntelA Processors","Desktop",311,32,235,4,3,65,32,21,"Yes",3.3
+"Legacy IntelA Processors","Desktop",311,32,117,4,3,65,32,21,"Yes",3.4
+"Legacy IntelA Processors","Mobile",111,32,346,4,3,35,16,21.3,"Yes",2.1
+"Legacy IntelA Processors","Embedded",111,32,187,4,3,35,16.6,21.3,"Yes",2.1
+"Legacy IntelA Processors","Mobile",211,32,315,4,3,35,16,21.3,"Yes",2.1
+"Legacy IntelA Processors","Mobile",312,32,346,4,3,35,16,21.3,"Yes",2.2
+"Legacy IntelA Processors","Mobile",211,32,281,4,33,35,16,21.3,"Yes",2.2
+"Legacy IntelA Processors","Mobile",211,32,187,4,3,35,16.6,21.3,"Yes",2.2
+"Legacy IntelA Processors","Embedded",211,32,209,4,3,17,16.6,21.3,"Yes",1.3
+"Legacy IntelA Processors","Mobile",113,32,281,4,3,35,16,21.3,"Yes",2.3
+"Legacy IntelA Processors","Mobile",411,32,415,4,3,35,16,21.3,"Yes",2.3
+"Legacy IntelA Processors","Mobile",211,32,225,4,33,17,16,21.3,"Yes",1.3
+"Legacy IntelA Processors","Mobile",312,32,250,4,3,17,16,17,"Yes",1.4
+"Legacy IntelA Processors","Mobile",411,32,250,4,3,17,16,21.3,"Yes",1.4
+"Legacy IntelA Processors","Mobile",112,32,225,4,3,35,16,21.3,"Yes",2.4
+"Legacy IntelA Processors","Mobile",113,32,211,4,3,17,16,21.3,"Yes",1.5
+"Legacy IntelA Processors","Mobile",212,32,315,4,3,17,16,21,"Yes",1.5
+"Legacy IntelA Processors","Desktop",111,32,187,4,6,95,32,21,"No",2.8
+"Legacy IntelA Processors","Desktop",211,32,117,4,6,95,32,21,"No",2.9
+"Legacy IntelA Processors","Desktop",311,32,177,4,6,95,32,21,"No",3
+"Legacy IntelA Processors","Desktop",112,32,187,4,6,95,32,21,"No",3.1
+"Legacy IntelA Processors","Desktop",111,32,305,4,3,35,32,21,"Yes",2.7
+"Legacy IntelA Processors","Desktop",111,32,174,4,6,95,32,21,"No",3.1
+"Legacy IntelA Processors","Desktop",111,32,134,4,6,65,32,21,"No",2.5
+"Legacy IntelA Processors","Desktop",211,32,225,4,6,65,32,21,"No",2.5
+"Legacy IntelA Processors","Mobile",111,32,315,4,3,35,16,21.3,"Yes",2.3
+"Legacy IntelA Processors","Mobile",411,32,306,4,3,35,16,21.3,"Yes",2.4
+"Legacy IntelA Processors","Mobile",112,32,225,4,3,35,16,21.3,"Yes",2.5
+"Legacy IntelA Processors","Mobile",411,32,225,4,3,35,16,21.3,"Yes",2.4
+"Legacy IntelA Processors","Desktop",112,32,205,4,6,95,32,21,"No",3.2
+"Legacy IntelA Processors","Mobile",211,32,364,4,33,17,8.01,21.3,"Yes",1.6
+"Legacy IntelA Processors","Desktop",111,32,280,4,6,95,32,21,"No",3.3
+"Legacy IntelA Processors","Desktop",111,32,210,4,6,95,32,21,"No",3.3
+"Legacy IntelA Processors","Desktop",111,32,276,4,6,65,32,21,"No",2.7
+"Legacy IntelA Processors","Desktop",111,32,117,4,6,45,32,21,"No",2.3
+"Legacy IntelA Processors","Mobile",111,32,236,4,3,35,16.6,21.3,"Yes",2.5
+"Legacy IntelA Processors","Embedded",111,32,250,4,3,35,16.6,21.3,"Yes",2.5
+"Legacy IntelA Processors","Mobile",111,32,315,4,3,35,16,21.3,"Yes",2.5
+"Legacy IntelA Processors","Mobile",111,32,269,4,3,35,16,21.3,"Yes",2.6
+"Legacy IntelA Processors","Mobile",111,32,281,4,3,17,8.01,21.3,"Yes",1.4
+"Legacy IntelA Processors","Desktop",112,32,235,4,6,95,32,21,"No",3.4
+"Legacy IntelA Processors","Desktop",111,32,261,8,8,95,32,21,"Yes",3.4
+"Legacy IntelA Processors","Mobile",211,32,225,4,33,17,8.01,21.3,"Yes",1.7
+"Legacy IntelA Processors","Desktop",111,32,623,8,8,95,32,21,"Yes",3.4
+"Legacy IntelA Processors","Desktop",111,32,378,8,8,65,32,21,"Yes",2.8
+"Legacy IntelA Processors","Embedded",111,32,280,4,4,17,16.6,21,"Yes",1.5
+"Legacy IntelA Processors","Mobile",111,32,281,4,4,17,8.01,21.3,"Yes",1.5
+"Legacy IntelA Processors","Mobile",111,32,315,4,4,35,16,21.3,"Yes",2.7
+"Legacy IntelA Processors","Mobile",111,32,570,8,6,45,16,21.3,"Yes",2
+"Legacy IntelA Processors","Mobile",111,32,393,4,4,25,8.01,21.3,"Yes",2.1
+"Legacy IntelA Processors","Mobile",111,32,378,8,6,45,16,21.3,"Yes",2
+"Legacy IntelA Processors","Mobile",211,32,281,4,43,17,8.01,21.3,"Yes",1.7
+"Legacy IntelA Processors","Mobile",411,32,225,4,4,35,16,21.3,"Yes",2.8
+"Legacy IntelA Processors","Mobile",111,32,281,4,4,25,8.01,21.3,"Yes",2.3
+"Legacy IntelA Processors","Embedded",111,32,306,4,4,25,16.6,21.3,"Yes",2.2
+"Legacy IntelA Processors","Mobile",111,32,266,4,4,17,8.01,21.3,"Yes",1.6
+"Legacy IntelA Processors","Mobile",411,32,378,8,6,45,16,21.3,"Yes",2.2
+"Legacy IntelA Processors","Mobile",411,32,434,8,6,45,32,21.3,"Yes",2.2
+"Legacy IntelA Processors","Mobile",211,32,315,4,43,17,8.01,21.3,"Yes",1.8
+"Legacy IntelA Processors","Desktop",411,32,409,8,8,95,32,21,"Yes",3.5
+"Legacy IntelA Processors","Embedded",111,32,295,8,6,45,16.6,21.3,"Yes",2.1
+"Legacy IntelA Processors","Mobile",111,32,295,8,6,45,16.6,21,"Yes",2.1
+"Legacy IntelA Processors","Mobile",111,32,378,8,6,45,32,25.6,"Yes",2.2
+"Legacy IntelA Processors","Mobile",411,32,378,8,6,45,32,25.6,"Yes",2.4
+"Legacy IntelA Processors","Mobile",411,32,568,8,8,45,32,25.6,"Yes",2.5
+"Legacy IntelA Processors","Mobile",111,32,570,8,8,45,32,25.6,"Yes",2.3
+"Legacy IntelA Processors","Mobile",212,22,225,4,3,35,32,25.6,"Yes",2.4
+"Legacy IntelA Processors","Embedded",313,22,293,4,43,25,32,21.3,"Yes",2.5
+"Legacy IntelA Processors","Mobile",312,22,225,4,3,35,32,25.6,"Yes",2.5
+"Legacy IntelA Processors","Embedded",312,22,199,4,3,35,16,25.6,"Yes",2.4
+"Legacy IntelA Processors","Mobile",113,22,281,4,3,35,32,25.6,"Yes",2.6
+"Legacy IntelA Processors","Desktop",113,22,117,4,3,55,32,25.6,"Yes",3.2
+"Legacy IntelA Processors","Mobile",212,22,225,4,3,17,32,25.6,"Yes",1.8
+"Legacy IntelA Processors","Embedded",312,22,221,4,3,17,16,25.6,"Yes",1.6
+"Legacy IntelA Processors","Desktop",312,22,205,4,3,55,32,25.6,"Yes",3.3
+"Legacy IntelA Processors","Desktop",312,22,117,4,3,35,32,25.6,"Yes",2.8
+"Legacy IntelA Processors","Desktop",312,22,134,4,3,55,32,25.6,"Yes",3.3
+"Legacy IntelA Processors","Mobile",113,22,225,4,3,17,32,25.6,"Yes",1.9
+"Legacy IntelA Processors","Desktop",312,22,117,4,3,55,32,25.6,"Yes",3.4
+"Legacy IntelA Processors","Mobile",113,22,281,4,3,13,32,25.6,"Yes",1.4
+"Legacy IntelA Processors","Desktop",213,22,324,4,3,55,32,25.6,"Yes",3.4
+"Legacy IntelA Processors","Desktop",312,22,117,4,3,35,32,25.6,"Yes",2.9
+"Legacy IntelA Processors","Desktop",213,22,117,4,3,55,32,25.6,"Yes",3.5
+"Legacy IntelA Processors","Mobile",212,22,225,4,3,35,32,25.6,"Yes",2.5
+"Legacy IntelA Processors","Desktop",213,22,117,4,3,35,32,25.6,"Yes",3
+"Legacy IntelA Processors","Mobile",113,22,213,4,3,35,32,25.6,"Yes",2.6
+"Legacy IntelA Processors","Mobile",113,22,225,4,3,35,32,25.6,"Yes",2.6
+"Legacy IntelA Processors","Mobile",212,22,225,4,3,17,32,25.6,"Yes",1.7
+"Legacy IntelA Processors","Mobile",212,22,225,4,3,35,32,25.6,"Yes",2.6
+"Legacy IntelA Processors","Mobile",212,22,225,4,3,35,32,25.6,"Yes",2.5
+"Legacy IntelA Processors","Desktop",312,22,117,4,6,77,32,25.6,"No",3
+"Legacy IntelA Processors","Desktop",312,22,182,4,6,65,32,25.6,"No",2.7
+"Legacy IntelA Processors","Mobile",113,22,225,4,3,17,32,25.6,"Yes",1.8
+"Legacy IntelA Processors","Mobile",113,22,304,4,3,13,32,25.6,"Yes",1.5
+"Legacy IntelA Processors","Desktop",313,22,250,4,6,77,32,25.6,"No",3.1
+"Legacy IntelA Processors","Desktop",313,22,132,4,6,65,32,25.6,"No",2.8
+"Legacy IntelA Processors","Mobile",113,22,315,4,3,35,32,25.6,"Yes",2.7
+"Legacy IntelA Processors","Desktop",312,22,177,4,6,69,32.23,25.6,"No",3.1
+"Legacy IntelA Processors","Mobile",212,22,281,4,3,35,32,25.6,"Yes",2.8
+"Legacy IntelA Processors","Mobile",212,22,225,4,3,17,32,25.6,"Yes",1.8
+"Legacy IntelA Processors","Mobile",113,22,393,4,3,35,32,25.6,"Yes",2.9
+"Legacy IntelA Processors","Mobile",113,22,281,4,3,17,32,25.6,"Yes",1.9
+"Legacy IntelA Processors","Mobile",113,22,346,4,3,13,32,25.6,"Yes",1.5
+"Legacy IntelA Processors","Desktop",212,22,195,4,6,77,32,25.6,"No",3.1
+"Legacy IntelA Processors","Desktop",212,22,168,4,6,65,32,25.6,"No",2.8
+"Legacy IntelA Processors","Desktop",212,22,201,4,6,77,32,25.6,"No",3.2
+"Legacy IntelA Processors","Desktop",212,22,266,4,6,65,32,25.6,"No",2.9
+"Legacy IntelA Processors","Desktop",212,22,184,4,3,35,32,25.6,"Yes",2.9
+"Legacy IntelA Processors","Desktop",212,22,201,4,6,65,32,25.6,"No",2.9
+"Legacy IntelA Processors","Desktop",212,22,117,4,6,77,32,25.6,"No",3.3
+"Legacy IntelA Processors","Desktop",212,22,197,4,6,65,32,25.6,"No",3
+"Legacy IntelA Processors","Desktop",212,22,213,4,6,77,32,25.6,"No",3.4
+"Legacy IntelA Processors","Desktop",212,22,248,4,6,77,32,25.6,"No",3.4
+"Legacy IntelA Processors","Desktop",212,22,205,4,6,45,32,25.6,"No",2.3
+"Legacy IntelA Processors","Desktop",212,22,205,4,6,65,32,25.6,"No",3.1
+"Legacy IntelA Processors","Embedded",212,22,235,4,3,35,16,25.6,"Yes",2.7
+"Legacy IntelA Processors","Mobile",212,22,315,4,4,17,32,25.6,"Yes",1.9
+"Legacy IntelA Processors","Mobile",212,22,346,4,4,35,32,25.6,"Yes",2.9
+"Legacy IntelA Processors","Embedded",212,22,280,4,4,17,16,25.6,"Yes",1.7
+"Legacy IntelA Processors","Mobile",113,22,346,4,4,17,32,25.6,"Yes",2
+"Legacy IntelA Processors","Mobile",113,22,346,4,4,35,32,25.6,"Yes",3
+"Legacy IntelA Processors","Embedded",212,22,306,4,4,25,16,25.6,"Yes",2.5
+"Legacy IntelA Processors","Embedded",212,22,335,8,6,45,32.23,25.6,"Yes",2.3
+"Legacy IntelA Processors","Mobile",212,22,378,8,6,45,32,25.6,"Yes",2.3
+"Legacy IntelA Processors","Mobile",212,22,378,8,6,35,32,25.6,"Yes",2.1
+"Legacy IntelA Processors","Embedded",212,22,363,8,6,35,16.11,25.6,"Yes",2.1
+"Legacy IntelA Processors","Mobile",212,22,378,8,6,35,32,25.6,"Yes",2.1
+"Legacy IntelA Processors","Embedded",212,22,335,8,6,45,16.11,25.6,"Yes",2.3
+"Legacy IntelA Processors","Mobile",212,22,378,8,6,45,32,25.6,"Yes",2.3
+"Legacy IntelA Processors","Mobile",312,22,378,8,6,45,32,25.6,"Yes",2.4
+"Legacy IntelA Processors","Mobile",312,22,378,8,6,35,32,25.6,"Yes",2.2
+"Legacy IntelA Processors","Mobile",312,22,295,8,6,35,32,25.6,"Yes",2.2
+"Legacy IntelA Processors","Mobile",312,22,378,8,6,45,32,25.6,"Yes",2.4
+"Legacy IntelA Processors","Mobile",212,22,346,4,4,17,32,25.6,"Yes",2
+"Legacy IntelA Processors","Mobile",113,22,346,4,4,17,32,25.6,"Yes",2.1
+"Legacy IntelA Processors","Mobile",113,22,250,4,4,13,32,25.6,"Yes",1.5
+"Legacy IntelA Processors","Mobile",212,22,378,8,6,45,32,25.6,"Yes",2.6
+"Legacy IntelA Processors","Desktop",212,22,378,8,8,77,32,25.6,"Yes",3.4
+"Legacy IntelA Processors","Mobile",312,22,378,8,6,45,32,25.6,"Yes",2.7
+"Legacy IntelA Processors","Desktop",212,22,409,8,8,77,32,25.6,"Yes",3.5
+"Legacy IntelA Processors","Desktop",212,22,378,8,8,65,32,25.6,"Yes",3.1
+"Legacy IntelA Processors","Desktop",212,22,294,8,8,45,32,25.6,"Yes",2.5
+"Legacy IntelA Processors","Mobile",212,22,568,8,8,45,32,25.6,"Yes",2.7
+"Legacy IntelA Processors","Mobile",312,22,568,8,8,45,32,25.6,"Yes",2.8
+"Legacy IntelA Processors","Desktop",406,65,224,2,82,130,24,25.6,"No",2.66
+"Legacy IntelA Processors","Desktop",207,65,999,4,82,130,24,25.6,"No",2.93
+"Legacy IntelA Processors","Desktop",307,65,224,4,82,130,288,25.6,"No",3
+"Legacy IntelA Processors","Mobile",308,45,969,4,122,45,144,85,"No",2.53
+"Legacy IntelA Processors","Desktop",407,45,183,4,122,130,144,85,"No",3
+"Legacy IntelA Processors","Desktop",108,45,316,4,122,136,24,25.6,"No",3.2
+"Legacy IntelA Processors","Desktop",108,45,224,4,122,150,24,25.6,"No",3.2
+"Legacy IntelA Processors","Desktop",306,65,1177,4,42,75,64,85,"No",2.93
+"Legacy IntelA Processors","Mobile",307,65,10.7,2,42,44,8,17.1,"No",2.6
+"Legacy IntelA Processors","Mobile",307,65,107,2,42,44,128,85,"No",2.8
+"Legacy IntelA Processors","Mobile",108,45,426,4,62,44,8,17.1,"No",2.8
+"Legacy IntelA Processors","Mobile",308,45,107,2,62,44,16,21,"No",3.06
+"Legacy IntelA Processors","Mobile",309,45,459,8,8,55,8,21,"Yes",2
+"Legacy IntelA Processors","Mobile",310,45,335,8,8,55,8,21,"Yes",2.13
+"Legacy IntelA Processors","Desktop",408,45,990,8,8,130,24,25.6,"Yes",3.2
+"Legacy IntelA Processors","Desktop",209,45,1059,8,8,130,24,25.6,"Yes",3.33
+"Legacy IntelA Processors","Desktop",110,32,1059,12,12,130,24,25.6,"Yes",3.33
+"Legacy IntelA Processors","Desktop",111,32,1059,12,12,130,24,25.6,"Yes",3.46
+"Legacy IntelA Processors","Mobile",111,32,378,8,8,55,32,25.6,"Yes",2.5
+"IntelA Processors","Server",415,14,129,4,3,25,128,34.1,"Yes",2.2
+"IntelA Processors","Server",415,14,156,2,3,19,128,37.5,"No",1.5
+"IntelA Processors","Server",415,14,194,8,6,25,128,34.1,"Yes",1.6
+"IntelA Processors","Server",216,14,200,8,6,25,128,34.1,"Yes",1.5
+"IntelA Processors","Desktop",113,22,64,2,3,55,32,21,"No",2.9
+"IntelA Processors","Desktop",213,22,64,2,3,55,32,21,"No",3
+"IntelA Processors","Desktop",113,22,64,2,3,35,32,21,"No",2.5
+"IntelA Processors","Desktop",213,22,64,2,3,35,32,21,"No",2.6
+"IntelA Processors","Desktop",312,22,47,2,3,35,32,25.6,"No",2.6
+"IntelA Processors","Desktop",312,22,42,2,3,55,32,25.6,"No",3.1
+"IntelA Processors","Desktop",213,22,107,2,3,35,32,25.6,"No",2.7
+"IntelA Processors","Desktop",113,22,42,2,3,55,32,25.6,"No",3.2
+"IntelA Processors","Desktop",213,22,93,2,3,55,32,25.6,"No",3.3
+"IntelA Processors","Embedded",415,14,64,2,3,35,64,34.1,"No",2.4
+"IntelA Processors","Desktop",315,14,64,2,3,35,64,34.1,"No",2.9
+"IntelA Processors","Desktop",315,14,64,2,3,54,64,34.1,"No",3.3
+"IntelA Processors","Desktop",117,14,64,4,3,54,64,34.1,"Yes",3.5
+"IntelA Processors","Desktop",315,14,75,2,3,51,64,34.1,"No",3.6
+"IntelA Processors","Desktop",315,14,161,2,3,51,64,34.1,"No",3.5
+"IntelA Processors","Desktop",315,14,75,2,3,35,64,34.1,"No",3
+"IntelA Processors","Desktop",117,14,64,4,3,35,64,34.1,"Yes",2.9
+"IntelA Processors","Desktop",117,14,17,4,3,51,64,34.1,"Yes",3.7
+"IntelA Processors","Desktop",117,14,20,4,3,51,64,34.1,"Yes",3.6
+"IntelA Processors","Desktop",117,14,75,4,3,35,64,34.1,"Yes",3
+"IntelA Processors","Desktop",313,22,87,2,3,53,32,21.3,"No",3
+"IntelA Processors","Desktop",214,22,47,2,3,53,32,21.3,"No",3.1
+"IntelA Processors","Desktop",313,22,64,2,3,35,32,21.3,"No",2.6
+"IntelA Processors","Desktop",214,22,64,2,3,35,32,21.3,"No",2.7
+"IntelA Processors","Desktop",314,22,107,2,3,53,32,21.3,"No",3.2
+"IntelA Processors","Desktop",214,22,72,2,3,53,32,21.3,"No",3.2
+"IntelA Processors","Desktop",115,22,64,2,3,53,32,21.3,"No",3.3
+"IntelA Processors","Desktop",314,22,64,2,3,35,32,21.3,"No",2.8
+"IntelA Processors","Desktop",115,22,64,2,3,35,32,21.3,"No",2.9
+"IntelA Processors","Embedded",313,22,70,2,3,35,32,21.3,"No",2.3
+"IntelA Processors","Desktop",313,22,64,2,3,53,32,25.6,"No",3.2
+"IntelA Processors","Desktop",313,22,75,2,3,35,32,25.6,"No",2.7
+"IntelA Processors","Desktop",313,22,64,2,3,53,32,25.6,"No",3.3
+"IntelA Processors","Desktop",214,22,42,2,3,53,32,25.6,"No",3.3
+"IntelA Processors","Desktop",214,22,75,2,3,35,32,25.6,"No",2.8
+"IntelA Processors","Desktop",214,22,72,2,3,53,32,25.6,"No",3.4
+"IntelA Processors","Desktop",314,22,75,2,3,35,32,25.6,"No",2.9
+"IntelA Processors","Desktop",314,22,95,2,3,53,32,25.6,"No",3.5
+"IntelA Processors","Desktop",115,22,75,2,3,35,32,25.6,"No",3
+"IntelA Processors","Desktop",115,22,86,2,3,53,32,25.6,"No",3.6
+"IntelA Processors","Embedded",114,22,86,2,2,25,32,25.6,"No",1.5
+"IntelA Processors","Mobile",413,22,75,2,2,37,32,25.6,"No",2
+"IntelA Processors","Mobile",313,22,107,2,2,15,16,25.6,"No",1.4
+"IntelA Processors","Mobile",413,22,107,2,2,15,16,25.6,"No",1.4
+"IntelA Processors","Mobile",214,22,75,2,2,37,32,25.6,"No",2.2
+"IntelA Processors","Mobile",413,22,19,2,2,11.5,16,25.6,"No",1.1
+"IntelA Processors","Mobile",313,22,107,2,2,15,16,25.6,"No",1.6
+"IntelA Processors","Mobile",413,22,64,2,2,15,16,25.6,"No",1.6
+"IntelA Processors","Mobile",313,22,75,2,2,35,32,25.6,"No",1.9
+"IntelA Processors","Mobile",113,22,75,2,2,17,32,25.6,"No",1.5
+"IntelA Processors","Mobile",313,22,75,2,2,17,32,25.6,"No",1.6
+"IntelA Processors","Mobile",213,22,89,2,2,10,32,25.6,"No",1
+"IntelA Processors","Embedded",113,22,76,2,2,35,16,25.6,"No",2.2
+"IntelA Processors","Mobile",113,22,75,2,2,35,32,25.6,"No",2.1
+"IntelA Processors","Mobile",113,22,107,2,2,17,32,25.6,"No",1.8
+"IntelA Processors","Embedded",113,22,119,2,2,17,16,25.6,"No",1.4
+"Legacy IntelA Processors","Desktop",406,65,1223,4,5122,65,64,68,"No",3.46
+"Legacy IntelA Processors","Desktop",206,65,1223,4,5122,86,384,85,"No",3.33
+"Legacy IntelA Processors","Desktop",405,90,72,1,2562,84,8.79,21,"No",3.33
+"Legacy IntelA Processors","Desktop",206,65,1223,4,5122,86,384,68,"No",3.2
+"Legacy IntelA Processors","Desktop",305,90,231,4,2562,84,64,85,"No",3.2
+"Legacy IntelA Processors","Desktop",305,90,696,4,2562,73,8,17.1,"No",3.2
+"Legacy IntelA Processors","Desktop",305,90,75,1,2562,73,8,10.66,"No",3.2
+"Legacy IntelA Processors","Desktop",406,65,42,1,5122,86,8,17.1,"No",3.06
+"Legacy IntelA Processors","Desktop",206,90,37,1,2562,84,144,25.6,"No",3.06
+"Legacy IntelA Processors","Desktop",404,90,75,1,2562,84,32,21.3,"No",3.06
+"Legacy IntelA Processors","Desktop",404,90,52,1,2562,73,128,68,"No",3.06
+"Legacy IntelA Processors","Desktop",204,90,413,4,2562,84,128,85,"No",2.93
+"Legacy IntelA Processors","Desktop",404,90,413,4,2562,84,8,17.1,"No",2.93
+"Legacy IntelA Processors","Desktop",106,250,1100,4,5122,18.48,8,10.6,"No",0.3
+"Legacy IntelA Processors","Desktop",404,90,72,1,2562,73,8,21,"No",2.93
+"Legacy IntelA Processors","Desktop",106,65,22,1,542.32629249889,16.59,2,4.2,"No",0.266
+"Legacy IntelA Processors","Desktop",208,90,413,4,2562,84,144,25.6,"No",2.8
+"Legacy IntelA Processors","Desktop",204,250,224,2,128,95,144,21,"No",0.466
+"Legacy IntelA Processors","Mobile",401,130,1177,4,256,8.3,64,68,"No",0.65
+"Legacy IntelA Processors","Desktop",404,90,74,1,2562,84,128,68,"No",2.8
+"Legacy IntelA Processors","Desktop",100,180,1100,4,1282,20,144,25.6,"No",0.766
+"Legacy IntelA Processors","Desktop",110,130,856,4,1282,68.4,144,25.6,"No",2.8
+"Legacy IntelA Processors","Desktop",204,90,32,1,2562,73,16,25,"No",2.8
+"Legacy IntelA Processors","Mobile",107,180,307,4,1282,20.6,16.38,21,"No",0.933
+"Legacy IntelA Processors","Desktop",100,180,1980,4,1282,23.6,144,25.6,"No",0.733
+"Legacy IntelA Processors","Desktop",208,130,1980,4,1282,66.8,144,25.6,"No",2.7
+"Legacy IntelA Processors","Mobile",411,90,75,1,12,5.5,16,21.3,"No",1
+"Legacy IntelA Processors","Desktop",204,90,12.85,1,2562,73,384,68,"No",2.8
+"Legacy IntelA Processors","Mobile",204,180,3692,4,1282,6.5,2,10.66,"No",0.4
+"Legacy IntelA Processors","Desktop",106,180,307,4,1282,28,16.38,21,"No",0.95
+"Legacy IntelA Processors","Desktop",208,180,856,4,1282,18.3,144,25.6,"No",0.7
+"Legacy IntelA Processors","Desktop",100,130,1850,4,1282,62.6,16.38,21.3,"No",2.6
+"Legacy IntelA Processors","Mobile",204,90,231,4,5122,5.5,8,6.4,"No",1
+"Legacy IntelA Processors","Desktop",404,90,417,4,2562,84,128,68,"No",2.66
+"Legacy IntelA Processors","Mobile",212,32,64,2,1.53,17,16,21.3,"Yes",1.5
+"Legacy IntelA Processors","Mobile",211,32,93,2,23,35,16,21.3,"No",1.5
+"Legacy IntelA Processors","Desktop",311,32,42,2,2,65,32,17,"No",2.4
+"Legacy IntelA Processors","Mobile",102,180,1850,4,1282,24,384,85,"No",0.9
+"Legacy IntelA Processors","Mobile",207,180,3692,4,1282,23.3,384,85,"No",0.866
+"Legacy IntelA Processors","Desktop",204,130,1980,4,2562,34.8,16,21,"No",0.9
+"Legacy IntelA Processors","Desktop",404,180,3692,4,1282,17.5,64,68,"No",0.667
+"Legacy IntelA Processors","Desktop",102,130,1177,4,1282,61,384,85,"No",2.5
+"Legacy IntelA Processors","Mobile",211,90,89,1,5122,5,4,10.6,"No",0.9
+"Legacy IntelA Processors","Desktop",404,90,42,1,2562,84,8,17.1,"No",2.66
+"Legacy IntelA Processors","Embedded",411,32,98,1,1,10,4.88,10.6,"No",1
+"Legacy IntelA Processors","Mobile",111,32,72,2,2,35,16.6,21.3,"No",1.6
+"Legacy IntelA Processors","Desktop",311,32,42,2,2,35,32,17,"No",2
+"Legacy IntelA Processors","Mobile",203,180,307,4,1282,18.8,16,25.6,"No",0.85
+"Legacy IntelA Processors","Mobile",308,130,1177,4,2562,61,64.45,68,"No",2.5
+"Legacy IntelA Processors","Desktop",107,180,1177,4,1282,26.7,8,85,"No",0.9
+"Legacy IntelA Processors","Desktop",100,180,3692,4,1282,16.5,2,8.5,"No",0.633
+"Legacy IntelA Processors","Desktop",110,130,1177,4,1282,59.8,144,25.6,"No",2.4
+"Legacy IntelA Processors","Mobile",405,130,1980,4,5122,7,128,85,"No",0.9
+"Legacy IntelA Processors","Desktop",204,90,64,2,2562,73,16.38,21.3,"No",2.66
+"Legacy IntelA Processors","Embedded",311,32,89,1,1.5,17,16.6,21.3,"No",1.4
+"Legacy IntelA Processors","Embedded",211,32,72,2,2,35,16.6,21.3,"No",1.6
+"Legacy IntelA Processors","Desktop",311,32,75,2,2,65,32,17,"No",2.5
+"Legacy IntelA Processors","Mobile",102,180,1980,4,1282,22,8,17.1,"No",0.8
+"Legacy IntelA Processors","Mobile",208,180,3692,4,1282,17.6,144,25.6,"No",0.8
+"Legacy IntelA Processors","Mobile",102,130,1177,4,2562,35,144,25.6,"No",2.4
+"Legacy IntelA Processors","Desktop",100,180,1850,4,1282,25.7,8,21,"No",0.85
+"Legacy IntelA Processors","Desktop",107,180,3587,4,1282,15.8,8,12.8,"No",0.6
+"Legacy IntelA Processors","Desktop",107,130,3587,4,1282,58.3,8,17.1,"No",2.3
+"Legacy IntelA Processors","Mobile",306,90,107,1,12,21,16.6,21,"No",1.7
+"Legacy IntelA Processors","Desktop",404,90,107,1,2562,73,64.45,68,"No",2.66
+"Legacy IntelA Processors","Mobile",112,32,12.85,2,23,35,16,21.3,"No",1.6
+"Legacy IntelA Processors","Mobile",211,32,134,2,23,17,16,21.3,"No",1.1
+"Legacy IntelA Processors","Desktop",212,32,107,2,2,35,32,17,"No",2.1
+"Legacy IntelA Processors","Mobile",306,65,134,4,5122,10,16.38,25.6,"No",1
+"Legacy IntelA Processors","Mobile",203,130,3692,4,5122,7,144,25.6,"No",0.6
+"Legacy IntelA Processors","Mobile",110,130,307,4,2562,35,144,25.6,"No",0.733
+"Legacy IntelA Processors","Mobile",100,180,1850,4,1282,15.8,8,12.8,"No",0.75
+"Legacy IntelA Processors","Mobile",102,130,856,4,2562,35,144,25.6,"No",2.2
+"Legacy IntelA Processors","Desktop",100,180,1980,4,1282,20.8,8,12.8,"No",0.8
+"Legacy IntelA Processors","Desktop",100,180,3587,4,1282,19.2,8,85,"No",0.566
+"Legacy IntelA Processors","Desktop",102,130,1850,4,1282,57.1,16.38,21.3,"No",2.2
+"Legacy IntelA Processors","Mobile",206,90,72,1,12,21,144,17,"No",1.6
+"Legacy IntelA Processors","Desktop",204,90,32,1,2562,84,384,85,"No",2.53
+"Legacy IntelA Processors","Mobile",312,32,75,2,2,35,16,21.3,"No",1.7
+"Legacy IntelA Processors","Embedded",211,32,111,2,2,17,16.6,21.3,"No",1.1
+"Legacy IntelA Processors","Desktop",212,32,42,2,2,65,32,17,"No",2.6
+"Legacy IntelA Processors","Mobile",107,65,125,2,12,27,8,17.1,"No",1.73
+"Legacy IntelA Processors","Mobile",311,65,68,1,12,5.5,4,5.3,"No",1.2
+"Legacy IntelA Processors","Mobile",102,180,1100,4,1282,20.6,144,25.6,"No",0.733
+"Legacy IntelA Processors","Mobile",209,180,3692,4,1282,15,144,25.6,"No",0.7
+"Legacy IntelA Processors","Mobile",109,130,3587,4,2562,32,144,25.6,"No",2
+"Legacy IntelA Processors","Desktop",106,250,1980,4,1282,28.3,8,85,"No",0.533
+"Legacy IntelA Processors","Desktop",110,130,1980,4,1282,55.5,144,25.6,"No",2.1
+"Legacy IntelA Processors","Desktop",204,130,1177,4,2562,34.8,16.38,21,"No",1.4
+"Legacy IntelA Processors","Mobile",210,130,1850,4,5122,7,8,12.8,"No",0.8
+"Legacy IntelA Processors","Mobile",204,90,75,1,12,21,8,12.8,"No",1.5
+"Legacy IntelA Processors","Desktop",404,90,107,1,2562,84,8,17.1,"No",2.53
+"Legacy IntelA Processors","Mobile",312,32,161,2,23,35,16,21.3,"No",1.8
+"Legacy IntelA Processors","Mobile",311,32,32,2,23,17,16,21.3,"No",1.2
+"Legacy IntelA Processors","Desktop",312,32,84,2,2,35,32,17,"No",2.2
+"Legacy IntelA Processors","Mobile",310,65,107,1,1282,20.7,16,21.3,"No",0.466
+"Legacy IntelA Processors","Desktop",308,65,64,1,5122,35,16.6,21.3,"No",2.2
+"Legacy IntelA Processors","Mobile",307,65,93,1,12,5.5,2,6.4,"No",0.93
+"Legacy IntelA Processors","Mobile",307,65,20,1,12,30,8,17.1,"No",1.86
+"Legacy IntelA Processors","Mobile",102,180,1100,4,1282,14,8.01,10.6,"No",0.65
+"Legacy IntelA Processors","Mobile",110,130,1850,4,2562,66.1,144,25.6,"No",1.8
+"Legacy IntelA Processors","Mobile",107,130,3692,4,2562,19,16.38,21,"No",1.33
+"Legacy IntelA Processors","Desktop",204,250,1980,4,1282,27,144,25.6,"No",0.5
+"Legacy IntelA Processors","Desktop",102,130,1850,4,1282,52.8,384,85,"No",2
+"Legacy IntelA Processors","Desktop",404,130,856,4,2562,33.4,16,21,"No",1.3
+"Legacy IntelA Processors","Mobile",106,65,281,4,12,5.5,16,21.3,"No",1.06
+"Legacy IntelA Processors","Mobile",106,90,42,1,12,21,16,21.3,"No",1.4
+"Legacy IntelA Processors","Desktop",204,90,42,1,2562,84,16.38,17,"No",2.53
+"Legacy IntelA Processors","Desktop",312,32,52,2,2,65,32,17,"No",2.7
+"Legacy IntelA Processors","Mobile",112,32,156,2,23,17,16,21.3,"No",1.3
+"Legacy IntelA Processors","Mobile",311,32,86,2,23,35,16,21.3,"No",1.9
+"Legacy IntelA Processors","Mobile",311,32,37,1,1.53,35,16,21.3,"No",1.6
+"Legacy IntelA Processors","Desktop",311,32,29,1,1,35,32,17,"No",1.6
+"Legacy IntelA Processors","Mobile",317,90,1223,4,1282,19.4,64.23,68,"No",0.433
+"Legacy IntelA Processors","Desktop",310,45,52,2,1,65,8,17.1,"No",2.7
+"Legacy IntelA Processors","Mobile",408,65,75,2,12,35,16.6,17,"No",1.83
+"Legacy IntelA Processors","Mobile",306,65,275,4,12,31,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",107,180,856,4,1282,13,2.93,12.8,"No",0.6
+"Legacy IntelA Processors","Mobile",106,130,3692,4,2562,30,16.38,85,"No",1.7
+"Legacy IntelA Processors","Desktop",299,250,3692,4,1282,24.1,144,25.6,"No",0.433
+"Legacy IntelA Processors","Desktop",100,130,1980,4,2562,32.1,16,21.3,"No",1.2
+"Legacy IntelA Processors","Mobile",106,65,415,4,12,27,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",302,90,107,1,12,21,16.38,17,"No",1.3
+"Legacy IntelA Processors","Desktop",204,90,339,4,2562,73,8,85,"No",2.53
+"Legacy IntelA Processors","Mobile",212,32,107,2,23,17,16,21.3,"No",1.4
+"Legacy IntelA Processors","Mobile",112,32,77,1,1.53,35,16,21.3,"No",1.7
+"Legacy IntelA Processors","Desktop",411,32,37,2,1.5,35,32,17,"Yes",1.8
+"Legacy IntelA Processors","Mobile",100,180,307,4,1282,13.8,2,12.8,"No",0.4
+"Legacy IntelA Processors","Desktop",110,45,42,2,1,65,16.38,21.3,"No",2.6
+"Legacy IntelA Processors","Mobile",310,45,75,2,1,35,16.38,21.3,"No",2.1
+"Legacy IntelA Processors","Mobile",408,65,74,2,12,35,8,17.1,"No",1.66
+"Legacy IntelA Processors","Desktop",108,65,601,4,5122,65,144,25.6,"No",1.6
+"Legacy IntelA Processors","Mobile",108,65,281,4,12,31,8,17.1,"No",2.13
+"Legacy IntelA Processors","Mobile",106,65,696,4,5122,27,16,21,"No",1.33
+"Legacy IntelA Processors","Mobile",106,180,3692,4,1282,24.4,144,25.6,"No",0.55
+"Legacy IntelA Processors","Mobile",204,130,3692,4,2562,30,8,17.1,"No",1.6
+"Legacy IntelA Processors","Desktop",104,250,856,4,1282,23.7,8,17.1,"No",0.4
+"Legacy IntelA Processors","Mobile",110,130,856,4,2562,24.4,128,85,"No",1.2
+"Legacy IntelA Processors","Desktop",100,130,1100,4,1282,66.1,8,17.1,"No",1.8
+"Legacy IntelA Processors","Desktop",204,130,3692,4,2562,28.9,8,85,"No",1.1
+"Legacy IntelA Processors","Mobile",106,65,315,4,12,27,8,17.1,"No",1.86
+"Legacy IntelA Processors","Mobile",100,130,1980,4,5122,24.5,16,85,"No",1.5
+"Legacy IntelA Processors","Desktop",204,90,2059,4,2562,73,384,68,"No",2.4
+"Legacy IntelA Processors","Desktop",312,32,37,2,1.5,35,32,17,"Yes",1.9
+"Legacy IntelA Processors","Mobile",312,32,52,2,23,17,16,21.3,"No",1.5
+"Legacy IntelA Processors","Embedded",212,32,90,2,1.53,10,16,21.3,"Yes",1.3
+"Legacy IntelA Processors","Mobile",310,32,42,2,2,35,8,17.1,"No",2
+"Legacy IntelA Processors","Mobile",111,32,134,2,2,18,8,12.8,"No",1.2
+"Legacy IntelA Processors","Mobile",100,180,1980,4,1282,13.1,2,12.8,"No",0.366
+"Legacy IntelA Processors","Mobile",110,45,32,2,1,35,8,4.2,"No",2
+"Legacy IntelA Processors","Desktop",309,45,47,2,12,65,16.6,21.3,"No",2.5
+"Legacy IntelA Processors","Mobile",109,45,34,1,12,35,16.38,21.3,"No",2.2
+"Legacy IntelA Processors","Mobile",309,45,29,1,12,10,4,10.6,"No",1.3
+"Legacy IntelA Processors","Mobile",208,65,232,4,12,31,16.38,21,"No",2.26
+"Legacy IntelA Processors","Desktop",208,65,107,2,5122,65,144,21.3,"No",2
+"Legacy IntelA Processors","Desktop",306,65,107,1,5122,35,64,68,"No",2
+"Legacy IntelA Processors","Mobile",100,180,1980,4,1282,13.1,8,17.1,"No",0.5
+"Legacy IntelA Processors","Mobile",204,130,3692,4,2562,30,144,25.6,"No",1.5
+"Legacy IntelA Processors","Desktop",199,250,3587,4,1282,21.7,8,85,"No",0.366
+"Legacy IntelA Processors","Mobile",102,130,3692,4,2562,23.8,8,17.1,"No",1.13
+"Legacy IntelA Processors","Desktop",102,130,307,4,1282,63.5,384,68,"No",1.7
+"Legacy IntelA Processors","Mobile",208,65,60,1,12,27,16,21.3,"No",1.73
+"Legacy IntelA Processors","Desktop",100,180,3587,4,1282,33,8,21,"No",1.1
+"Legacy IntelA Processors","Mobile",109,130,1100,4,5122,24.5,144,25.6,"No",1.4
+"Legacy IntelA Processors","Desktop",204,90,2059,4,2562,73,128,85,"No",2.26
+"Legacy IntelA Processors","Desktop",213,32,37,2,1.5,35,32,17,"Yes",2
+"Legacy IntelA Processors","Mobile",311,32,64,1,1.53,17,16,21.3,"No",1.3
+"Legacy IntelA Processors","Mobile",111,45,9.62,1,12,35,16,21.3,"No",2.3
+"Legacy IntelA Processors","Mobile",110,32,105,2,2,18,8,17.1,"No",1.06
+"Legacy IntelA Processors","Mobile",210,65,64,2,1282,11.8,2,10.6,"No",0.3
+"Legacy IntelA Processors","Desktop",402,90,107,1,2562,84,16,21,"No",2.4
+"Legacy IntelA Processors","Mobile",110,32,68,2,2,35,8,17.1,"No",1.86
+"Legacy IntelA Processors","Desktop",309,45,47,2,12,65,8.79,17.1,"No",2.4
+"Legacy IntelA Processors","Mobile",308,45,87,1,12,10,4,5.3,"No",1.2
+"Legacy IntelA Processors","Mobile",306,65,72,1,12,31,8,17.1,"No",2
+"Legacy IntelA Processors","Desktop",306,65,47,2,5122,65,32,25,"No",2.2
+"Legacy IntelA Processors","Desktop",207,65,37,1,5122,35,16.38,17,"No",1.8
+"Legacy IntelA Processors","Mobile",306,65,134,4,12,30,8,17.1,"No",1.73
+"Legacy IntelA Processors","Desktop",107,65,161,4,12,27,144,34.1,"No",1.83
+"Legacy IntelA Processors","Mobile",102,180,3692,4,1282,15.5,1,12.8,"No",0.45
+"Legacy IntelA Processors","Mobile",204,130,1177,4,2562,30,144,25.6,"No",1.4
+"Legacy IntelA Processors","Mobile",110,130,3692,4,2562,23.2,144,25.6,"No",1.06
+"Legacy IntelA Processors","Desktop",100,250,3692,4,1282,19.7,8,85,"No",0.333
+"Legacy IntelA Processors","Desktop",299,130,1980,4,2562,27.8,128,85,"No",1
+"Legacy IntelA Processors","Mobile",106,65,107,1,12,27,8,10.6,"No",1.6
+"Legacy IntelA Processors","Mobile",203,130,3692,4,5122,24.5,8,17.1,"No",1.3
+"Legacy IntelA Processors","Desktop",304,90,29,1,2562,73,64,68,"No",2.26
+"Legacy IntelA Processors","Embedded",113,22,95,1,1,17,16,25.6,"No",1.5
+"Legacy IntelA Processors","Mobile",112,32,64,1,1.53,17,16,21.3,"No",1.4
+"Legacy IntelA Processors","Mobile",111,45,107,1,12,10,8,12.8,"No",1.4
+"Legacy IntelA Processors","Mobile",308,180,307,4,1282,9.8,2,12.8,"No",0.266
+"Legacy IntelA Processors","Mobile",210,32,134,2,2,18,8,12.8,"No",1.06
+"Legacy IntelA Processors","Embedded",110,45,153,2,23,30,32,21,"Yes",1.33
+"Legacy IntelA Processors","Mobile",110,32,68,2,2,35,8,17.1,"No",1.86
+"Legacy IntelA Processors","Mobile",309,45,134,2,1,10,8,12.8,"No",1.2
+"Legacy IntelA Processors","Mobile",308,45,62,2,12,35,16.38,21.3,"No",1.9
+"Legacy IntelA Processors","Mobile",308,45,161,4,12,5.5,8,5.3,"No",1.2
+"Legacy IntelA Processors","Mobile",308,65,22,1,12,31,8,17.1,"No",2.16
+"Legacy IntelA Processors","Desktop",209,65,58,2,5122,65,8,17.1,"No",2.4
+"Legacy IntelA Processors","Desktop",407,65,90,1,5122,19,128,68,"No",1.2
+"Legacy IntelA Processors","Desktop",106,65,75,1,12,27,8,17.1,"No",1.66
+"Legacy IntelA Processors","Desktop",207,65,268,2,5122,35,384,85,"No",1.6
+"Legacy IntelA Processors","Mobile",107,65,281,4,12,30,8,17.1,"No",1.6
+"Legacy IntelA Processors","Mobile",102,130,3587,4,2562,20.8,144,25.6,"No",1.2
+"Legacy IntelA Processors","Mobile",111,130,1980,4,2562,22,128,85,"No",1
+"Legacy IntelA Processors","Desktop",199,250,856,4,1282,17.8,4,12.8,"No",0.3
+"Legacy IntelA Processors","Desktop",110,180,1177,4,1282,29,144,25.6,"No",1
+"Legacy IntelA Processors","Mobile",106,65,161,4,12,27,8,17.1,"No",1.46
+"Legacy IntelA Processors","Mobile",106,130,3587,4,5122,24.5,16.38,21,"No",1.2
+"Legacy IntelA Processors","Desktop",405,90,494,4,2562,73,16.6,21.3,"No",2.13
+"IntelA Processors","Server",317,14,1266,8,113,85,768,68,"No",1.7
+"IntelA Processors","Server",317,14,1107,16,113,85,768,68,"Yes",1.8
+"IntelA Processors","Server",317,14,501,16,113,70,768,68,"Yes",2
+"IntelA Processors","Server",317,14,1266,16,113,85,768,68,"Yes",2.1
+"IntelA Processors","Server",317,14,441,8,8.253,85,768,59,"Yes",2.6
+"IntelA Processors","Server",317,14,773,20,13.753,85,768,68.3,"Yes",2.2
+"IntelA Processors","Server",317,14,1477,20,13.753,85,768,68.3,"Yes",2.2
+"IntelA Processors","Server",317,14,883,24,16.53,85,768,68,"Yes",2.1
+"IntelA Processors","Server",317,14,773,24,16.53,85,768,68,"Yes",2.1
+"IntelA Processors","Server",317,14,1221,20,13.753,85,768,68,"Yes",2.4
+"IntelA Processors","Server",317,14,1273,24,16.53,105,768,68.3,"Yes",2.3
+"IntelA Processors","Server",317,14,1299,28,19.253,85,768,68,"Yes",1.9
+"IntelA Processors","Server",317,14,1502,28,19.253,105,768,68.3,"Yes",2.2
+"IntelA Processors","Server",317,14,996,8,16.53,105,768,59,"Yes",3.6
+"IntelA Processors","Server",317,14,1727,28,19.253,105,768,68,"Yes",2.2
+"IntelA Processors","Server",317,14,1776,24,19.253,125,768,68,"Yes",2.6
+"IntelA Processors","Server",317,14,1931,24,19.253,135,768,68,"Yes",2.6
+"IntelA Processors","Server",317,14,1865,24,19.253,125,768,68,"Yes",2.6
+"IntelA Processors","Server",317,14,1552,12,19.253,115,768,68,"Yes",3.4
+"IntelA Processors","Server",317,14,1846,32,223,125,768,68,"Yes",2.1
+"IntelA Processors","Server",317,14,2049,32,223,135,768,68,"Yes",2.1
+"IntelA Processors","Server",317,14,1988,32,223,125,768,68,"Yes",2.1
+"IntelA Processors","Server",317,14,2111,28,19.253,140,768,68,"Yes",2.6
+"IntelA Processors","Server",317,14,5217,16,24.753,130,1.5,68,"Yes",3.2
+"IntelA Processors","Server",317,14,2057,16,24.753,130,768,68,"Yes",3.2
+"IntelA Processors","Server",317,14,2460,24,24.753,150,768,68,"Yes",3
+"IntelA Processors","Server",317,14,4172,40,27.53,125,768,76.8,"Yes",2
+"IntelA Processors","Server",317,14,2767,40,27.53,135,768,76.8,"Yes",2
+"IntelA Processors","Server",317,14,2742,40,27.53,125,768,76.8,"Yes",2
+"IntelA Processors","Server",317,14,3227,36,24.753,140,768,68,"Yes",2.3
+"IntelA Processors","Server",317,14,5448,36,24.753,140,1.5,76.8,"Yes",2.3
+"IntelA Processors","Server",317,14,4936,32,223,150,768,76.8,"Yes",2.6
+"IntelA Processors","Server",317,14,5949,32,223,150,1.5,68,"Yes",2.6
+"IntelA Processors","Server",317,14,2925,16,24.753,150,768,68,"Yes",3.5
+"IntelA Processors","Server",317,14,3101,32,223,160,768,76.8,"Yes",2.6
+"IntelA Processors","Server",317,14,3286,24,24.753,165,768,68,"Yes",3.2
+"IntelA Processors","Server",317,14,2460,40,27.53,150,768,68,"Yes",2.4
+"IntelA Processors","Server",317,14,3227,40,27.53,160,768,76.8,"Yes",2.4
+"IntelA Processors","Server",317,14,3358,36,24.753,165,768,68,"Yes",2.7
+"IntelA Processors","Server",317,14,4227,44,30.253,140,768,68,"Yes",2.1
+"IntelA Processors","Server",317,14,3543,36,24.753,200,768,68,"Yes",3
+"IntelA Processors","Server",317,14,3115,32,223,125,768,68,"Yes",2
+"IntelA Processors","Server",317,14,7007,8,16.53,105,768,59.7,"Yes",3.6
+"IntelA Processors","Server",317,14,7007,24,24.753,150,768,68,"Yes",3
+"IntelA Processors","Server",317,14,7704,48,333,150,768,68,"Yes",2.1
+"IntelA Processors","Server",317,14,4856,48,333,160,768,68,"Yes",2.1
+"IntelA Processors","Server",317,14,4936,48,333,150,768,76.8,"Yes",2.1
+"IntelA Processors","Server",317,14,7704,48,333,150,1.5,68,"Yes",2.1
+"IntelA Processors","Server",317,14,6619,52,35.753,150,768,115.2,"Yes",2
+"IntelA Processors","Server",317,14,5890,48,333,205,768,68,"Yes",2.7
+"IntelA Processors","Server",317,14,5506,52,35.753,165,768,102,"Yes",2.1
+"IntelA Processors","Server",317,14,10409,52,35.753,165,1.5,115.2,"Yes",2.1
+"IntelA Processors","Server",317,14,8719,56,38.53,165,768,115.2,"Yes",2.1
+"IntelA Processors","Server",317,14,5339,56,38.53,173,768,115.2,"Yes",2.1
+"IntelA Processors","Server",317,14,11722,56,38.53,165,1.5,102,"Yes",2.1
+"IntelA Processors","Server",317,14,10009,56,38.53,205,768,115.2,"Yes",2.5
+"IntelA Processors","Server",317,14,13011,56,38.53,205,1.5,115.2,"Yes",2.5
+"IntelA Processors","Server",216,14,2170,28,35,115,3.07,85,"Yes",2
+"IntelA Processors","Server",216,14,1502,20,25,115,3.07,85,"Yes",2
+"IntelA Processors","Server",216,14,3003,32,40,115,3.07,85,"Yes",2.1
+"IntelA Processors","Server",216,14,4061,36,45,140,3.07,85,"Yes",2.2
+"IntelA Processors","Server",216,14,4672,36,45,165,3.07,85,"Yes",2.4
+"IntelA Processors","Server",216,14,4672,40,50,140,3.07,85,"Yes",2.1
+"IntelA Processors","Server",216,14,5895,44,55,150,3.07,85,"Yes",2.2
+"IntelA Processors","Server",216,14,7174,48,60,165,3.07,85,"Yes",2.2
+"IntelA Processors","Server",216,14,6841,20,60,165,3.07,85,"Yes",2.8
+"IntelA Processors","Server",216,14,6841,8,60,140,3.07,85,"Yes",3.2
+"IntelA Processors","Server",117,14,8898,48,60,165,3.07,85,"Yes",2.4
+"IntelA Processors","Server",215,22,2170,24,30,115,1.54,85,"Yes",2.1
+"IntelA Processors","Server",215,22,1502,20,25,115,1.54,85,"Yes",1.9
+"IntelA Processors","Server",215,22,3003,28,35,115,1.54,85,"Yes",2.2
+"IntelA Processors","Server",215,22,4061,32,40,140,1.54,85,"Yes",2.2
+"IntelA Processors","Server",215,22,4672,32,45,165,1.54,85,"Yes",2.5
+"IntelA Processors","Server",215,22,4672,36,45,140,1.54,85,"Yes",2.1
+"IntelA Processors","Server",215,22,5895,36,45,150,1.54,85,"Yes",2.3
+"IntelA Processors","Server",215,22,6063,36,45,115,1.54,85,"Yes",2
+"IntelA Processors","Server",215,22,7174,36,45,165,1.54,85,"Yes",2.5
+"IntelA Processors","Server",215,22,6841,20,45,165,1.54,85,"Yes",2.8
+"IntelA Processors","Server",215,22,6841,8,45,140,1.54,85,"Yes",3.2
+"IntelA Processors","Server",114,22,4227,30,30,130,1.54,85,"Yes",2.3
+"IntelA Processors","Server",114,22,5339,30,37.5,130,1.54,85,"Yes",2.5
+"IntelA Processors","Server",114,22,6451,30,37.5,155,1.54,85,"Yes",2.8
+"IntelA Processors","Server",114,22,1223,12,12,105,1.54,68,"Yes",1.9
+"IntelA Processors","Server",114,22,1446,16,16,105,1.54,68,"Yes",2
+"IntelA Processors","Server",114,22,2059,20,20,105,1.54,68,"Yes",2.2
+"IntelA Processors","Server",114,22,2837,24,24,105,1.54,68,"Yes",2.3
+"IntelA Processors","Server",114,22,3838,24,30,130,1.54,85,"Yes",2.6
+"IntelA Processors","Server",114,22,4394,30,30,130,1.54,85,"Yes",2.3
+"IntelA Processors","Server",114,22,5506,30,37.5,130,1.54,85,"Yes",2.5
+"IntelA Processors","Server",114,22,6619,30,37.5,155,1.54,85,"Yes",2.8
+"IntelA Processors","Server",114,22,6841,12,37.5,155,1.54,85,"Yes",3.4
+"IntelA Processors","Server",114,22,6841,20,37.5,155,1.54,85,"Yes",3.2
+"IntelA Processors","Server",114,22,6841,30,37.5,155,1.54,85,"Yes",2.8
+"IntelA Processors","Server",114,22,5729,30,37.5,105,1.54,85,"Yes",2.2
+"IntelA Processors","Server",114,22,5729,30,37.5,130,1.54,85,"Yes",2.5
+"IntelA Processors","Server",114,22,4616,30,30,130,1.54,85,"Yes",2.3
+"IntelA Processors","Server",114,22,3838,12,30,130,1.54,85,"No",3
+"IntelA Processors","Server",114,22,3059,24,24,105,1.54,68,"Yes",2.3
+"IntelA Processors","Server",211,32,1334,16,18,105,1.02,51.2,"Yes",2
+"IntelA Processors","Server",211,32,1779,16,24,105,1.02,51.2,"Yes",2.13
+"IntelA Processors","Server",211,32,2558,20,24,130,1.02,51.2,"Yes",2
+"IntelA Processors","Server",211,32,3670,20,24,130,1.02,51.2,"Yes",2.26
+"IntelA Processors","Server",211,32,4227,20,30,130,1.02,85,"Yes",2.4
+"IntelA Processors","Server",211,32,890,12,18,95,2.05,34.1,"Yes",1.86
+"IntelA Processors","Server",211,32,1446,16,18,105,2.05,51.2,"Yes",2
+"IntelA Processors","Server",211,32,2059,16,24,105,2.05,51.2,"Yes",2.13
+"IntelA Processors","Server",211,32,2837,20,24,130,2.05,51.2,"Yes",2
+"IntelA Processors","Server",211,32,3838,20,24,130,2.05,51.2,"Yes",2.26
+"IntelA Processors","Server",211,32,4394,20,30,130,2.05,85,"Yes",2.4
+"IntelA Processors","Server",211,32,2280,16,24,105,4.1,51.2,"Yes",2.13
+"IntelA Processors","Server",211,32,2280,8,24,130,4.1,51.2,"No",2.66
+"IntelA Processors","Server",211,32,3059,20,24,130,4.1,51.2,"Yes",2
+"IntelA Processors","Server",211,32,4061,20,24,130,4.1,51.2,"Yes",2.26
+"IntelA Processors","Server",211,32,4172,20,30,105,4.1,68,"Yes",2.13
+"IntelA Processors","Server",211,32,4616,20,30,130,4.1,85,"Yes",2.4
+"4th - 6th Generations","Mobile",115,14,393,4,4,15,16,25.6,"Yes",2.6
+"4th - 6th Generations","Mobile",115,14,426,4,4,15,16,25.6,"Yes",2.2
+"4th - 6th Generations","Desktop",215,14,363,8,6,65,32,25.6,"Yes",3.3
+"4th - 6th Generations","Desktop",215,14,348,8,6,65,32,29.86,"Yes",3.3
+"4th - 6th Generations","Mobile",215,14,378,8,6,47,32,25.6,"Yes",2.7
+"4th - 6th Generations","Embedded",215,14,378,8,6,47,32,25.6,"Yes",2.6
+"4th - 6th Generations","Mobile",215,14,434,8,6,47,32,25.6,"Yes",2.5
+"4th - 6th Generations","Embedded",215,14,435,8,6,47,32,25.6,"Yes",2.7
+"4th - 6th Generations","Mobile",215,14,434,8,6,47,32,25.6,"Yes",2.7
+"4th - 6th Generations","Mobile",215,14,623,8,6,47,32,25.6,"Yes",2.9
+"4th - 6th Generations","Mobile",115,14,393,4,4,15,16,25.6,"Yes",2.4
+"4th - 6th Generations","Mobile",315,14,281,4,4,4.5,16,29.8,"Yes",0.9
+"4th - 6th Generations","Desktop",415,14,117,4,3,54,64,34.1,"Yes",3.6
+"4th - 6th Generations","Mobile",315,14,304,4,4,28,32,34.1,"Yes",3.1
+"4th - 6th Generations","Mobile",315,14,304,4,4,28,32,34.1,"Yes",2.9
+"7th Generation","Mobile",316,14,281,4,4,4.5,16,29.8,"Yes",1
+"7th Generation","Mobile",117,14,225,4,3,35,64,34.1,"Yes",3
+"7th Generation","Mobile",316,14,281,4,3,15,32,34.1,"Yes",2.4
+"7th Generation","Mobile",117,14,275,4,3,28,32,34.1,"Yes",2.8
+"7th Generation","Desktop",117,14,117,4,3,51,64,34.1,"Yes",3.9
+"7th Generation","Embedded",117,14,225,4,3,35,64,34.1,"Yes",2.9
+"7th Generation","Desktop",117,14,117,4,3,35,64,34.1,"Yes",3.4
+"7th Generation","Desktop",117,14,117,4,3,35,64,34.1,"Yes",3.4
+"7th Generation","Desktop",117,14,117,4,3,54,64,34.1,"Yes",3.9
+"7th Generation","Embedded",117,14,225,4,3,25,64,34.1,"Yes",2.1
+"7th Generation","Mobile",217,14,346,4,3,15,32,34.1,"Yes",2.7
+"7th Generation","Desktop",117,14,182,4,4,35,64,34.1,"Yes",3.5
+"7th Generation","Desktop",117,14,232,4,4,51,64,34.1,"Yes",4
+"7th Generation","Desktop",117,14,138,4,4,51,64,34.1,"Yes",4.1
+"7th Generation","Desktop",117,14,117,4,4,60,64,34.1,"Yes",4.2
+"7th Generation","Mobile",217,14,281,4,4,4.5,16,29.8,"Yes",1.1
+"4th - 6th Generations","Mobile",315,14,393,4,4,15,32,34.1,"Yes",2.5
+"4th - 6th Generations","Mobile",315,14,281,4,4,15,32,34.1,"Yes",2.2
+"4th - 6th Generations","Mobile",315,14,393,4,4,28,32,34.1,"Yes",3.3
+"4th - 6th Generations","Mobile",315,14,393,4,4,15,32,34.1,"Yes",2.6
+"4th - 6th Generations","Mobile",315,14,415,4,4,15,32,34.1,"Yes",2.2
+"4th - 6th Generations","Mobile",116,14,415,4,4,15,32,34.1,"Yes",2.4
+"4th - 6th Generations","Mobile",315,14,378,8,6,45,64,34.1,"Yes",2.6
+"4th - 6th Generations","Mobile",116,14,434,8,6,45,64,34.1,"Yes",2.6
+"4th - 6th Generations","Desktop",315,14,570,8,8,65,64,34.1,"Yes",3.4
+"4th - 6th Generations","Embedded",415,14,303,8,8,35,64,34.1,"Yes",2.4
+"4th - 6th Generations","Desktop",315,14,303,8,8,35,64,34.1,"Yes",2.8
+"4th - 6th Generations","Desktop",315,14,378,8,8,91,64,34.1,"Yes",4
+"4th - 6th Generations","Desktop",216,14,303,8,8,65,64,34.1,"Yes",3.3
+"4th - 6th Generations","Embedded",415,14,378,8,8,45,64,34.1,"Yes",2.8
+"4th - 6th Generations","Mobile",315,14,378,8,8,45,64,34.1,"Yes",2.7
+"4th - 6th Generations","Mobile",315,14,378,8,8,45,64,34.1,"Yes",2.7
+"4th - 6th Generations","Embedded",415,14,378,8,8,25,64,34.1,"Yes",2
+"4th - 6th Generations","Mobile",116,14,434,8,8,45,64,34.1,"Yes",2.7
+"4th - 6th Generations","Mobile",315,14,568,8,8,45,64,34.1,"Yes",2.9
+"4th - 6th Generations","Mobile",116,14,623,8,8,45,64,34.1,"Yes",2.8
+"4th - 6th Generations","Mobile",315,14,304,4,4,15,32,34.1,"Yes",1.8
+"4th - 6th Generations","Mobile",315,14,281,4,3,15,32,34.1,"Yes",2.3
+"4th - 6th Generations","Mobile",315,14,281,4,3,15,32,34.1,"Yes",2.4
+"4th - 6th Generations","Mobile",315,14,250,4,6,45,64,34.1,"No",2.3
+"4th - 6th Generations","Mobile",116,14,306,4,6,45,64,34.1,"No",2.3
+"4th - 6th Generations","Mobile",315,14,304,4,4,15,32,34.1,"Yes",2
+"4th - 6th Generations","Embedded",415,14,250,4,6,25,64,34.1,"No",1.9
+"4th - 6th Generations","Mobile",315,14,250,4,6,45,64,34.1,"No",2.6
+"4th - 6th Generations","Embedded",415,14,250,4,6,45,64,34.1,"No",2.7
+"4th - 6th Generations","Desktop",315,14,182,4,6,35,64,34.1,"No",2.2
+"4th - 6th Generations","Desktop",315,14,138,4,6,65,64,34.1,"No",2.7
+"4th - 6th Generations","Desktop",415,14,182,4,6,65,64,34.1,"No",2.8
+"4th - 6th Generations","Embedded",415,14,192,4,6,35,64,34.1,"No",2.3
+"4th - 6th Generations","Desktop",315,14,192,4,6,35,64,34.1,"No",2.5
+"4th - 6th Generations","Desktop",315,14,324,4,6,65,64,34.1,"No",3.2
+"4th - 6th Generations","Desktop",216,14,317,4,6,65,64,34.1,"No",2.8
+"4th - 6th Generations","Desktop",315,14,213,4,6,35,64,34.1,"No",2.7
+"4th - 6th Generations","Desktop",315,14,205,4,6,91,64,34.1,"No",3.5
+"4th - 6th Generations","Desktop",216,14,213,4,6,65,64,34.1,"No",3.2
+"4th - 6th Generations","Desktop",315,14,235,4,6,65,64,34.1,"No",3.3
+"4th - 6th Generations","Mobile",416,14,281,4,3,15,32,34.1,"Yes",2
+"4th - 6th Generations","Embedded",415,14,117,4,4,35,64,34.1,"Yes",2.7
+"4th - 6th Generations","Desktop",315,14,117,4,3,35,64,34.1,"Yes",3.2
+"4th - 6th Generations","Desktop",315,14,117,4,3,51,64,34.1,"Yes",3.7
+"4th - 6th Generations","Mobile",315,14,304,4,3,28,32,34.1,"Yes",2.7
+"4th - 6th Generations","Mobile",316,14,304,4,3,28,32,34.1,"Yes",2.4
+"4th - 6th Generations","Embedded",415,14,225,4,3,25,64,34.1,"Yes",1.9
+"4th - 6th Generations","Mobile",315,14,281,4,3,15,32,34.1,"Yes",2.3
+"4th - 6th Generations","Mobile",315,14,225,4,3,35,64,34.1,"Yes",2.7
+"4th - 6th Generations","Desktop",315,14,117,4,4,51,64,34.1,"Yes",3.9
+"4th - 6th Generations","Desktop",315,14,138,4,4,35,64,34.1,"Yes",3.3
+"4th - 6th Generations","Embedded",415,14,225,4,3,35,64,34.1,"Yes",2.7
+"4th - 6th Generations","Desktop",315,14,179,4,4,51,64,34.1,"Yes",3.8
+"4th - 6th Generations","Mobile",315,14,281,4,4,4.5,16,29.8,"Yes",1.1
+"4th - 6th Generations","Mobile",315,14,281,4,4,4.5,16,29.8,"Yes",1.1
+"4th - 6th Generations","Mobile",315,14,393,4,4,4.5,16,29.8,"Yes",1.2
+"4th - 6th Generations","Mobile",115,14,426,4,4,15,16,25.6,"Yes",2
+"4th - 6th Generations","Mobile",115,14,426,4,4,28,16,25.6,"Yes",3.1
