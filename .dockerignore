@@ -1,0 +1,15 @@
+.git
+.archive
+archive
+.idea
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.DS_Store
+mlruns
+mlflow.db
+outputs/runs
+outputs/temp_ingest_*.csv
+feature_store/runs
+feature_store/*_features_*.csv

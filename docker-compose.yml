@@ -1,0 +1,25 @@
+services:
+  api-server:
+    build: .
+    container_name: hardware_mlops_api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./models:/app/models
+      - ./feature_store:/app/feature_store
+      - ./outputs:/app/outputs
+      - ./data:/app/data
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow-server:5000
+      - MLFLOW_PUBLIC_URL=http://localhost:5001
+    restart: always
+
+  mlflow-server:
+    image: ghcr.io/mlflow/mlflow:v2.14.1
+    container_name: hardware_mlflow_server
+    ports:
+      - "5001:5000"
+    command: mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri sqlite:///mlflow.db --default-artifact-root /app/outputs/mlflow_artifacts
+    volumes:
+      - ./outputs:/app/outputs
+    restart: always

@@ -1,0 +1,49 @@
+pipeline:
+  cpu:
+    domain_key: "cpu"
+    raw_filepath: "data/raw/Intel_CPUs.csv"
+    target_col: "Processor_Base_Frequency"
+    min_r2: 0.70
+    max_rmse: 0.50
+  gpu:
+    domain_key: "gpu"
+    raw_filepath: "data/raw/All_GPUs.csv"
+    target_col: "Core_Speed"
+    min_r2: 0.60
+    max_rmse: 300.0
+
+directories:
+  data_raw: "data/raw"
+  feature_store: "feature_store"
+  models: "models"
+  outputs: "outputs"
+
+evaluation:
+  cv_folds: 5
+  random_state: 42
+  selection_metric: "CV_R2_Mean"
+  split_strategy: "temporal"
+  holdout_fraction: 0.20
+
+objectives:
+  cpu:
+    primary: "CV_R2_Mean"
+    tie_breaker: "CV_RMSE_Mean"
+    max_mape_percent: 35.0
+  gpu:
+    primary: "CV_R2_Mean"
+    tie_breaker: "CV_RMSE_Mean"
+    max_mape_percent: 15.0
+
+strategies:
+  - "linear_regression"
+  - "ridge"
+  - "lasso"
+  - "elastic_net"
+  - "bayesian_ridge"
+  - "huber"
+  - "ransac"
+  - "tweedie"
+  - "random_forest"
+  - "gradient_boosting"
+  - "extra_trees"

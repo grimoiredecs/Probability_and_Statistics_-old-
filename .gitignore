@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+mlruns/
+mlflow.db
+outputs/
+outputs/temp_ingest_*.csv
+feature_store/
+models/*.joblib
+models/registry.json

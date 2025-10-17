@@ -1,0 +1,30 @@
+[project]
+name = "statistical-learning-approach-to-computer-benchmarking"
+version = "2.0.0"
+description = "Hardware Benchmarking MLOps System (Mark Richards Pipes & Filters Architecture)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.0",
+    "joblib>=1.4.2",
+    "matplotlib>=3.9.0",
+    "mlflow>=2.14.0",
+    "numpy>=2.0.0",
+    "pandas>=2.2.0",
+    "pyarrow>=18.0.0",
+    "python-multipart>=0.0.32",
+    "pyyaml>=6.0.2",
+    "scikit-learn>=1.5.0",
+    "seaborn>=0.13.2",
+    "uvicorn>=0.30.0",
+]
+
+[dependency-groups]
+dev = [
+    "httpx>=0.28.1",
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
