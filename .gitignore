@@ -11,3 +11,5 @@ outputs/temp_ingest_*.csv
 feature_store/
 models/*.joblib
 models/registry.json
+implementation_plan.md
+AGENTS.md
